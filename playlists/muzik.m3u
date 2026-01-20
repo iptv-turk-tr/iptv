@@ -1,5 +1,3 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="a2" tvg-name="A2 4K+" tvg-logo="https://via.placeholder.com/300x300?text=A2" group-title="Müzik","A2 4K+"
-http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/3067
-#EXTINF:-1 tvg-id="a2hd" tvg-name="A2 HD" tvg-logo="https://via.placeholder.com/300x300?text=A2+HD" group-title="Müzik","A2 HD"
-http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/3066
+#EXTINF:-1 tvg-id="TRTMuzik.tr",TRT Müzik (720p)
+https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
