@@ -2,6 +2,22 @@
 
 > **Tamamen Ücretsiz • Açık Kaynak • Hiçbir Reklam • Herkese Açık**
 
+## ⚙️ GITHUB PAGES KURULUMU
+
+**Lütfen aşağıdaki adımları izleyin:**
+
+1. Repository'e git: `https://github.com/iptv-turk-tr/iptv`
+2. **Settings** → **Pages**
+3. **Source**: `Deploy from a branch`
+4. **Branch**: `main` ve Folder: `/ (root)`
+5. **Save** basın
+
+Birkaç dakika sonra site yayına alınacak:
+- 🌐 **Web Site**: `https://iptv-turk-tr.github.io`
+- 📺 **Dashboard**: `https://iptv-turk-tr.github.io/dashboard.html`
+
+---
+
 [🌐 Web Sitesini Ziyaret Et](https://iptv-turk-tr.github.io)
 
 ---
