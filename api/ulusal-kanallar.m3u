@@ -1,0 +1,37 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="TRT1.tr" tvg-name="TRT 1 4K+" group-title="Ulusal Kanallar","TRT 1 4K+"
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/2838
+#EXTINF:-1 tvg-id="ATV.tr" tvg-name="ATV 4K+" group-title="Ulusal Kanallar","ATV 4K+"
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/3054
+#EXTINF:-1 tvg-id="ShowTV.tr" tvg-name="SHOW TV 4K+" group-title="Ulusal Kanallar","SHOW TV 4K+"
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/2874
+#EXTINF:-1 tvg-id="KanalD.tr" tvg-name="KANAL D 4K+" group-title="Ulusal Kanallar","KANAL D 4K+"
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/2945
+#EXTINF:-1 tvg-id="StarTV.tr" tvg-name="STAR TV 4K+" group-title="Ulusal Kanallar","STAR TV 4K+"
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/2855
+#EXTINF:-1 tvg-id="Fox" tvg-name="NOW TV 4K+" group-title="Ulusal Kanallar","NOW TV 4K+"
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/2977
+#EXTINF:-1 tvg-id="TV8.tr" tvg-name="TV 8 4K+" group-title="Ulusal Kanallar","TV 8 4K+"
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/2815
+#EXTINF:-1 tvg-id="TRT 1 HD" tvg-name="TRT 1 HD" group-title="Ulusal Kanallar","TRT 1 HD"
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/2837
+#EXTINF:-1 tvg-id="ATV" tvg-name="ATV HD" group-title="Ulusal Kanallar","ATV HD"
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/3052
+#EXTINF:-1 tvg-id="Kanal D" tvg-name="KANAL D HD" group-title="Ulusal Kanallar","KANAL D HD"
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/2944
+#EXTINF:-1 tvg-id="Göster" tvg-name="SHOW TV HD" group-title="Ulusal Kanallar","SHOW TV HD"
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/2873
+#EXTINF:-1 tvg-id="Show" tvg-name="SHOW TURK HD" group-title="Ulusal Kanallar","SHOW TURK HD"
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/2876
+#EXTINF:-1 tvg-id="STAR TV" tvg-name="STAR TV HD" group-title="Ulusal Kanallar","STAR TV HD"
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/2854
+#EXTINF:-1 tvg-id="Fox" tvg-name="NOW TV HD" group-title="Ulusal Kanallar","NOW TV HD"
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/2976
+#EXTINF:-1 tvg-id="BEYAZ TV" tvg-name="BEYAZ TV HD" group-title="Ulusal Kanallar","BEYAZ TV HD"
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/3016
+#EXTINF:-1 tvg-id="Kanal 7" tvg-name="KANAL 7 HD" group-title="Ulusal Kanallar","KANAL 7 HD"
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/2949
+#EXTINF:-1 tvg-id="TV8" tvg-name="TV 8 HD" group-title="Ulusal Kanallar","TV 8 HD"
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/2814
+#EXTINF:-1 tvg-id="A2 HD" tvg-name="A2 HD" group-title="Ulusal Kanallar","A2 HD"
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/3066

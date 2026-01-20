@@ -1,0 +1,223 @@
+{
+  "user": {
+    "username": "iptv-turk",
+    "password": "iptv2026",
+    "auth": 1,
+    "status": "Active",
+    "exp_date": "0",
+    "is_trial": 0,
+    "active_cons": "1",
+    "created_at": 1609459200,
+    "max_connections": "10"
+  },
+  "server_info": {
+    "name": "IPTV TURK",
+    "url": "https://iptv-turk-tr.github.io",
+    "website_url": "https://iptv-turk-tr.github.io",
+    "port": 80,
+    "https_port": 443,
+    "server_protocol": "http",
+    "rtmp_port": 1935,
+    "timezone": "Europe/Istanbul",
+    "timestamp_now": 1739980800,
+    "time_now": "2026-01-20 12:00:00"
+  },
+  "categories": [
+    {
+      "category_id": "1",
+      "category_name": "Ulusal Kanallar",
+      "category_name_en": "National Channels"
+    },
+    {
+      "category_id": "2",
+      "category_name": "Yerel Kanallar",
+      "category_name_en": "Local Channels"
+    },
+    {
+      "category_id": "3",
+      "category_name": "Eğitim",
+      "category_name_en": "Education"
+    },
+    {
+      "category_id": "4",
+      "category_name": "Spor",
+      "category_name_en": "Sports"
+    },
+    {
+      "category_id": "5",
+      "category_name": "Belgesel",
+      "category_name_en": "Documentary"
+    },
+    {
+      "category_id": "6",
+      "category_name": "Çocuk",
+      "category_name_en": "Kids"
+    },
+    {
+      "category_id": "7",
+      "category_name": "Müzik",
+      "category_name_en": "Music"
+    },
+    {
+      "category_id": "8",
+      "category_name": "Film",
+      "category_name_en": "Movies"
+    }
+  ],
+  "channels": [
+    {
+      "num": 1,
+      "name": "TRT 1 4K+",
+      "name_en": "TRT 1 4K+",
+      "stream_type": "live",
+      "stream_id": "trt1-4k",
+      "stream_icon": "https://via.placeholder.com/300x300?text=TRT+1",
+      "epg_channel_id": "TRT1.tr",
+      "added": "2026-01-20",
+      "category_id": "1",
+      "category_name": "Ulusal Kanallar",
+      "bitrate": "8000",
+      "is_adult": 0
+    },
+    {
+      "num": 2,
+      "name": "ATV 4K+",
+      "name_en": "ATV 4K+",
+      "stream_type": "live",
+      "stream_id": "atv-4k",
+      "stream_icon": "https://via.placeholder.com/300x300?text=ATV",
+      "epg_channel_id": "ATV.tr",
+      "added": "2026-01-20",
+      "category_id": "1",
+      "category_name": "Ulusal Kanallar",
+      "bitrate": "8000",
+      "is_adult": 0
+    },
+    {
+      "num": 3,
+      "name": "SHOW TV 4K+",
+      "name_en": "SHOW TV 4K+",
+      "stream_type": "live",
+      "stream_id": "showtv-4k",
+      "stream_icon": "https://via.placeholder.com/300x300?text=SHOW+TV",
+      "epg_channel_id": "ShowTV.tr",
+      "added": "2026-01-20",
+      "category_id": "1",
+      "category_name": "Ulusal Kanallar",
+      "bitrate": "8000",
+      "is_adult": 0
+    },
+    {
+      "num": 4,
+      "name": "KANAL D 4K+",
+      "name_en": "KANAL D 4K+",
+      "stream_type": "live",
+      "stream_id": "kanald-4k",
+      "stream_icon": "https://via.placeholder.com/300x300?text=KANAL+D",
+      "epg_channel_id": "KanalD.tr",
+      "added": "2026-01-20",
+      "category_id": "1",
+      "category_name": "Ulusal Kanallar",
+      "bitrate": "8000",
+      "is_adult": 0
+    },
+    {
+      "num": 5,
+      "name": "STAR TV 4K+",
+      "name_en": "STAR TV 4K+",
+      "stream_type": "live",
+      "stream_id": "startv-4k",
+      "stream_icon": "https://via.placeholder.com/300x300?text=STAR+TV",
+      "epg_channel_id": "StarTV.tr",
+      "added": "2026-01-20",
+      "category_id": "1",
+      "category_name": "Ulusal Kanallar",
+      "bitrate": "8000",
+      "is_adult": 0
+    },
+    {
+      "num": 6,
+      "name": "NOW TV 4K+",
+      "name_en": "NOW TV 4K+",
+      "stream_type": "live",
+      "stream_id": "nowtv-4k",
+      "stream_icon": "https://via.placeholder.com/300x300?text=NOW+TV",
+      "epg_channel_id": "Fox.tr",
+      "added": "2026-01-20",
+      "category_id": "1",
+      "category_name": "Ulusal Kanallar",
+      "bitrate": "8000",
+      "is_adult": 0
+    },
+    {
+      "num": 7,
+      "name": "TV 8 4K+",
+      "name_en": "TV 8 4K+",
+      "stream_type": "live",
+      "stream_id": "tv8-4k",
+      "stream_icon": "https://via.placeholder.com/300x300?text=TV+8",
+      "epg_channel_id": "TV8.tr",
+      "added": "2026-01-20",
+      "category_id": "1",
+      "category_name": "Ulusal Kanallar",
+      "bitrate": "8000",
+      "is_adult": 0
+    },
+    {
+      "num": 8,
+      "name": "TRT 1 HD",
+      "name_en": "TRT 1 HD",
+      "stream_type": "live",
+      "stream_id": "trt1-hd",
+      "stream_icon": "https://via.placeholder.com/300x300?text=TRT+1+HD",
+      "epg_channel_id": "TRT1.tr",
+      "added": "2026-01-20",
+      "category_id": "1",
+      "category_name": "Ulusal Kanallar",
+      "bitrate": "4000",
+      "is_adult": 0
+    },
+    {
+      "num": 9,
+      "name": "ATV HD",
+      "name_en": "ATV HD",
+      "stream_type": "live",
+      "stream_id": "atv-hd",
+      "stream_icon": "https://via.placeholder.com/300x300?text=ATV+HD",
+      "epg_channel_id": "ATV.tr",
+      "added": "2026-01-20",
+      "category_id": "1",
+      "category_name": "Ulusal Kanallar",
+      "bitrate": "4000",
+      "is_adult": 0
+    },
+    {
+      "num": 10,
+      "name": "Kanal Samsun",
+      "name_en": "Kanal Samsun",
+      "stream_type": "live",
+      "stream_id": "kanal-samsun",
+      "stream_icon": "https://via.placeholder.com/300x300?text=Kanal+Samsun",
+      "epg_channel_id": "",
+      "added": "2026-01-20",
+      "category_id": "2",
+      "category_name": "Yerel Kanallar",
+      "bitrate": "3000",
+      "is_adult": 0
+    },
+    {
+      "num": 11,
+      "name": "BRTV Karadeniz",
+      "name_en": "BRTV Karadeniz",
+      "stream_type": "live",
+      "stream_id": "brtv-karadeniz",
+      "stream_icon": "https://via.placeholder.com/300x300?text=BRTV",
+      "epg_channel_id": "",
+      "added": "2026-01-20",
+      "category_id": "2",
+      "category_name": "Yerel Kanallar",
+      "bitrate": "3000",
+      "is_adult": 0
+    }
+  ]
+}

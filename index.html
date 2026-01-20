@@ -1,0 +1,491 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>IPTV TURK - Profesyonel IPTV Platformu | Professional IPTV Platform</title>
+    <meta name="description" content="5000+ canlı TV kanalı. M3U ve Xtream Codes API. Türkçe/İngilizce. Tamamen ücretsiz ve açık kaynak.">
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: #333;
+            min-height: 100vh;
+        }
+        
+        .lang-toggle {
+            position: fixed;
+            top: 20px;
+            right: 20px;
+            z-index: 1000;
+            background: white;
+            padding: 10px 15px;
+            border-radius: 25px;
+            cursor: pointer;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+            font-weight: bold;
+        }
+        
+        .lang-toggle:hover {
+            transform: scale(1.05);
+        }
+        
+        .lang-toggle.active {
+            background: #667eea;
+            color: white;
+        }
+        
+        header {
+            background: rgba(0, 0, 0, 0.8);
+            color: white;
+            padding: 40px 20px;
+            text-align: center;
+            border-bottom: 3px solid #667eea;
+        }
+        
+        .header-title {
+            font-size: 3em;
+            margin-bottom: 10px;
+            text-shadow: 2px 2px 4px rgba(0,0,0,0.5);
+        }
+        
+        .header-subtitle {
+            font-size: 1.2em;
+            color: #ccc;
+        }
+        
+        .container {
+            max-width: 1200px;
+            margin: 40px auto;
+            padding: 0 20px;
+        }
+        
+        .features {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 20px;
+            margin-bottom: 40px;
+        }
+        
+        .feature {
+            background: white;
+            padding: 25px;
+            border-radius: 10px;
+            box-shadow: 0 4px 15px rgba(0,0,0,0.2);
+            text-align: center;
+            transition: transform 0.3s;
+        }
+        
+        .feature:hover {
+            transform: translateY(-5px);
+        }
+        
+        .feature-icon {
+            font-size: 2.5em;
+            margin-bottom: 15px;
+        }
+        
+        .feature h3 {
+            color: #667eea;
+            margin-bottom: 10px;
+        }
+        
+        .cta-section {
+            background: white;
+            padding: 40px;
+            border-radius: 10px;
+            box-shadow: 0 4px 15px rgba(0,0,0,0.2);
+            margin-bottom: 40px;
+            text-align: center;
+        }
+        
+        .cta-buttons {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 15px;
+            margin-top: 25px;
+        }
+        
+        .btn {
+            padding: 15px 30px;
+            font-size: 1em;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            font-weight: bold;
+            transition: all 0.3s;
+            text-decoration: none;
+            display: inline-block;
+        }
+        
+        .btn-primary {
+            background: #667eea;
+            color: white;
+        }
+        
+        .btn-primary:hover {
+            background: #764ba2;
+            transform: scale(1.05);
+        }
+        
+        .btn-secondary {
+            background: #f093fb;
+            color: white;
+        }
+        
+        .btn-secondary:hover {
+            background: #667eea;
+            transform: scale(1.05);
+        }
+        
+        .setup-section {
+            background: white;
+            padding: 40px;
+            border-radius: 10px;
+            box-shadow: 0 4px 15px rgba(0,0,0,0.2);
+            margin-bottom: 40px;
+        }
+        
+        .setup-item {
+            margin-bottom: 30px;
+            padding-bottom: 30px;
+            border-bottom: 1px solid #eee;
+        }
+        
+        .setup-item:last-child {
+            border-bottom: none;
+        }
+        
+        .setup-item h3 {
+            color: #667eea;
+            font-size: 1.5em;
+            margin-bottom: 15px;
+        }
+        
+        .setup-item ol {
+            margin-left: 20px;
+        }
+        
+        .setup-item li {
+            margin-bottom: 10px;
+            line-height: 1.6;
+        }
+        
+        .code-block {
+            background: #f5f5f5;
+            padding: 12px;
+            border-left: 4px solid #667eea;
+            margin: 10px 0;
+            font-family: 'Courier New', monospace;
+            border-radius: 3px;
+            overflow-x: auto;
+        }
+        
+        .legal {
+            background: #fff3cd;
+            padding: 20px;
+            border-radius: 10px;
+            margin-bottom: 40px;
+            border-left: 5px solid #ffc107;
+        }
+        
+        .legal h3 {
+            color: #856404;
+            margin-bottom: 10px;
+        }
+        
+        .legal p {
+            color: #856404;
+            line-height: 1.6;
+            margin-bottom: 8px;
+        }
+        
+        footer {
+            background: rgba(0, 0, 0, 0.8);
+            color: white;
+            text-align: center;
+            padding: 20px;
+            margin-top: 40px;
+        }
+        
+        .hidden {
+            display: none !important;
+        }
+        
+        .channels-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+            gap: 10px;
+            margin-top: 20px;
+        }
+        
+        .channel-item {
+            background: #f0f0f0;
+            padding: 10px;
+            border-radius: 5px;
+            text-align: center;
+            font-size: 0.9em;
+            cursor: pointer;
+            transition: all 0.2s;
+        }
+        
+        .channel-item:hover {
+            background: #667eea;
+            color: white;
+        }
+        
+        @media (max-width: 768px) {
+            .header-title {
+                font-size: 2em;
+            }
+            
+            .features {
+                grid-template-columns: 1fr;
+            }
+            
+            .lang-toggle {
+                top: 10px;
+                right: 10px;
+                padding: 8px 12px;
+                font-size: 0.9em;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="lang-toggle" id="langToggle">🌐 English</div>
+    
+    <header>
+        <div class="header-title">📺 IPTV TURK</div>
+        <div class="header-subtitle tr-text">Türkiye IPTV Kanalları - Tamamen Ücretsiz & Açık Kaynak</div>
+        <div class="header-subtitle en-text hidden">Turkish IPTV Channels - Completely Free & Open Source</div>
+    </header>
+    
+    <div class="container">
+        <!-- LEGAL NOTICE -->
+        <div class="legal">
+            <h3>⚠️ <span class="tr-text">YASAL UYARI / LEGAL NOTICE</span></h3>
+            <p class="tr-text"><strong>🎓 Eğitim Amaçlı Kullanım:</strong> Bu platform yalnızca eğitim ve araştırma amaçlı kullanılır. Ticari kullanım YASAKLANMIŞTIR.</p>
+            <p class="en-text hidden"><strong>🎓 Educational Use Only:</strong> This platform is for educational and research purposes only. Commercial use is PROHIBITED.</p>
+            
+            <p class="tr-text"><strong>📜 Telif Hakkı:</strong> Tüm içerik kendi sahiplerinin telif hakkı altındadır. Kullanıcılar tüm sorumluluğu taşır.</p>
+            <p class="en-text hidden"><strong>📜 Copyright:</strong> All content is copyrighted by their respective owners. Users are solely responsible.</p>
+            
+            <p class="tr-text"><strong>🔓 Açık Kaynak:</strong> Bu platform tamamen açık kaynaktır. Herkes kodu inceleyebilir ve geliştirebilir.</p>
+            <p class="en-text hidden"><strong>🔓 Open Source:</strong> This platform is completely open source. Anyone can inspect and improve the code.</p>
+            
+            <p class="tr-text"><strong>❌ Sorumluluk Reddi:</strong> Sahibi hiçbir yasal sorumluluğu kabul etmez.</p>
+            <p class="en-text hidden"><strong>❌ Disclaimer:</strong> The owner accepts no legal responsibility whatsoever.</p>
+        </div>
+        
+        <!-- FEATURES -->
+        <div class="features">
+            <div class="feature">
+                <div class="feature-icon">📡</div>
+                <h3 class="tr-text">5000+ Kanal</h3>
+                <h3 class="en-text hidden">5000+ Channels</h3>
+                <p class="tr-text">Türkiye'nin en popüler kanalları bir platformda</p>
+                <p class="en-text hidden">Turkey's most popular channels in one platform</p>
+            </div>
+            
+            <div class="feature">
+                <div class="feature-icon">🚀</div>
+                <h3 class="tr-text">Yüksek Hız</h3>
+                <h3 class="en-text hidden">Lightning Fast</h3>
+                <p class="tr-text">CDN ve direkt akışlarla kesintisiz izleme</p>
+                <p class="en-text hidden">Uninterrupted streaming with CDN & direct streams</p>
+            </div>
+            
+            <div class="feature">
+                <div class="feature-icon">🆓</div>
+                <h3 class="tr-text">Tamamen Ücretsiz</h3>
+                <h3 class="en-text hidden">100% Free</h3>
+                <p class="tr-text">Hiçbir reklam, hiçbir ücret, hiçbir kayıt</p>
+                <p class="en-text hidden">No ads, no fees, no registration</p>
+            </div>
+            
+            <div class="feature">
+                <div class="feature-icon">🔓</div>
+                <h3 class="tr-text">Açık Kaynak</h3>
+                <h3 class="en-text hidden">Open Source</h3>
+                <p class="tr-text">GitHub'da tamamen açık. Herkes göz atabilir</p>
+                <p class="en-text hidden">Completely open on GitHub. Everyone can review</p>
+            </div>
+            
+            <div class="feature">
+                <div class="feature-icon">📱</div>
+                <h3 class="tr-text">Her Cihazda Çalışır</h3>
+                <h3 class="en-text hidden">Works Everywhere</h3>
+                <p class="tr-text">VLC, Kodi, Perfect Player ve daha fazlası</p>
+                <p class="en-text hidden">VLC, Kodi, Perfect Player and more</p>
+            </div>
+            
+            <div class="feature">
+                <div class="feature-icon">🌍</div>
+                <h3 class="tr-text">M3U & API</h3>
+                <h3 class="en-text hidden">M3U & API</h3>
+                <p class="tr-text">Tüm IPTV oynatıcıları uyumlu</p>
+                <p class="en-text hidden">Compatible with all IPTV players</p>
+            </div>
+        </div>
+        
+        <!-- CTA SECTION -->
+        <div class="cta-section">
+            <h2 class="tr-text">🎬 Hemen Başla</h2>
+            <h2 class="en-text hidden">🎬 Get Started Now</h2>
+            <p class="tr-text" style="margin-top: 15px;">Aşağıdaki seçeneklerden birini seçerek izlemeye başla</p>
+            <p class="en-text hidden" style="margin-top: 15px;">Choose one of the options below to start watching</p>
+            
+            <div class="cta-buttons">
+                <button class="btn btn-primary" onclick="copyToClipboard('https://raw.githubusercontent.com/iptv-turk-tr/iptv/main/list')">
+                    <span class="tr-text">📋 M3U Kopyala</span>
+                    <span class="en-text hidden">📋 Copy M3U</span>
+                </button>
+                <a href="https://github.com/iptv-turk-tr/iptv" target="_blank" class="btn btn-secondary">
+                    <span class="tr-text">⭐ GitHub</span>
+                    <span class="en-text hidden">⭐ GitHub</span>
+                </a>
+            </div>
+        </div>
+        
+        <!-- SETUP GUIDE -->
+        <div class="setup-section">
+            <h2 style="text-align: center; margin-bottom: 30px;">
+                <span class="tr-text">📖 Nasıl Kurulur?</span>
+                <span class="en-text hidden">📖 How to Setup?</span>
+            </h2>
+            
+            <!-- VLC SETUP -->
+            <div class="setup-item">
+                <h3>🎬 VLC Media Player</h3>
+                <ol>
+                    <li class="tr-text">VLC'yi indirin: <strong>videolan.org</strong></li>
+                    <li class="tr-text">Menüden <strong>Medya → Açık Ağ Akışı</strong>'nı seçin</li>
+                    <li class="tr-text">Aşağıdaki URL'yi yapıştırın:</li>
+                </ol>
+                <div class="code-block">https://raw.githubusercontent.com/iptv-turk-tr/iptv/main/list</div>
+                <li class="tr-text" style="list-style: decimal; margin-left: 20px;">Oynat (▶️) düğmesine tıklayın</li>
+                
+                <ol style="margin-top: 20px;">
+                    <li class="en-text hidden">Download VLC: <strong>videolan.org</strong></li>
+                    <li class="en-text hidden">Go to <strong>Media → Open Network Stream</strong></li>
+                    <li class="en-text hidden">Paste this URL:</li>
+                </ol>
+                <li class="en-text hidden" style="list-style: decimal; margin-left: 20px; margin-top: 15px;">Click Play (▶️)</li>
+            </div>
+            
+            <!-- KODI SETUP -->
+            <div class="setup-item">
+                <h3>🎮 Kodi Media Center</h3>
+                <ol>
+                    <li class="tr-text">Kodi'de <strong>Eklentiler → PVR İstemcileri</strong> seçin</li>
+                    <li class="tr-text"><strong>IPTV Basit İstemci</strong>yi arayın ve kurun</li>
+                    <li class="tr-text">Eklenti ayarlarına gidip URL'yi yapıştırın:</li>
+                </ol>
+                <div class="code-block">https://raw.githubusercontent.com/iptv-turk-tr/iptv/main/list</div>
+                <li class="tr-text" style="list-style: decimal; margin-left: 20px;">Kaydet ve yeniden başlat</li>
+                
+                <ol style="margin-top: 20px;">
+                    <li class="en-text hidden">In Kodi, go to <strong>Add-ons → PVR Clients</strong></li>
+                    <li class="en-text hidden">Search for and install <strong>IPTV Simple Client</strong></li>
+                    <li class="en-text hidden">Go to addon settings and paste this URL:</li>
+                </ol>
+                <li class="en-text hidden" style="list-style: decimal; margin-left: 20px; margin-top: 15px;">Save and restart</li>
+            </div>
+            
+            <!-- PERFECT PLAYER SETUP -->
+            <div class="setup-item">
+                <h3>📱 Perfect Player</h3>
+                <ol>
+                    <li class="tr-text">Perfect Player'ı açın</li>
+                    <li class="tr-text"><strong>Çalma Listesi Ekle</strong> seçin</li>
+                    <li class="tr-text">Aşağıdaki URL'yi yapıştırın:</li>
+                </ol>
+                <div class="code-block">https://raw.githubusercontent.com/iptv-turk-tr/iptv/main/list</div>
+                <li class="tr-text" style="list-style: decimal; margin-left: 20px;">Tamam ✅</li>
+                
+                <ol style="margin-top: 20px;">
+                    <li class="en-text hidden">Open Perfect Player</li>
+                    <li class="en-text hidden">Select <strong>Add Playlist</strong></li>
+                    <li class="en-text hidden">Paste this URL:</li>
+                </ol>
+                <li class="en-text hidden" style="list-style: decimal; margin-left: 20px; margin-top: 15px;">Done ✅</li>
+            </div>
+        </div>
+        
+        <!-- API ENDPOINTS -->
+        <div class="setup-section">
+            <h2 style="text-align: center; margin-bottom: 30px;">
+                <span class="tr-text">🔌 API Uç Noktaları</span>
+                <span class="en-text hidden">🔌 API Endpoints</span>
+            </h2>
+            
+            <div class="setup-item">
+                <h3 class="tr-text">📥 M3U Oynatma Listesi</h3>
+                <h3 class="en-text hidden">📥 M3U Playlist</h3>
+                <div class="code-block">https://raw.githubusercontent.com/iptv-turk-tr/iptv/main/list</div>
+                <p class="tr-text">Tüm Türkçe kanallar - anında indir ve oynat</p>
+                <p class="en-text hidden">All Turkish channels - download and play instantly</p>
+            </div>
+            
+            <div class="setup-item">
+                <h3 class="tr-text">💾 Ham Dosya (Raw File)</h3>
+                <h3 class="en-text hidden">💾 Raw File</h3>
+                <div class="code-block">https://raw.githubusercontent.com/iptv-turk-tr/iptv/main/list</div>
+                <p class="tr-text">Teknik entegrasyonlar için doğrudan erişim</p>
+                <p class="en-text hidden">Direct access for technical integrations</p>
+            </div>
+        </div>
+    </div>
+    
+    <!-- FOOTER -->
+    <footer>
+        <p class="tr-text">❤️ ile yapıldı | Açık Kaynak | Sonsuza Kadar Ücretsiz</p>
+        <p class="en-text hidden">Made with ❤️ | Open Source | Free Forever</p>
+        <p style="margin-top: 10px; font-size: 0.9em; color: #999;">
+            <span class="tr-text">Telif Hakkı © 2026 - Tüm hakları saklıdır | Ticari kullanım yasak</span>
+            <span class="en-text hidden">Copyright © 2026 - All rights reserved | Commercial use prohibited</span>
+        </p>
+        <p style="margin-top: 10px; font-size: 0.9em;">
+            <a href="https://github.com/iptv-turk-tr/iptv" target="_blank" style="color: #667eea; text-decoration: none;">
+                GitHub Repository
+            </a>
+        </p>
+    </footer>
+    
+    <script>
+        // Language Toggle
+        document.getElementById('langToggle').addEventListener('click', function() {
+            document.querySelectorAll('.tr-text').forEach(el => el.classList.toggle('hidden'));
+            document.querySelectorAll('.en-text').forEach(el => el.classList.toggle('hidden'));
+            
+            const toggle = document.getElementById('langToggle');
+            if (toggle.textContent.includes('English')) {
+                toggle.textContent = '🌐 Türkçe';
+                toggle.classList.add('active');
+            } else {
+                toggle.textContent = '🌐 English';
+                toggle.classList.remove('active');
+            }
+        });
+        
+        // Copy to Clipboard
+        function copyToClipboard(text) {
+            navigator.clipboard.writeText(text).then(() => {
+                const btn = event.target;
+                const originalText = btn.innerHTML;
+                btn.innerHTML = '<span class="tr-text">✅ Kopyalandı!</span><span class="en-text hidden">✅ Copied!</span>';
+                setTimeout(() => {
+                    btn.innerHTML = originalText;
+                }, 2000);
+            });
+        }
+    </script>
+</body>
+</html>
