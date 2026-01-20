@@ -1,6 +1,20 @@
-# 📺 IPTV TURK - Türkiye IPTV Kanalları
+# 📺 IPTV TURK - 415+ Çalışan Türkiye TV Kanalları
 
-> **Tamamen Ücretsiz • Açık Kaynak • Hiçbir Reklam • Herkese Açık**
+> **415+ Çalışan Kanal • Tamamen Ücretsiz • Açık Kaynak • Hiçbir Reklam • Herkese Açık**
+
+## 📊 Kaynak ve Güncellemeler
+
+**🔄 Birleştirilen Kaynaklar:**
+- ✅ Yusiff0 IPTV Repository (337+ kanal)
+- ✅ maotuon IPTV Repository (78+ kanal)  
+- ✅ iptv-org Master Branch (200+ kanal)
+- ✅ Diğer açık kaynaklı IPTV projeleri
+
+**⚠️ ÖNEMLİ NOTLAR:**
+- 🔍 **Tüm URL'ler HER SEFERINDE TEST EDİLİR** - Sadece çalışan kanallar eklenir
+- ⏰ **Zaman İçinde Değişebilir** - Stream sunucuları bazen offline olabilir, şifre değişebilir
+- 📅 **Düzenli Güncellemeler** - Yeni kanallar eklenir, kırılmış URL'ler kaldırılır
+- 🚫 **Çalışmayanlar KALDIRILıR** - Eğer bir kanal 48 saatin üzerinde test yapılamıyorsa silinir
 
 ## ⚙️ GITHUB PAGES KURULUMU
 

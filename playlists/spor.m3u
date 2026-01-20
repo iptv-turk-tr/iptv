@@ -1,31 +1,3 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="TRT SPOR" tvg-id="TRTSpor.tr" tvg-logo="https://i.ibb.co/WxD4PLG/trt-spor.png" group-title="SPOR",TRT SPOR
-https://tv-trtspor1.medya.trt.com.tr/master_720.m3u8
-#EXTINF:-1 tvg-name="beIN SPORTS HABER" tvg-id="beINSportsHaber.tr" tvg-id="beIN SPORTS HABER" tvg-logo="https://i.ibb.co/GdkQ5mY/bein-sports-haber.png" group-title="SPOR",beIN SPORTS HABER
-https://tgn.bozztv.com/dvrfl05/gin-beinsportshaber/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="A SPOR" tvg-id="ASpor.tr" tvg-logo="https://i.ibb.co/rwnrgFV/a-spor.png" group-title="SPOR",A SPOR
-https://c.fulltvizle.com/aspor/index.m3u8
-#EXTINF:-1 tvg-name="TRT SPOR YILDIZ" tvg-id="TRTSporYildiz.tr" tvg-logo="https://i.ibb.co/YRgKcDn/trt-spor-yildiz.png" group-title="SPOR",TRT SPOR YILDIZ
-https://tv-trtspor2.medya.trt.com.tr/master_720.m3u8
-#EXTINF:-1 tvg-id="ASpor.tr",A Spor (720p)
-https://tgn.bozztv.com/dvrfl05/gin-aspor/index.m3u8
-#EXTINF:-1 tvg-id="ASpor.tr",A Spor (360p) [Not 24/7]
-https://c.fulltvizle.com/aspor/index.m3u8
-#EXTINF:-1 tvg-id="HTSporTV.tr",HTSpor TV (1080p)
-http://185.234.111.229:8000/play/a016
-#EXTINF:-1 tvg-id="NTVSpor.tr",NTV Spor
-http://46.4.193.238:8484/hls/ntvspor/playlist.m3u8
-#EXTINF:-1 tvg-id="SSport.tr",S Sport
-https://bcovlive-a.akamaihd.net/540fcb034b144b848e7ff887f61a293a/eu-central-1/6415845530001/profile_0/chunklist.m3u8
-#EXTINF:-1 tvg-id="SSport2.tr",S Sport 2
-https://bcovlive-a.akamaihd.net/29c60f23ea4840ba8726925a77fcfd0b/eu-central-1/6415845530001/profile_0/chunklist.m3u8
 #EXTINF:-1 tvg-id="SportsTV.tr",Sports TV (720p) [Geo-blocked]
 https://live.sportstv.com.tr/hls/low/sportstv.m3u8
-#EXTINF:-1 tvg-id="TabiiSpor6.tr",Tabii Spor 6 (720p) [Geo-blocked]
-https://vbtob9hyq58eiophct5qctxr2.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="TRTSpor.tr",TRT Spor (1080p)
-http://185.234.111.229:8000/play/a00e
-#EXTINF:-1 tvg-id="TRTSpor.tr",TRT Spor (1080p) [Geo-blocked]
-https://tv-trtspor1.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="TRTSporYildiz.tr",TRT Spor Yildiz (1080p) [Geo-blocked]
-https://tv-trtspor2.medya.trt.com.tr/master.m3u8
