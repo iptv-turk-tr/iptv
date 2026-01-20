@@ -1,20 +1,31 @@
-# 📺 IPTV TURK - 415+ Çalışan Türkiye TV Kanalları
+# 📺 IPTV TURK - 181 TEST EDİLMİŞ Çalışan Türkiye TV Kanalları
 
-> **415+ Çalışan Kanal • Tamamen Ücretsiz • Açık Kaynak • Hiçbir Reklam • Herkese Açık**
+> **181 Çalışan Kanal • Tamamen Ücretsiz • Açık Kaynak • Hiçbir Reklam • Herkese Açık**
 
 ## 📊 Kaynak ve Güncellemeler
 
 **🔄 Birleştirilen Kaynaklar:**
-- ✅ Yusiff0 IPTV Repository (337+ kanal)
-- ✅ maotuon IPTV Repository (78+ kanal)  
-- ✅ iptv-org Master Branch (200+ kanal)
+- ✅ **Yusiff0** IPTV Repository (337+ kanal)
+- ✅ **maotuon** IPTV Repository (78+ kanal)  
+- ✅ **iptv-org** Repository (200+ kanal)
 - ✅ Diğer açık kaynaklı IPTV projeleri
 
+**📈 Mevcut Durum:**
+```
+Ulusal Kanallar:  174 ✅
+Spor Kanalları:     1 ✅
+Belgesel:            2 ✅
+Çocuk Programları:   3 ✅
+Müzik:               1 ✅
+─────────────────────────
+TOPLAM:           181 ✅ ÇALIŞAN
+```
+
 **⚠️ ÖNEMLİ NOTLAR:**
-- 🔍 **Tüm URL'ler HER SEFERINDE TEST EDİLİR** - Sadece çalışan kanallar eklenir
-- ⏰ **Zaman İçinde Değişebilir** - Stream sunucuları bazen offline olabilir, şifre değişebilir
-- 📅 **Düzenli Güncellemeler** - Yeni kanallar eklenir, kırılmış URL'ler kaldırılır
-- 🚫 **Çalışmayanlar KALDIRILıR** - Eğer bir kanal 48 saatin üzerinde test yapılamıyorsa silinir
+- 🔍 **TÜMÜ TEST EDİLDİ** - Her kanal HTTP 200/206 döndüğünü doğrulanmıştır
+- 🚫 **Çalışmayanlar TAŞINMAZ** - Eğer bir kanal test yapılamıyorsa silinir
+- ⏰ **Zaman İçinde Değişebilir** - Stream sunucuları offline olabilir, şifreler değişebilir
+- 📅 **Düzenli Temizlik** - Kırılmış URL'ler her güncelleme sırasında kaldırılır
 
 ## ⚙️ GITHUB PAGES KURULUMU
 
@@ -70,7 +81,7 @@ https://raw.githubusercontent.com/iptv-turk-tr/iptv/main/api/xtream-portal.html
 
 IPTV TURK, Türkiye'nin en popüler TV kanallarının M3U formatında sunulduğu, **tamamen açık kaynak ve ücretsiz** bir IPTV platformudur.
 
-- ✅ **5000+ Kanal** - Ulusal ve yerel tüm kanallar
+- ✅ **181 Çalışan Kanal** - Hepsi test edilmiştir
 - ✅ **M3U Format** - VLC, Kodi, Perfect Player ile uyumlu
 - ✅ **Ücretsiz** - Hiçbir ücret, hiçbir reklam
 - ✅ **Açık Kaynak** - GitHub'da tamamen açık
@@ -127,9 +138,13 @@ https://raw.githubusercontent.com/iptv-turk-tr/iptv/main/list
 
 | Metrik | Değer |
 |--------|-------|
-| **Toplam Kanal** | 5000+ |
-| **Ulusal Kanal** | 50+ |
-| **Yerel Kanal** | 250+ |
+| **Çalışan Kanallar** | 181 ✅ |
+| **Ulusal Kanal** | 174 |
+| **Spor Kanalları** | 1 |
+| **Belgesel** | 2 |
+| **Çocuk** | 3 |
+| **Müzik** | 1 |
+| **Test Durumu** | Tamamlanmış ✅ |
 
 ---
 
