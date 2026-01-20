@@ -1,0 +1,11 @@
+theme: none
+plugins:
+  - jekyll-redirect-from
+
+include:
+  - ".nojekyll"
+
+exclude:
+  - ".github"
+  - ".gitignore"
+  - "README.md"
