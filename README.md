@@ -4,17 +4,47 @@
 
 ## ⚙️ GITHUB PAGES KURULUMU
 
-**Lütfen aşağıdaki adımları izleyin:**
+**⚠️ MANUEL SETUP GEREKLI - AŞAĞIĐAKI ADIMLAR GEREKLI:**
 
-1. Repository'e git: `https://github.com/iptv-turk-tr/iptv`
-2. **Settings** → **Pages**
-3. **Source**: `Deploy from a branch`
-4. **Branch**: `main` ve Folder: `/ (root)`
-5. **Save** basın
+1. Şu URL'ye git: `https://github.com/iptv-turk-tr/iptv/settings/pages`
+2. **Source** bölümünde:
+   - Dropdown: `Deploy from a branch` seç
+   - **Branch**: `main`
+   - **Folder**: `/ (root)`
+3. **Save** tuşuna bas
 
 Birkaç dakika sonra site yayına alınacak:
 - 🌐 **Web Site**: `https://iptv-turk-tr.github.io`
 - 📺 **Dashboard**: `https://iptv-turk-tr.github.io/dashboard.html`
+
+---
+
+## 📥 RAW URLs (Şu Anda Çalışıyor!)
+
+GitHub Pages kurulumundan önce bile, RAW URL'ler anında oynatılabilir:
+
+### Ana M3U Listesi
+```
+https://raw.githubusercontent.com/iptv-turk-tr/iptv/main/list.m3u
+```
+
+### Kategorilere Göre
+- Ulusal Kanallar: `https://raw.githubusercontent.com/iptv-turk-tr/iptv/main/playlists/ulusal.m3u`
+- Yerel Kanallar: `https://raw.githubusercontent.com/iptv-turk-tr/iptv/main/playlists/yerel.m3u`
+- Spor: `https://raw.githubusercontent.com/iptv-turk-tr/iptv/main/playlists/spor.m3u`
+- Belgesel: `https://raw.githubusercontent.com/iptv-turk-tr/iptv/main/playlists/belgesel.m3u`
+- Çocuk: `https://raw.githubusercontent.com/iptv-turk-tr/iptv/main/playlists/cocuk.m3u`
+- Film: `https://raw.githubusercontent.com/iptv-turk-tr/iptv/main/playlists/film.m3u`
+- Müzik: `https://raw.githubusercontent.com/iptv-turk-tr/iptv/main/playlists/muzik.m3u`
+
+### Xtream Portal
+```
+https://raw.githubusercontent.com/iptv-turk-tr/iptv/main/api/xtream-portal.html
+```
+
+**Hesaplar:**
+- Kullanıcı: `iptv-turk` | Şifre: `iptv2026`
+- Kullanıcı: `soylu` | Şifre: `soylu123`
 
 ---
 
