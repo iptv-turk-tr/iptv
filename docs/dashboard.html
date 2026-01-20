@@ -1,0 +1,690 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>IPTV TURK - Profesyonel IPTV Platformu | Professional IPTV Platform</title>
+    <meta name="description" content="5000+ canlı TV kanalı. M3U ve Xtream Codes API. Türkçe/İngilizce. Tamamente ücretsiz ve açık kaynak.">
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        :root {
+            --primary: #667eea;
+            --secondary: #764ba2;
+            --dark: #1a1a1a;
+            --light: #f5f5f5;
+            --border: #e0e0e0;
+            --text-dark: #333;
+            --text-light: #999;
+        }
+        
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: var(--light);
+            color: var(--text-dark);
+            transition: 0.3s;
+        }
+        
+        body.dark-mode {
+            background: #0a0e27;
+            color: #f0f0f0;
+            --text-dark: #f0f0f0;
+            --text-light: #aaa;
+        }
+        
+        /* HEADER */
+        header {
+            background: linear-gradient(135deg, var(--primary) 0%, var(--secondary) 100%);
+            color: white;
+            padding: 30px 20px;
+            text-align: center;
+            box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+        }
+        
+        .header-content {
+            max-width: 1200px;
+            margin: 0 auto;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+        
+        .header-title {
+            font-size: 2.5em;
+            font-weight: 900;
+            text-shadow: 2px 2px 4px rgba(0,0,0,0.2);
+            flex: 1;
+            text-align: left;
+        }
+        
+        .header-controls {
+            display: flex;
+            gap: 15px;
+            align-items: center;
+        }
+        
+        .lang-toggle, .theme-toggle {
+            background: rgba(255,255,255,0.2);
+            border: 2px solid white;
+            color: white;
+            padding: 10px 15px;
+            border-radius: 25px;
+            cursor: pointer;
+            font-weight: bold;
+            transition: all 0.3s;
+        }
+        
+        .lang-toggle:hover, .theme-toggle:hover {
+            background: rgba(255,255,255,0.3);
+            transform: scale(1.05);
+        }
+        
+        .container {
+            max-width: 1400px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        
+        /* LEGAL NOTICE */
+        .legal-notice {
+            background: linear-gradient(135deg, #fff3cd 0%, #ffeaa7 100%);
+            padding: 20px;
+            border-radius: 10px;
+            margin: 20px 0;
+            border-left: 5px solid #ffc107;
+        }
+        
+        body.dark-mode .legal-notice {
+            background: linear-gradient(135deg, #3a3000 0%, #4a3f00 100%);
+            color: #ffc107;
+        }
+        
+        .legal-notice h3 {
+            margin-bottom: 10px;
+            font-size: 1.2em;
+        }
+        
+        .legal-notice p {
+            margin-bottom: 8px;
+            font-size: 0.95em;
+            line-height: 1.5;
+        }
+        
+        /* CATEGORIES */
+        .categories {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(120px, 1fr));
+            gap: 10px;
+            margin: 30px 0;
+        }
+        
+        .category-btn {
+            padding: 12px 15px;
+            border: 2px solid var(--primary);
+            background: white;
+            color: var(--primary);
+            border-radius: 8px;
+            cursor: pointer;
+            font-weight: bold;
+            transition: all 0.3s;
+        }
+        
+        body.dark-mode .category-btn {
+            background: #1a1a2e;
+            color: var(--primary);
+        }
+        
+        .category-btn:hover {
+            background: var(--primary);
+            color: white;
+            transform: translateY(-2px);
+        }
+        
+        .category-btn.active {
+            background: var(--primary);
+            color: white;
+        }
+        
+        /* CHANNELS GRID */
+        .channels-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+            gap: 15px;
+            margin: 30px 0;
+        }
+        
+        .channel-card {
+            background: white;
+            border-radius: 10px;
+            overflow: hidden;
+            box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+            transition: all 0.3s;
+            cursor: pointer;
+        }
+        
+        body.dark-mode .channel-card {
+            background: #1a1a2e;
+            box-shadow: 0 4px 15px rgba(0,0,0,0.3);
+        }
+        
+        .channel-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 8px 25px rgba(102, 126, 234, 0.3);
+        }
+        
+        .channel-icon {
+            width: 100%;
+            height: 120px;
+            background: linear-gradient(135deg, var(--primary) 0%, var(--secondary) 100%);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 2.5em;
+        }
+        
+        .channel-info {
+            padding: 15px;
+        }
+        
+        .channel-name {
+            font-weight: bold;
+            margin-bottom: 8px;
+            font-size: 0.95em;
+        }
+        
+        .channel-category {
+            color: var(--text-light);
+            font-size: 0.85em;
+            margin-bottom: 10px;
+        }
+        
+        .channel-actions {
+            display: flex;
+            gap: 8px;
+            margin-top: 10px;
+        }
+        
+        .channel-btn {
+            flex: 1;
+            padding: 8px;
+            border: none;
+            border-radius: 5px;
+            font-size: 0.85em;
+            font-weight: bold;
+            cursor: pointer;
+            transition: all 0.3s;
+        }
+        
+        .btn-play {
+            background: var(--primary);
+            color: white;
+        }
+        
+        .btn-play:hover {
+            background: var(--secondary);
+        }
+        
+        .btn-copy {
+            background: #f0f0f0;
+            color: var(--text-dark);
+            border: 1px solid var(--border);
+        }
+        
+        body.dark-mode .btn-copy {
+            background: #2a2a3e;
+            color: #f0f0f0;
+            border-color: #444;
+        }
+        
+        .btn-copy:hover {
+            background: #667eea;
+            color: white;
+            border-color: #667eea;
+        }
+        
+        /* API SECTION */
+        .api-section {
+            background: white;
+            padding: 30px;
+            border-radius: 10px;
+            margin: 40px 0;
+            box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+        }
+        
+        body.dark-mode .api-section {
+            background: #1a1a2e;
+            box-shadow: 0 4px 15px rgba(0,0,0,0.3);
+        }
+        
+        .api-item {
+            margin-bottom: 25px;
+            padding-bottom: 25px;
+            border-bottom: 1px solid var(--border);
+        }
+        
+        .api-item:last-child {
+            border-bottom: none;
+            margin-bottom: 0;
+            padding-bottom: 0;
+        }
+        
+        .api-item h3 {
+            color: var(--primary);
+            margin-bottom: 10px;
+            font-size: 1.2em;
+        }
+        
+        .code-block {
+            background: #f5f5f5;
+            padding: 15px;
+            border-left: 4px solid var(--primary);
+            border-radius: 5px;
+            font-family: 'Courier New', monospace;
+            font-size: 0.9em;
+            margin: 10px 0;
+            overflow-x: auto;
+            position: relative;
+        }
+        
+        body.dark-mode .code-block {
+            background: #0f0f1e;
+            color: #00ff00;
+        }
+        
+        .code-copy {
+            position: absolute;
+            top: 10px;
+            right: 10px;
+            background: var(--primary);
+            color: white;
+            border: none;
+            padding: 5px 10px;
+            border-radius: 3px;
+            cursor: pointer;
+            font-size: 0.85em;
+        }
+        
+        .code-copy:hover {
+            background: var(--secondary);
+        }
+        
+        /* CTA BUTTONS */
+        .cta-section {
+            background: white;
+            padding: 40px;
+            border-radius: 10px;
+            text-align: center;
+            margin: 30px 0;
+            box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+        }
+        
+        body.dark-mode .cta-section {
+            background: #1a1a2e;
+        }
+        
+        .cta-buttons {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+            gap: 15px;
+            margin-top: 25px;
+        }
+        
+        .btn-large {
+            padding: 15px 30px;
+            border: none;
+            border-radius: 8px;
+            font-size: 1em;
+            font-weight: bold;
+            cursor: pointer;
+            transition: all 0.3s;
+            text-decoration: none;
+            display: inline-block;
+        }
+        
+        .btn-primary-large {
+            background: linear-gradient(135deg, var(--primary) 0%, var(--secondary) 100%);
+            color: white;
+        }
+        
+        .btn-primary-large:hover {
+            transform: translateY(-3px);
+            box-shadow: 0 8px 20px rgba(102, 126, 234, 0.3);
+        }
+        
+        /* FOOTER */
+        footer {
+            background: linear-gradient(135deg, var(--primary) 0%, var(--secondary) 100%);
+            color: white;
+            text-align: center;
+            padding: 30px 20px;
+            margin-top: 40px;
+        }
+        
+        footer a {
+            color: white;
+            text-decoration: none;
+        }
+        
+        footer a:hover {
+            text-decoration: underline;
+        }
+        
+        .hidden {
+            display: none !important;
+        }
+        
+        /* RESPONSIVE */
+        @media (max-width: 768px) {
+            .header-content {
+                flex-direction: column;
+                gap: 20px;
+            }
+            
+            .header-title {
+                font-size: 2em;
+                text-align: center;
+            }
+            
+            .channels-grid {
+                grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+            }
+            
+            .categories {
+                grid-template-columns: repeat(auto-fit, minmax(100px, 1fr));
+            }
+            
+            .api-section {
+                padding: 20px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <div class="header-content">
+            <div class="header-title">📺 IPTV TURK</div>
+            <div class="header-controls">
+                <button class="lang-toggle" id="langToggle">🌐 English</button>
+                <button class="theme-toggle" id="themeToggle">🌙 Dark</button>
+            </div>
+        </div>
+    </header>
+    
+    <div class="container">
+        <!-- LEGAL NOTICE -->
+        <div class="legal-notice">
+            <h3 class="tr-text">⚠️ YASAL UYARI - EDUCATIONAL USE ONLY</h3>
+            <h3 class="en-text hidden">⚠️ LEGAL NOTICE - EĞİTİM AMAÇLI KULLLANIM</h3>
+            <p class="tr-text"><strong>🎓 Bu platform yalnızca eğitim ve araştırma amaçlıdır. Ticari kullanım YASAKLANMIŞTIR.</strong></p>
+            <p class="en-text hidden"><strong>🎓 This platform is for educational and research purposes only. Commercial use is PROHIBITED.</strong></p>
+            <p class="tr-text">📜 Tüm içerik kendi sahiplerinin telif hakkı altındadır. Kullanıcılar tüm sorumluluğu taşır.</p>
+            <p class="en-text hidden">📜 All content is copyrighted by their respective owners. Users are solely responsible.</p>
+        </div>
+        
+        <!-- SEARCH & FILTER -->
+        <div style="margin: 20px 0;">
+            <input type="text" id="searchInput" placeholder="Kanal ara... / Search channel..." 
+                   style="width: 100%; padding: 12px; border: 2px solid var(--primary); border-radius: 8px; font-size: 1em;">
+        </div>
+        
+        <!-- CATEGORIES -->
+        <div style="text-align: center; margin: 30px 0;">
+            <h2 class="tr-text">📂 KATEGORİLER</h2>
+            <h2 class="en-text hidden">📂 CATEGORIES</h2>
+        </div>
+        <div class="categories" id="categoriesContainer"></div>
+        
+        <!-- CHANNELS DISPLAY -->
+        <div style="text-align: center; margin: 30px 0;">
+            <h2 class="tr-text" id="channelsTitle">📺 TÜMDÜN KANALLAR</h2>
+            <h2 class="en-text hidden" id="channelsTitleEn">📺 ALL CHANNELS</h2>
+        </div>
+        <div class="channels-grid" id="channelsGrid"></div>
+        
+        <!-- CTA SECTION -->
+        <div class="cta-section">
+            <h2 class="tr-text">🚀 HEMEN BAŞLA</h2>
+            <h2 class="en-text hidden">🚀 GET STARTED NOW</h2>
+            <p class="tr-text" style="margin-top: 15px;">Aşağıdaki seçeneklerden birini seçerek izlemeye başla</p>
+            <p class="en-text hidden" style="margin-top: 15px;">Choose one of the options below to start watching</p>
+            
+            <div class="cta-buttons">
+                <button class="btn-large btn-primary-large" onclick="downloadM3U()">
+                    <span class="tr-text">📥 M3U İNDİR</span>
+                    <span class="en-text hidden">📥 DOWNLOAD M3U</span>
+                </button>
+                <button class="btn-large btn-primary-large" onclick="copyXtreamCodes()">
+                    <span class="tr-text">🔌 XTREAM CODES</span>
+                    <span class="en-text hidden">🔌 XTREAM CODES</span>
+                </button>
+                <a href="https://github.com/iptv-turk-tr/iptv" target="_blank" class="btn-large btn-primary-large">
+                    <span class="tr-text">⭐ GITHUB</span>
+                    <span class="en-text hidden">⭐ GITHUB</span>
+                </a>
+            </div>
+        </div>
+        
+        <!-- API SECTION -->
+        <div class="api-section">
+            <h2 style="text-align: center; margin-bottom: 30px;">
+                <span class="tr-text">🔌 API Uç Noktaları</span>
+                <span class="en-text hidden">🔌 API Endpoints</span>
+            </h2>
+            
+            <div class="api-item">
+                <h3 class="tr-text">📥 Ana M3U Listesi</h3>
+                <h3 class="en-text hidden">📥 Main M3U Playlist</h3>
+                <div class="code-block">
+                    https://raw.githubusercontent.com/iptv-turk-tr/iptv/main/list
+                    <button class="code-copy" onclick="copyCode(this)">📋 Kopyala</button>
+                </div>
+            </div>
+            
+            <div class="api-item">
+                <h3 class="tr-text">📂 Kategorilere Göre M3U</h3>
+                <h3 class="en-text hidden">📂 Categorized M3U Playlists</h3>
+                <div class="code-block">
+                    /api/ulusal-kanallar.m3u<br>
+                    /api/yerel-kanallar.m3u
+                    <button class="code-copy" onclick="copyCode(this)">📋 Kopyala</button>
+                </div>
+            </div>
+            
+            <div class="api-item">
+                <h3 class="tr-text">🔌 Xtream Codes API</h3>
+                <h3 class="en-text hidden">🔌 Xtream Codes API</h3>
+                <p class="tr-text"><strong>Portal:</strong> https://iptv-turk-tr.github.io</p>
+                <p class="en-text hidden"><strong>Portal:</strong> https://iptv-turk-tr.github.io</p>
+                <div class="code-block">
+                    Kullanıcı: iptv-turk<br>
+                    Şifre: iptv2026<br>
+                    <br>
+                    Username: iptv-turk<br>
+                    Password: iptv2026
+                    <button class="code-copy" onclick="copyCode(this)">📋 Kopyala</button>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    <footer>
+        <p class="tr-text">❤️ ile yapıldı | Açık Kaynak | Sonsuza Kadar Ücretsiz</p>
+        <p class="en-text hidden">Made with ❤️ | Open Source | Free Forever</p>
+        <p style="margin-top: 15px; opacity: 0.9;">
+            <span class="tr-text">Telif Hakkı © 2026 - Ticari kullanım yasak | </span>
+            <span class="en-text hidden">Copyright © 2026 - Commercial use prohibited | </span>
+            <a href="https://github.com/iptv-turk-tr/iptv" target="_blank">GitHub Repository</a>
+        </p>
+    </footer>
+    
+    <script>
+        // Sample Channels Data
+        const allChannels = [
+            { name: "TRT 1 4K+", category: "Ulusal Kanallar", icon: "📺", url: "http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/2838" },
+            { name: "ATV 4K+", category: "Ulusal Kanallar", icon: "📺", url: "http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/3054" },
+            { name: "SHOW TV 4K+", category: "Ulusal Kanallar", icon: "📺", url: "http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/2874" },
+            { name: "KANAL D 4K+", category: "Ulusal Kanallar", icon: "📺", url: "http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/2945" },
+            { name: "STAR TV 4K+", category: "Ulusal Kanallar", icon: "📺", url: "http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/2855" },
+            { name: "NOW TV 4K+", category: "Ulusal Kanallar", icon: "📺", url: "http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/2977" },
+            { name: "TV 8 4K+", category: "Ulusal Kanallar", icon: "📺", url: "http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/2815" },
+            { name: "TRT 1 HD", category: "Ulusal Kanallar", icon: "📺", url: "http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/2837" },
+            { name: "BRTV Karadeniz", category: "Yerel Kanallar", icon: "🏘️", url: "http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/143912" },
+            { name: "Kanal Samsun", category: "Yerel Kanallar", icon: "🏘️", url: "http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/143908" },
+            { name: "Akit TV", category: "Yerel Kanallar", icon: "🏘️", url: "http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/34572" },
+            { name: "Arti TV", category: "Yerel Kanallar", icon: "🏘️", url: "http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/30187" }
+        ];
+        
+        const categories = ["Tüm Kanallar", "Ulusal Kanallar", "Yerel Kanallar"];
+        const categoriesEn = ["All Channels", "National Channels", "Local Channels"];
+        
+        let currentLang = 'tr';
+        let currentTheme = 'light';
+        let activeCategory = "Tüm Kanallar";
+        
+        // Initialize
+        function init() {
+            renderCategories();
+            renderChannels();
+            loadPreferences();
+        }
+        
+        // Language Toggle
+        document.getElementById('langToggle').addEventListener('click', function() {
+            currentLang = currentLang === 'tr' ? 'en' : 'tr';
+            document.querySelectorAll('.tr-text').forEach(el => el.classList.toggle('hidden'));
+            document.querySelectorAll('.en-text').forEach(el => el.classList.toggle('hidden'));
+            this.textContent = currentLang === 'tr' ? '🌐 English' : '🌐 Türkçe';
+            localStorage.setItem('language', currentLang);
+        });
+        
+        // Theme Toggle
+        document.getElementById('themeToggle').addEventListener('click', function() {
+            document.body.classList.toggle('dark-mode');
+            currentTheme = currentTheme === 'light' ? 'dark' : 'light';
+            this.textContent = currentTheme === 'light' ? '🌙 Dark' : '☀️ Light';
+            localStorage.setItem('theme', currentTheme);
+        });
+        
+        // Render Categories
+        function renderCategories() {
+            const container = document.getElementById('categoriesContainer');
+            container.innerHTML = '';
+            
+            categories.forEach((cat, idx) => {
+                const btn = document.createElement('button');
+                btn.className = 'category-btn' + (cat === activeCategory ? ' active' : '');
+                btn.innerHTML = `<span class="tr-text">${cat}</span><span class="en-text hidden">${categoriesEn[idx]}</span>`;
+                btn.onclick = () => {
+                    document.querySelectorAll('.category-btn').forEach(b => b.classList.remove('active'));
+                    btn.classList.add('active');
+                    activeCategory = cat;
+                    renderChannels();
+                };
+                container.appendChild(btn);
+            });
+        }
+        
+        // Render Channels
+        function renderChannels() {
+            const container = document.getElementById('channelsGrid');
+            const searchTerm = document.getElementById('searchInput').value.toLowerCase();
+            
+            let filtered = allChannels;
+            if (activeCategory !== "Tüm Kanallar") {
+                filtered = filtered.filter(ch => ch.category === activeCategory);
+            }
+            if (searchTerm) {
+                filtered = filtered.filter(ch => ch.name.toLowerCase().includes(searchTerm));
+            }
+            
+            container.innerHTML = filtered.map(channel => `
+                <div class="channel-card">
+                    <div class="channel-icon">${channel.icon}</div>
+                    <div class="channel-info">
+                        <div class="channel-name">${channel.name}</div>
+                        <div class="channel-category">${channel.category}</div>
+                        <div class="channel-actions">
+                            <button class="channel-btn btn-play" onclick="playChannel('${channel.url}')">
+                                <span class="tr-text">▶️ Oynat</span>
+                                <span class="en-text hidden">▶️ Play</span>
+                            </button>
+                            <button class="channel-btn btn-copy" onclick="copyChannel('${channel.url}')">
+                                <span class="tr-text">📋 Kopyala</span>
+                                <span class="en-text hidden">📋 Copy</span>
+                            </button>
+                        </div>
+                    </div>
+                </div>
+            `).join('');
+        }
+        
+        // Search
+        document.getElementById('searchInput').addEventListener('keyup', renderChannels);
+        
+        // Play Channel
+        function playChannel(url) {
+            alert(`Oynatıcı ile açılır: ${url}\n\nOpen with player: ${url}`);
+        }
+        
+        // Copy Channel URL
+        function copyChannel(url) {
+            navigator.clipboard.writeText(url).then(() => {
+                alert(currentLang === 'tr' ? '✅ URL kopyalandı!' : '✅ URL copied!');
+            });
+        }
+        
+        // Copy Code Block
+        function copyCode(btn) {
+            const code = btn.parentElement.textContent.replace('📋 Kopyala', '').trim();
+            navigator.clipboard.writeText(code).then(() => {
+                const oldText = btn.textContent;
+                btn.textContent = currentLang === 'tr' ? '✅ Kopyalandı!' : '✅ Copied!';
+                setTimeout(() => btn.textContent = oldText, 2000);
+            });
+        }
+        
+        // Download M3U
+        function downloadM3U() {
+            const m3u = `#EXTM3U\n${allChannels.map(ch => 
+                `#EXTINF:-1 group-title="${ch.category}","${ch.name}"\n${ch.url}`
+            ).join('\n')}`;
+            
+            const blob = new Blob([m3u], { type: 'text/plain' });
+            const url = URL.createObjectURL(blob);
+            const a = document.createElement('a');
+            a.href = url;
+            a.download = 'iptv-turk.m3u';
+            a.click();
+        }
+        
+        // Copy Xtream Codes
+        function copyXtreamCodes() {
+            const xtream = `Portal: https://iptv-turk-tr.github.io\nUser: iptv-turk\nPassword: iptv2026`;
+            navigator.clipboard.writeText(xtream).then(() => {
+                alert(currentLang === 'tr' ? '✅ Xtream Codes bilgileri kopyalandı!' : '✅ Xtream Codes copied!');
+            });
+        }
+        
+        // Load Preferences
+        function loadPreferences() {
+            const lang = localStorage.getItem('language') || 'tr';
+            const theme = localStorage.getItem('theme') || 'light';
+            
+            if (lang === 'en' && currentLang === 'tr') {
+                document.getElementById('langToggle').click();
+            }
+            
+            if (theme === 'dark' && currentTheme === 'light') {
+                document.getElementById('themeToggle').click();
+            }
+        }
+        
+        // Start
+        init();
+    </script>
+</body>
+</html>

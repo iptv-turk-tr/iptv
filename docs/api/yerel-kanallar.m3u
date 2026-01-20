@@ -1,0 +1,31 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="TvDen" group-title="Yerel Kanallar","TvDen"
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/165199
+#EXTINF:-1 tvg-id="" tvg-name="BRTV Karadeniz" group-title="Yerel Kanallar","BRTV Karadeniz"
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/143912
+#EXTINF:-1 tvg-id="" tvg-name="Kanal Samsun" group-title="Yerel Kanallar","Kanal Samsun"
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/143908
+#EXTINF:-1 tvg-id="" tvg-name="Mavi Karadeniz" group-title="Yerel Kanallar","Mavi Karadeniz"
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/143907
+#EXTINF:-1 tvg-id="" tvg-name="Arti TV" group-title="Yerel Kanallar","Arti TV"
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/30187
+#EXTINF:-1 tvg-id="" tvg-name="Akit TV" group-title="Yerel Kanallar","Akit TV"
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/34572
+#EXTINF:-1 tvg-id="" tvg-name="Aksu TV" group-title="Yerel Kanallar","Aksu TV"
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/30702
+#EXTINF:-1 tvg-id="" tvg-name="Akilli TV" group-title="Yerel Kanallar","Akilli TV"
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/29938
+#EXTINF:-1 tvg-id="" tvg-name="Altaş TV Ordu" group-title="Yerel Kanallar","Altaş TV Ordu"
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/39334
+#EXTINF:-1 tvg-id="" tvg-name="Anadolu Dernek TV" group-title="Yerel Kanallar","Anadolu Dernek TV"
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/77260
+#EXTINF:-1 tvg-id="" tvg-name="BRT 1 4K" group-title="Yerel Kanallar","BRT 1 4K"
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/122569
+#EXTINF:-1 tvg-id="" tvg-name="BRT 2 4K" group-title="Yerel Kanallar","BRT 2 4K"
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/122568
+#EXTINF:-1 tvg-id="" tvg-name="Bursa As TV" group-title="Yerel Kanallar","Bursa As TV"
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/29940
+#EXTINF:-1 tvg-id="" tvg-name="Bengü Türk" group-title="Yerel Kanallar","Bengü Türk"
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/45338
+#EXTINF:-1 tvg-id="" tvg-name="Beykent TV" group-title="Yerel Kanallar","Beykent TV"
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/45339
