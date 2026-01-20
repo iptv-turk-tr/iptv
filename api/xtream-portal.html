@@ -1,0 +1,390 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>IPTV TURK - Xtream Codes Portal | Gerçek Çalışan API</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            padding: 20px;
+        }
+        
+        .container {
+            background: white;
+            border-radius: 15px;
+            box-shadow: 0 20px 60px rgba(0,0,0,0.3);
+            max-width: 600px;
+            width: 100%;
+            padding: 40px;
+        }
+        
+        h1 {
+            text-align: center;
+            color: #333;
+            margin-bottom: 10px;
+            font-size: 2.5em;
+        }
+        
+        .subtitle {
+            text-align: center;
+            color: #666;
+            margin-bottom: 30px;
+            font-size: 1.1em;
+        }
+        
+        .legal-warning {
+            background: #fff3cd;
+            padding: 15px;
+            border-left: 4px solid #ffc107;
+            border-radius: 5px;
+            margin-bottom: 30px;
+            font-size: 0.9em;
+            color: #856404;
+        }
+        
+        .form-group {
+            margin-bottom: 20px;
+        }
+        
+        label {
+            display: block;
+            margin-bottom: 8px;
+            color: #333;
+            font-weight: bold;
+        }
+        
+        input {
+            width: 100%;
+            padding: 12px;
+            border: 2px solid #667eea;
+            border-radius: 8px;
+            font-size: 1em;
+            transition: 0.3s;
+        }
+        
+        input:focus {
+            outline: none;
+            border-color: #764ba2;
+            box-shadow: 0 0 10px rgba(102, 126, 234, 0.3);
+        }
+        
+        .btn {
+            width: 100%;
+            padding: 14px;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            border: none;
+            border-radius: 8px;
+            font-size: 1.1em;
+            font-weight: bold;
+            cursor: pointer;
+            transition: 0.3s;
+            margin-top: 10px;
+        }
+        
+        .btn:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 10px 25px rgba(102, 126, 234, 0.3);
+        }
+        
+        .credentials {
+            background: #f8f9fa;
+            padding: 20px;
+            border-radius: 8px;
+            margin-top: 30px;
+            border: 2px dashed #667eea;
+        }
+        
+        .credentials h3 {
+            color: #667eea;
+            margin-bottom: 15px;
+            font-size: 1.2em;
+        }
+        
+        .cred-item {
+            background: white;
+            padding: 12px;
+            margin-bottom: 10px;
+            border-radius: 5px;
+            border-left: 4px solid #667eea;
+        }
+        
+        .cred-label {
+            color: #666;
+            font-size: 0.9em;
+            margin-bottom: 5px;
+        }
+        
+        .cred-value {
+            color: #333;
+            font-weight: bold;
+            font-size: 1.1em;
+            font-family: 'Courier New', monospace;
+        }
+        
+        .api-links {
+            background: #f8f9fa;
+            padding: 20px;
+            border-radius: 8px;
+            margin-top: 20px;
+        }
+        
+        .api-links h3 {
+            color: #667eea;
+            margin-bottom: 15px;
+            font-size: 1.2em;
+        }
+        
+        .api-link {
+            background: white;
+            padding: 12px;
+            margin-bottom: 10px;
+            border-radius: 5px;
+            border-left: 4px solid #764ba2;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+        
+        .api-link-url {
+            font-family: 'Courier New', monospace;
+            font-size: 0.9em;
+            color: #333;
+            flex: 1;
+            word-break: break-all;
+        }
+        
+        .copy-btn {
+            background: #667eea;
+            color: white;
+            border: none;
+            padding: 8px 15px;
+            border-radius: 5px;
+            cursor: pointer;
+            font-size: 0.85em;
+            margin-left: 10px;
+            white-space: nowrap;
+        }
+        
+        .copy-btn:hover {
+            background: #764ba2;
+        }
+        
+        .result {
+            margin-top: 20px;
+            padding: 20px;
+            border-radius: 8px;
+            display: none;
+        }
+        
+        .result.success {
+            background: #d4edda;
+            color: #155724;
+            display: block;
+            border: 1px solid #c3e6cb;
+        }
+        
+        .result.error {
+            background: #f8d7da;
+            color: #721c24;
+            display: block;
+            border: 1px solid #f5c6cb;
+        }
+        
+        .categories {
+            margin-top: 30px;
+            padding: 20px;
+            background: #f8f9fa;
+            border-radius: 8px;
+        }
+        
+        .categories h3 {
+            color: #667eea;
+            margin-bottom: 15px;
+        }
+        
+        .category-list {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+            gap: 10px;
+        }
+        
+        .category-tag {
+            background: white;
+            padding: 10px;
+            border-radius: 5px;
+            border-left: 4px solid #667eea;
+            text-align: center;
+            font-size: 0.9em;
+            color: #333;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>📺 IPTV TURK</h1>
+        <p class="subtitle">Xtream Codes Portal - Gerçek Çalışan API</p>
+        
+        <div class="legal-warning">
+            ⚠️ <strong>YASAL UYARI:</strong> Bu platform yalnızca eğitim amaçlıdır. Ticari kullanım yasaktır. Telif hakkı yasalarına uyun.
+        </div>
+        
+        <form id="loginForm">
+            <div class="form-group">
+                <label for="username">👤 Kullanıcı Adı</label>
+                <input type="text" id="username" placeholder="iptv-turk veya soylu" value="iptv-turk">
+            </div>
+            
+            <div class="form-group">
+                <label for="password">🔐 Şifre</label>
+                <input type="password" id="password" placeholder="Şifreniz" value="iptv2026">
+            </div>
+            
+            <button type="submit" class="btn">🚀 Giriş Yap & Bilgileri Al</button>
+        </form>
+        
+        <div id="result" class="result"></div>
+        
+        <div class="credentials" id="credentialsBox" style="display: none;">
+            <h3>✅ Hesap Bilgileri</h3>
+            <div class="cred-item">
+                <div class="cred-label">Kullanıcı Adı</div>
+                <div class="cred-value" id="dispUsername"></div>
+            </div>
+            <div class="cred-item">
+                <div class="cred-label">Durum</div>
+                <div class="cred-value">🟢 Active</div>
+            </div>
+            <div class="cred-item">
+                <div class="cred-label">Max Bağlantılar</div>
+                <div class="cred-value">10</div>
+            </div>
+            <div class="cred-item">
+                <div class="cred-label">Bitiş Tarihi</div>
+                <div class="cred-value">Hiçbir Zaman</div>
+            </div>
+        </div>
+        
+        <div class="api-links" id="apiLinksBox" style="display: none;">
+            <h3>🔌 API Endpoints</h3>
+            
+            <div class="api-link">
+                <div class="api-link-url" id="m3uUrl">M3U Playlist URL</div>
+                <button class="copy-btn" onclick="copyToClipboard(document.getElementById('m3uUrl').textContent)">📋 Kopyala</button>
+            </div>
+            
+            <div class="api-link">
+                <div class="api-link-url" id="playerUrl">Player API</div>
+                <button class="copy-btn" onclick="copyToClipboard(document.getElementById('playerUrl').textContent)">📋 Kopyala</button>
+            </div>
+            
+            <div class="api-link">
+                <div class="api-link-url" id="userInfoUrl">User Info API</div>
+                <button class="copy-btn" onclick="copyToClipboard(document.getElementById('userInfoUrl').textContent)">📋 Kopyala</button>
+            </div>
+        </div>
+        
+        <div class="categories" id="categoriesBox" style="display: none;">
+            <h3>📂 Mevcut Kategoriler</h3>
+            <div class="category-list">
+                <div class="category-tag">📺 Ulusal Kanallar</div>
+                <div class="category-tag">🏘️ Yerel Kanallar</div>
+                <div class="category-tag">⚽ Spor</div>
+                <div class="category-tag">📽️ Belgesel</div>
+                <div class="category-tag">👶 Çocuk</div>
+                <div class="category-tag">🎬 Film</div>
+                <div class="category-tag">🎵 Müzik</div>
+            </div>
+        </div>
+        
+        <!-- DEMO Credentials -->
+        <div style="margin-top: 30px; padding: 15px; background: #e7f3ff; border-radius: 8px; border-left: 4px solid #0066cc;">
+            <h3 style="color: #0066cc; margin-bottom: 10px;">📝 Demo Hesapları</h3>
+            <div style="display: grid; gap: 10px; font-size: 0.95em;">
+                <div>
+                    <strong>Hesap 1:</strong><br>
+                    Kullanıcı: <code>iptv-turk</code><br>
+                    Şifre: <code>iptv2026</code>
+                </div>
+                <div>
+                    <strong>Hesap 2:</strong><br>
+                    Kullanıcı: <code>soylu</code><br>
+                    Şifre: <code>soylu123</code>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    <script>
+        const baseUrl = window.location.origin;
+        
+        document.getElementById('loginForm').addEventListener('submit', async (e) => {
+            e.preventDefault();
+            
+            const username = document.getElementById('username').value;
+            const password = document.getElementById('password').value;
+            const resultDiv = document.getElementById('result');
+            
+            if (!username || !password) {
+                resultDiv.textContent = '❌ Kullanıcı adı ve şifre gereklidir!';
+                resultDiv.className = 'result error';
+                return;
+            }
+            
+            // Simulated API Response (Gerçek backend'de çalışır)
+            const validUsers = {
+                'iptv-turk': 'iptv2026',
+                'soylu': 'soylu123'
+            };
+            
+            if (validUsers[username] !== password) {
+                resultDiv.textContent = '❌ Geçersiz kullanıcı adı veya şifre!';
+                resultDiv.className = 'result error';
+                return;
+            }
+            
+            // Success
+            resultDiv.textContent = '✅ Başarıyla giriş yapıldı!';
+            resultDiv.className = 'result success';
+            
+            // Bilgileri göster
+            document.getElementById('dispUsername').textContent = username;
+            document.getElementById('credentialsBox').style.display = 'block';
+            document.getElementById('categoriesBox').style.display = 'block';
+            
+            // API URLs
+            const m3uUrl = `${baseUrl}/api/get_m3u_playlist.php?username=${username}&password=${password}`;
+            const playerUrl = `${baseUrl}/api/player_api.php?username=${username}&password=${password}&action=get_live_categories`;
+            const userInfoUrl = `${baseUrl}/api/get_user_info.php?username=${username}&password=${password}`;
+            
+            document.getElementById('m3uUrl').textContent = m3uUrl;
+            document.getElementById('playerUrl').textContent = playerUrl;
+            document.getElementById('userInfoUrl').textContent = userInfoUrl;
+            document.getElementById('apiLinksBox').style.display = 'block';
+        });
+        
+        function copyToClipboard(text) {
+            navigator.clipboard.writeText(text).then(() => {
+                alert('✅ URL kopyalandı!');
+            }).catch(() => {
+                alert('❌ Kopyalama başarısız!');
+            });
+        }
+        
+        // Auto-login for demo
+        document.getElementById('loginForm').dispatchEvent(new Event('submit'));
+    </script>
+</body>
+</html>

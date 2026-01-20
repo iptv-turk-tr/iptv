@@ -1,0 +1,21 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="trt1" tvg-name="TRT 1 4K+" tvg-logo="https://via.placeholder.com/300x300?text=TRT+1" group-title="Ulusal Kanallar","TRT 1 4K+"
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/2838
+#EXTINF:-1 tvg-id="atv" tvg-name="ATV 4K+" tvg-logo="https://via.placeholder.com/300x300?text=ATV" group-title="Ulusal Kanallar","ATV 4K+"
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/3054
+#EXTINF:-1 tvg-id="showtv" tvg-name="SHOW TV 4K+" tvg-logo="https://via.placeholder.com/300x300?text=SHOW+TV" group-title="Ulusal Kanallar","SHOW TV 4K+"
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/2874
+#EXTINF:-1 tvg-id="kanald" tvg-name="KANAL D 4K+" tvg-logo="https://via.placeholder.com/300x300?text=KANAL+D" group-title="Ulusal Kanallar","KANAL D 4K+"
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/2945
+#EXTINF:-1 tvg-id="startv" tvg-name="STAR TV 4K+" tvg-logo="https://via.placeholder.com/300x300?text=STAR+TV" group-title="Ulusal Kanallar","STAR TV 4K+"
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/2855
+#EXTINF:-1 tvg-id="nowtv" tvg-name="NOW TV 4K+" tvg-logo="https://via.placeholder.com/300x300?text=NOW+TV" group-title="Ulusal Kanallar","NOW TV 4K+"
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/2977
+#EXTINF:-1 tvg-id="tv8" tvg-name="TV 8 4K+" tvg-logo="https://via.placeholder.com/300x300?text=TV+8" group-title="Ulusal Kanallar","TV 8 4K+"
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/2815
+#EXTINF:-1 tvg-id="trt1hd" tvg-name="TRT 1 HD" tvg-logo="https://via.placeholder.com/300x300?text=TRT+1+HD" group-title="Ulusal Kanallar","TRT 1 HD"
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/2837
+#EXTINF:-1 tvg-id="atvhd" tvg-name="ATV HD" tvg-logo="https://via.placeholder.com/300x300?text=ATV+HD" group-title="Ulusal Kanallar","ATV HD"
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/3052
+#EXTINF:-1 tvg-id="kanaldhd" tvg-name="KANAL D HD" tvg-logo="https://via.placeholder.com/300x300?text=KANAL+D+HD" group-title="Ulusal Kanallar","KANAL D HD"
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/2944

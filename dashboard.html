@@ -457,10 +457,10 @@
                     <span class="tr-text">📥 M3U İNDİR</span>
                     <span class="en-text hidden">📥 DOWNLOAD M3U</span>
                 </button>
-                <button class="btn-large btn-primary-large" onclick="copyXtreamCodes()">
-                    <span class="tr-text">🔌 XTREAM CODES</span>
-                    <span class="en-text hidden">🔌 XTREAM CODES</span>
-                </button>
+                <a href="api/xtream-portal.html" class="btn-large btn-primary-large">
+                    <span class="tr-text">🔌 XTREAM PORTAL</span>
+                    <span class="en-text hidden">🔌 XTREAM PORTAL</span>
+                </a>
                 <a href="https://github.com/iptv-turk-tr/iptv" target="_blank" class="btn-large btn-primary-large">
                     <span class="tr-text">⭐ GITHUB</span>
                     <span class="en-text hidden">⭐ GITHUB</span>
@@ -479,7 +479,7 @@
                 <h3 class="tr-text">📥 Ana M3U Listesi</h3>
                 <h3 class="en-text hidden">📥 Main M3U Playlist</h3>
                 <div class="code-block">
-                    https://raw.githubusercontent.com/iptv-turk-tr/iptv/main/list
+                    https://raw.githubusercontent.com/iptv-turk-tr/iptv/main/list.m3u
                     <button class="code-copy" onclick="copyCode(this)">📋 Kopyala</button>
                 </div>
             </div>
@@ -487,24 +487,33 @@
             <div class="api-item">
                 <h3 class="tr-text">📂 Kategorilere Göre M3U</h3>
                 <h3 class="en-text hidden">📂 Categorized M3U Playlists</h3>
+                <p class="tr-text"><strong>Tüm Kategoriler:</strong></p>
+                <p class="en-text hidden"><strong>All Categories:</strong></p>
                 <div class="code-block">
-                    /api/ulusal-kanallar.m3u<br>
-                    /api/yerel-kanallar.m3u
+                    /playlists/ulusal.m3u<br>
+                    /playlists/yerel.m3u<br>
+                    /playlists/spor.m3u<br>
+                    /playlists/belgesel.m3u<br>
+                    /playlists/cocuk.m3u<br>
+                    /playlists/film.m3u<br>
+                    /playlists/muzik.m3u
                     <button class="code-copy" onclick="copyCode(this)">📋 Kopyala</button>
                 </div>
             </div>
             
             <div class="api-item">
-                <h3 class="tr-text">🔌 Xtream Codes API</h3>
-                <h3 class="en-text hidden">🔌 Xtream Codes API</h3>
-                <p class="tr-text"><strong>Portal:</strong> https://iptv-turk-tr.github.io</p>
-                <p class="en-text hidden"><strong>Portal:</strong> https://iptv-turk-tr.github.io</p>
+                <h3 class="tr-text">🔌 Xtream Codes API - Gerçek Çalışan</h3>
+                <h3 class="en-text hidden">🔌 Xtream Codes API - Real Working</h3>
+                <p class="tr-text"><strong>🌐 Portal:</strong> <a href="api/xtream-portal.html" target="_blank">https://iptv-turk-tr.github.io/api/xtream-portal.html</a></p>
+                <p class="en-text hidden"><strong>🌐 Portal:</strong> <a href="api/xtream-portal.html" target="_blank">https://iptv-turk-tr.github.io/api/xtream-portal.html</a></p>
                 <div class="code-block">
+                    Hesap 1:<br>
                     Kullanıcı: iptv-turk<br>
                     Şifre: iptv2026<br>
                     <br>
-                    Username: iptv-turk<br>
-                    Password: iptv2026
+                    Hesap 2:<br>
+                    Kullanıcı: soylu<br>
+                    Şifre: soylu123
                     <button class="code-copy" onclick="copyCode(this)">📋 Kopyala</button>
                 </div>
             </div>

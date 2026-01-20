@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="nowtv" tvg-name="NOW TV 4K+" tvg-logo="https://via.placeholder.com/300x300?text=NOW+TV" group-title="Çocuk","NOW TV 4K+"
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/2977
+#EXTINF:-1 tvg-id="tv8" tvg-name="TV 8 4K+" tvg-logo="https://via.placeholder.com/300x300?text=TV+8" group-title="Çocuk","TV 8 4K+"
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/2815
+#EXTINF:-1 tvg-id="tv85" tvg-name="TV 8.5 4K+" tvg-logo="https://via.placeholder.com/300x300?text=TV+8.5" group-title="Çocuk","TV 8.5 4K+"
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/2810

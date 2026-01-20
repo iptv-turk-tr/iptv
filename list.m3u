@@ -1,0 +1,1685 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="TRT1.tr" tvg-name="(TR) TRT 1 4K+" group-title="TR - ULUSAL",(TR) TRT 1 4K+
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/2838
+#EXTINF:-1 tvg-id="ATV.tr" tvg-name="(TR) ATV 4K+" group-title="TR - ULUSAL",(TR) ATV 4K+
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/3054
+#EXTINF:-1 tvg-id="ShowTV.tr" tvg-name="(TR) SHOW TV 4K+" group-title="TR - ULUSAL",(TR) SHOW TV 4K+
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/2874
+#EXTINF:-1 tvg-id="KanalD.tr" tvg-name="(TR) KANAL D 4K+" group-title="TR - ULUSAL",(TR) KANAL D 4K+
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/2945
+#EXTINF:-1 tvg-id="StarTV.tr" tvg-name="(TR) STAR TV 4K+" group-title="TR - ULUSAL",(TR) STAR TV 4K+
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/2855
+#EXTINF:-1 tvg-id="Fox" tvg-name="(TR) NOW TV 4K+" group-title="TR - ULUSAL",(TR) NOW TV 4K+
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/2977
+#EXTINF:-1 tvg-id="TV8.tr" tvg-name="(TR) TV 8 4K+" group-title="TR - ULUSAL",(TR) TV 8 4K+
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/2815
+#EXTINF:-1 tvg-id="TV85.tr" tvg-name="(TR) TV 8.5 4K+" group-title="TR - ULUSAL",(TR) TV 8.5 4K+
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/2810
+#EXTINF:-1 tvg-id="BeyazTV.tr" tvg-name="(TR) BEYAZ TV 4K+" group-title="TR - ULUSAL",(TR) BEYAZ TV 4K+
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/3017
+#EXTINF:-1 tvg-id="Kanal7.tr" tvg-name="(TR) KANAL 7 4K+" group-title="TR - ULUSAL",(TR) KANAL 7 4K+
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/2951
+#EXTINF:-1 tvg-id="Teve2" tvg-name="(TR) TEVE 2 4K+" group-title="TR - ULUSAL",(TR) TEVE 2 4K+
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/2850
+#EXTINF:-1 tvg-id="TRT 2 HD" tvg-name="(TR) TRT 2 4K+" group-title="TR - ULUSAL",(TR) TRT 2 4K+
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/29026
+#EXTINF:-1 tvg-id="a2tv.tr" tvg-name="(TR) A2 4K+" group-title="TR - ULUSAL",(TR) A2 4K+
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/3067
+#EXTINF:-1 tvg-id="360" tvg-name="(TR) 360 4K" group-title="TR - ULUSAL",(TR) 360 4K
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/7537
+#EXTINF:-1 tvg-id="Showmax.tr" tvg-name="(TR) SHOW MAX 4K" group-title="TR - ULUSAL",(TR) SHOW MAX 4K
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/48899
+#EXTINF:-1 tvg-id="" tvg-name="(TR) KANAL 7 AVRUPA 4K" group-title="TR - ULUSAL",(TR) KANAL 7 AVRUPA 4K
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/2950
+#EXTINF:-1 tvg-id="" tvg-name="✦✦✦ TR ULUSAL HD ✦✦✦" group-title="TR - ULUSAL",✦✦✦ TR ULUSAL HD ✦✦✦
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/1436
+#EXTINF:-1 tvg-id="TRT 1 HD" tvg-name="(TR) TRT 1 HD" group-title="TR - ULUSAL",(TR) TRT 1 HD
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/2837
+#EXTINF:-1 tvg-id="ATV" tvg-name="(TR) ATV HD" group-title="TR - ULUSAL",(TR) ATV HD
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/3052
+#EXTINF:-1 tvg-id="Kanal D" tvg-name="(TR) KANAL D HD" group-title="TR - ULUSAL",(TR) KANAL D HD
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/2944
+#EXTINF:-1 tvg-id="Göster" tvg-name="(TR) SHOW TV HD" group-title="TR - ULUSAL",(TR) SHOW TV HD
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/2873
+#EXTINF:-1 tvg-id="Show" tvg-name="(TR) SHOW TURK HD" group-title="TR - ULUSAL",(TR) SHOW TURK HD
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/2876
+#EXTINF:-1 tvg-id="STAR TV" tvg-name="(TR) STAR TV HD" group-title="TR - ULUSAL",(TR) STAR TV HD
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/2854
+#EXTINF:-1 tvg-id="Fox" tvg-name="(TR) NOW TV HD" group-title="TR - ULUSAL",(TR) NOW TV HD
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/2976
+#EXTINF:-1 tvg-id="BEYAZ TV" tvg-name="(TR) BEYAZ TV HD" group-title="TR - ULUSAL",(TR) BEYAZ TV HD
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/3016
+#EXTINF:-1 tvg-id="Kanal 7" tvg-name="(TR) KANAL 7 HD" group-title="TR - ULUSAL",(TR) KANAL 7 HD
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/2949
+#EXTINF:-1 tvg-id="TV 8,5" tvg-name="(TR) TV 8.5 HD" group-title="TR - ULUSAL",(TR) TV 8.5 HD
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/2809
+#EXTINF:-1 tvg-id="TV8" tvg-name="(TR) TV 8 HD" group-title="TR - ULUSAL",(TR) TV 8 HD
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/2814
+#EXTINF:-1 tvg-id="" tvg-name="(TR) TV 8 INT HD" group-title="TR - ULUSAL",(TR) TV 8 INT HD
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/2813
+#EXTINF:-1 tvg-id="A2 HD" tvg-name="(TR) A2 HD" group-title="TR - ULUSAL",(TR) A2 HD
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/3066
+#EXTINF:-1 tvg-id="" tvg-name="✦✦✦ SD KANALLAR ✦✦✦" group-title="TR - ULUSAL",✦✦✦ SD KANALLAR ✦✦✦
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/7305
+#EXTINF:-1 tvg-id="" tvg-name="(TR) ATV AVRUPA" group-title="TR - ULUSAL",(TR) ATV AVRUPA
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/3053
+#EXTINF:-1 tvg-id="EURO STAR TR" tvg-name="(TR) EURO STAR" group-title="TR - ULUSAL",(TR) EURO STAR
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/2987
+#EXTINF:-1 tvg-id="" tvg-name="(TR) EURO D" group-title="TR - ULUSAL",(TR) EURO D
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/2991
+#EXTINF:-1 tvg-id="Teve2" tvg-name="(TR) TEVE 2" group-title="TR - ULUSAL",(TR) TEVE 2
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/2849
+#EXTINF:-1 tvg-id="" tvg-name="(TR) TvDen" group-title="TR - YEREL",(TR) TvDen
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/165199
+#EXTINF:-1 tvg-id="" tvg-name="(TR) BRTV Karadeniz" group-title="TR - YEREL",(TR) BRTV Karadeniz
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/143912
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Kanal Samsun" group-title="TR - YEREL",(TR) Kanal Samsun
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/143908
+#EXTINF:-1 tvg-id = "" tvg-name = "(TR) Mavi Karadeniz" group-title = "TR - YEREL",(TR) Mavi Karadeniz
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/143907
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Arti TV" group-title="TR - YEREL",(TR) Arti TV
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/30187
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Akit TV" group-title="TR - YEREL",(TR) Akit TV
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/34572
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Aksu TV" group-title="TR - YEREL",(TR) Aksu TV
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/30702
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Akilli TV" group-title="TR - YEREL",(TR) Akilli TV
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/29938
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Altaş TV Ordu" group-title="TR - YEREL",(TR) Altaş TV Ordu
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/39334
+#EXTINF:-1 tvg-id = "" tvg-name = "(TR) Anadolu Dernek TV" group-title = "TR - YEREL",(TR) Anadolu Dernek TV
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/77260
+#EXTINF:-1 tvg-id="" tvg-name="(TR) BRT 1 4K" group-title="TR - YEREL",(TR) BRT 1 4K
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/122569
+#EXTINF:-1 tvg-id="" tvg-name="(TR) BRT 2 4K" group-title="TR - YEREL",(TR) BRT 2 4K
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/122568
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Bursa As TV" group-title="TR - YEREL",(TR) Bursa As TV
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/29940
+#EXTINF:-1 tvg-id = "" tvg-name = "(TR) Bengü Türk" group-title = "TR - YEREL",(TR) Bengü Türk
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/45338
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Beykent TV" group-title="TR - YEREL",(TR) Beykent TV
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/29944
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Can TV" group-title="TR - YEREL",(TR) Can TV
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/42905
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Cay TV" group-title="TR - YEREL",(TR) Cay TV
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/29947
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Cem TV" group-title="TR - YEREL",(TR) Cem TV
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/39609
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Çiftçi TV" group-title="TR - YEREL",(TR) Çiftçi TV
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/77255
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Deha TV" group-title="TR - YEREL",(TR) Deha TV
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/29948
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Drt Denizli" group-title="TR - YEREL",(TR) Drt Denizli
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/29950
+#EXTINF:-1 tvg-id="" tvg-name="(TR) ER TV" group-title="TR - YEREL",(TR) ER TV
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/118226
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Es TV" group-title="TR - YEREL",(TR) Es TV
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/29956
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Edassa TV" group-title="TR - YEREL",(TR) Edassa TV
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/29952
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Eko Türk TV" group-title="TR - YEREL",(TR) Eko Türk TV
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/77252
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Guneydogu TV" group-title="TR - YEREL",(TR) Guneydogu TV
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/29963
+#EXTINF:-1 tvg-id = "" tvg-name = "(TR) Hrt Akdeniz" group-title = "TR - YEREL",(TR) Hrt Akdeniz
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/29967
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Kanal B" group-title="TR - YEREL",(TR) Kanal B
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/29935
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Kanal 3" group-title="TR - YEREL",(TR) Kanal 3
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/30703
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Kanal 5" group-title="TR - YEREL",(TR) Kanal 5
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/77243
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Kanal 15" group-title="TR - YEREL",(TR) Kanal 15
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/29970
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Kanal 23" group-title="TR - YEREL",(TR) Kanal 23
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/29971
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Kanal 26" group-title="TR - YEREL",(TR) Kanal 26
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/29972
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Kanal 32" group-title="TR - YEREL",(TR) Kanal 32
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/29934
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Kanal 33" group-title="TR - YEREL",(TR) Kanal 33
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/29973
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Kanal 42" group-title="TR - YEREL",(TR) Kanal 42
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/55398
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Kanal 43" group-title="TR - YEREL",(TR) Kanal 43
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/29974
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Kanal 58" group-title="TR - YEREL",(TR) Kanal 58
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/89843
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Kanal 68" group-title="TR - YEREL",(TR) Kanal 68
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/29977
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Kent Turk" group-title="TR - YEREL",(TR) Kent Turk
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/29984
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Kanal Urfa" group-title="TR - YEREL",(TR) Kanal Urfa
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/29982
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Kanal Fırat" group-title="TR - YEREL",(TR) Kanal Fırat
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/108333
+#EXTINF:-1 tvg-id = "" tvg-name = "(TR) Kanal Avrupa" group-title = "TR - YEREL",(TR) Kanal Avrupa
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/29979
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Kardelen TV" group-title="TR - YEREL",(TR) Kardelen TV
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/89849
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Köy TV" group-title="TR - YEREL",(TR) Köy TV
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/89848
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Koza TV" group-title="TR - YEREL",(TR) Koza TV
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/77240
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Kon Tv" group-title="TR - YEREL",(TR) Kon Tv
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/55397
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Krt TV" group-title="TR - YEREL",(TR) Krt TV
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/29986
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Kadırga TV" group-title="TR - YEREL",(TR) Kadırga TV
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/77245
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Mercan TV" group-title="TR - YEREL",(TR) Mercan TV
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/29995
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Line TV" group-title="TR - YEREL",(TR) Line TV
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/29987
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Mc EU" group-title="TR - YEREL",(TR) Mc EU
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/89853
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Lider TV" group-title="TR - YEREL",(TR) Lider TV
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/129525
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Rumeli TV" group-title="TR - YEREL",(TR) Rumeli TV
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/129523
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Pamukkale TV" group-title="TR - YEREL",(TR) Pamukkale TV
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/30001
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Sat:7 Turk" group-title="TR - YEREL",(TR) Sat:7 Turk
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/56986
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Kayseri TV" group-title="TR - YEREL",(TR) Kayseri TV
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/30015
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Kibris Genç" group-title="TR - YEREL",(TR) Kibris Genç
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/122567
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Tv1" group-title="TR - YEREL",(TR) Tv1
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/129199
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Tv 4" group-title="TR - YEREL",(TR) Tv 4
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/30011
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Tv 5" group-title="TR - YEREL",(TR) Tv 5
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/31679
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Tv 42" group-title="TR - YEREL",(TR) Tv 42
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/129204
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Tv 52 Ordu" group-title="TR - YEREL",(TR) Tv 52 Ordu
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/2898
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Tv 1 Kayseri" group-title="TR - YEREL",(TR) Tv 1 Kayseri
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/89844
+#EXTINF:-1 tvg-id="" tvg-name="(TR) TGRT EU" group-title="TR - YEREL",(TR) TGRT EU
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/77261
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Tarim Turk" group-title="TR - YEREL",(TR) Tarim Turk
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/77262
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Tek Rumeli" group-title="TR - YEREL",(TR) Tek Rumeli
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/103530
+#EXTINF:-1 tvg-id = "" tvg-name = "(TR) Ulusal Kanal" group-title = "TR - YEREL",(TR) Ulusal Kanal
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/30018
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Ucankus TV 4K+" group-title="TR - YEREL",(TR) Ucankus TV 4K+
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/79444
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Vatan TV" group-title="TR - YEREL",(TR) Vatan TV
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/30701
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Vizyon 58" group-title="TR - YEREL",(TR) Vizyon 58
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/77234
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Vuslat TV" group-title="TR - YEREL",(TR) Vuslat TV
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/29961
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Yol TV" group-title="TR - YEREL",(TR) Yol TV
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/30026
+#EXTINF:-1 tvg-id = "" tvg-name = "(TR) Yıldız En" group-title = "TR - YEREL",(TR) Yıldız En
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/30025
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Yeni Kocaeli TV" group-title="TR - YEREL",(TR) Yeni Kocaeli TV
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/129201
+#EXTINF:-1 tvg-id="" tvg-name="(TR) TÜRKMENELİ TV" group-title="TR - YEREL",(TR) TÜRKMENELİ TV
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/155493
+#EXTINF:-1 tvg-id="" tvg-name="(TR) AL TÜRKMENYA TV" group-title="TR - YEREL",(TR) AL TÜRKMENYA TV
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/157347
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Zaza TV" group-title="TR - YEREL",(TR) Zaza TV
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/129522
+#EXTINF:-1 tvg-id="AHaber.tr" tvg-name="(TR) A Haber 4K+" group-title="TR - HABER",(TR) A Haber 4K+
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/3072
+#EXTINF:-1 tvg-id="TRTHaber.tr" tvg-name="(TR) TRT Haber 4K+" group-title="TR - HABER",(TR) TRT Haber 4K+
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/2830
+#EXTINF:-1 tvg-id="TRTHaber.tr" tvg-name="(TR) TGRT Haber 4K+" group-title="TR - HABER",(TR) TGRT Haber 4K+
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/2846
+#EXTINF:-1 tvg-id=”Haberturk.tr” tvg-name=”(TR) Haber Türk 4K+” group-title=”TR - HABER”,(TR) Haber Türk 4K+
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/2970
+#EXTINF:-1 tvg-id="CNNTurk.tr" tvg-name="(TR) CNN TÜRK 4K+" group-title="TR - HABER",(TR) CNN TÜRK 4K+
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/3006
+#EXTINF:-1 tvg-id="TRTTurk.tr" tvg-name="(TR) TRT Türk 4K+" group-title="TR - HABER",(TR) TRT Türk 4K+
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/2823
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Sözcü TV 4K+" group-title="TR - HABER",(TR) Sözcü TV 4K+
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/147433
+#EXTINF:-1 tvg-id="24.tr" tvg-name="(TR) 24 TV 4K" group-title="TR - HABER",(TR) 24 TV 4K
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/34571
+#EXTINF:-1 tvg-id="UlkeTV.tr" tvg-name="(TR) Ulke TV 4K+" group-title="TR - HABER",(TR) Ulke TV 4K+
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/2801
+#EXTINF:-1 tvg-id="Halk TV TR" tvg-name="(TR) Halk TV 4K" group-title="TR - HABER",(TR) Halk TV 4K
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/29965
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Ekol TV 4K+" group-title="TR - HABER",(TR) Ekol TV 4K+
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/174769
+#EXTINF:-1 tvg-id="BloombergHT.tr" tvg-name="(TR) Bloomberg 4K" group-title="TR - HABER",(TR) Bloomberg 4K
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/3013
+#EXTINF:-1 tvg-id="HaberGlobal.tr" tvg-name="(TR) Haber Global 4K+" group-title="TR - HABER",(TR) Haber Global 4K+
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/48946
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Flash TV 4K" group-title="TR - HABER",(TR) Flash TV 4K
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/120304
+#EXTINF:-1 tvg-id="TVNET.tr" tvg-name="(TR) TV Net 4K+" group-title="TR - HABER",(TR) TV Net 4K+
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/2804
+#EXTINF:-1 tvg-id="NTV.tr" tvg-name="(TR) NTV 4K+" group-title="TR - HABER",(TR) NTV 4K+
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/2894
+#EXTINF:-1 tvg-id="KRTTV.tr" tvg-name="(TR) Krt TV 4K" group-title="TR - HABER",(TR) Krt TV 4K
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/2933
+#EXTINF:-1 tvg-id="" tvg-name="(TR) A Para 4K" group-title="TR - HABER",(TR) A Para 4K
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/29844
+#EXTINF:-1 tvg-id="" tvg-name="(TR) A News 4K" group-title="TR - HABER",(TR) A News 4K
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/29843
+#EXTINF:-1 tvg-id="TRTWorld.tr" tvg-name="(TR) TRT World 4K+" group-title="TR - HABER",(TR) TRT World 4K+
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/2822
+#EXTINF:-1 tvg-id="" tvg-name="✦✦✦ TR HABER HD ✦✦✦" group-title="TR - HABER",✦✦✦ TR HABER HD ✦✦✦
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/1440
+#EXTINF:-1 tvg-id="Haberturk.tr" tvg-name="(TR) Haber Turk HD" group-title="TR - HABER",(TR) Haber Turk HD
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/2969
+#EXTINF:-1 tvg-id="TRTHaber.tr" tvg-name="(TR) TRT Haber HD" group-title="TR - HABER",(TR) TRT Haber HD
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/2829
+#EXTINF:-1 tvg-id="CNNTurk.tr" tvg-name="(TR) CNN Turk HD" group-title="TR - HABER",(TR) CNN Turk HD
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/3005
+#EXTINF:-1 tvg-id="AHaber.tr" tvg-name="(TR) A Haber HD" group-title="TR - HABER",(TR) A Haber HD
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/3071
+#EXTINF:-1 tvg-id="24.tr" tvg-name="(TR) 24 TV HD" group-title="TR - HABER",(TR) 24 TV HD
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/127719
+#EXTINF:-1 tvg-id="360.tr" tvg-name="(TR) 360 TV HD" group-title="TR - HABER",(TR) 360 TV HD
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/3074
+#EXTINF:-1 tvg-id="TV100.tr" tvg-name="(TR) Tv 100 HD" group-title="TR - HABER",(TR) Tv 100 HD
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/52541
+#EXTINF:-1 tvg-id = "" tvg-name = "(TR) Uzay Haber" group-title = "TR - HABER",(TR) Uzay Haber
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/30019
+#EXTINF:-1 tvg-id = "" tvg-name = "(TR) Haber 61" group-title = "TR - HABER",(TR) Haber 61
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/61316
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Tele 1" group-title="TR - HABER",(TR) Tele 1
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/2851
+#EXTINF:-1 tvg-id="" tvg-name="(TR) XP Turkiyem Mix HD" group-title="TR - MÜZİK",(TR) XP Turkiyem Mix HD
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/104728
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Power Türk 4K+" group-title="TR - MÜZİK",(TR) Power Türk 4K+
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/2887
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Power TV 4K+" group-title="TR - MÜZİK",(TR) Power TV 4K+
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/2885
+#EXTINF:-1 tvg-id="" tvg-name="(TR) PowerTürk Taptaze TV" group-title="TR - MÜZİK",(TR) PowerTürk Taptaze TV
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/170058
+#EXTINF:-1 tvg-id="" tvg-name="(TR) PowerTürk Slow TV" group-title="TR - MÜZİK",(TR) PowerTürk Slow TV
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/170057
+#EXTINF:-1 tvg-id="" tvg-name="(TR) PowerTürk Akustik TV" group-title="TR - MÜZİK",(TR) PowerTürk Akustik TV
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/170056
+#EXTINF:-1 tvg-id="" tvg-name="(TR) TRT Müzik 4K+" group-title="TR - MÜZİK",(TR) TRT Müzik 4K+
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/2828
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Kral Pop HD" group-title="TR - MÜZİK",(TR) Kral Pop HD
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/2935
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Kral Tv HD" group-title="TR - MÜZİK",(TR) Kral Tv HD
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/2934
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Nr1 HD" group-title="TR - MÜZİK",(TR) Nr1 HD
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/2899
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Nr1 Türk HD" group-title="TR - MÜZİK",(TR) Nr1 Türk HD
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/2897
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Nr1 Türk 4K" group-title="TR - MÜZİK",(TR) Nr1 Türk 4K
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/170414
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Nr1 Ask 4K" group-title="TR - MÜZİK",(TR) Nr1 Ask 4K
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/170413
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Nr 1 4K" group-title="TR - MÜZİK",(TR) Nr 1 4K
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/170412
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Dream TV" group-title="TR - MÜZİK",(TR) Dream TV
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/2995
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Dream Turk" group-title="TR - MÜZİK",(TR) Dream Turk
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/2996
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Ekin Türk TV" group-title="TR - MÜZİK",(TR) Ekin Türk TV
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/129529
+#EXTINF:-1 tvg-id="" tvg-name="(TR) XP Türkü 1" group-title="TR - MÜZİK",(TR) XP Türkü 1
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/31102
+#EXTINF:-1 tvg-id="" tvg-name="(TR) XP Türkü 2" group-title="TR - MÜZİK",(TR) XP Türkü 2
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/106124
+#EXTINF:-1 tvg-id="" tvg-name="(TR) XP Slow Müzik 1" group-title="TR - MÜZİK",(TR) XP Slow Müzik 1
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/163886
+#EXTINF:-1 tvg-id="" tvg-name="(TR) XP Özgün Müzik" group-title="TR - MÜZİK",(TR) XP Özgün Müzik
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/106225
+#EXTINF:-1 tvg-id="" tvg-name="(TR) XP Arabesk 1" group-title="TR - MÜZİK",(TR) XP Arabesk 1
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/22968
+#EXTINF:-1 tvg-id = "" tvg-name = "(TR) XP Pop Müzik 1" group-title = "TR - MÜZİK",(TR) XP Pop Müzik 1
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/23689
+#EXTINF:-1 tvg-id="" tvg-name="(TR) XP Pop Muzik 2" group-title="TR - MÜZİK",(TR) XP Pop Muzik 2
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/105383
+#EXTINF:-1 tvg-id="" tvg-name="(TR) XP Ankara Mix" group-title="TR - MÜZİK",(TR) XP Ankara Mix
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/45337
+#EXTINF:-1 tvg-id = "" tvg-name = "(TR) XP İbrahim Tatlıses" group-title = "TR - MÜZİK",(TR) XP İbrahim Tatlıses
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/138515
+#EXTINF:-1 tvg-id = "" tvg-name = "(TR) XP Müslüm Gürses 1" group-title = "TR - MÜZİK",(TR) XP Müslüm Gürses 1
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/138516
+#EXTINF:-1 tvg-id="" tvg-name="(TR) XP Müslüm Gürses 2" group-title="TR - MÜZİK",(TR) XP Müslüm Gürses 2
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/104975
+#EXTINF:-1 tvg-id="" tvg-name="(TR) XP Orhan Gencebay" group-title="TR - MÜZİK",(TR) XP Orhan Gencebay
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/60801
+#EXTINF:-1 tvg-id="" tvg-name="(TR) XP Hakki BULUT" group-title="TR - MÜZİK",(TR) XP Hakki BULUT
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/105340
+#EXTINF:-1 tvg-id = "" tvg-name = "(TR) XP Koray Avcı" group-title = "TR - MÜZİK",(TR) XP Koray Avcı
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/138518
+#EXTINF:-1 tvg-id = "" tvg-name = "(TR) XP Ahmet Kaya" group-title = "TR - MÜZİK",(TR) XP Ahmet Kaya
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/60708
+#EXTINF:-1 tvg-id="" tvg-name="(TR) XP Adnan Şenses" group-title="TR - MÜZİK",(TR) XP Adnan Şenses
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/106302
+#EXTINF:-1 tvg-id = "" tvg-name = "(TR) XP Azer Bülbül" group-title = "TR - MÜZİK",(TR) XP Azer Bülbül
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/105298
+#EXTINF:-1 tvg-id="" tvg-name="(TR) XP Bergen" group-title="TR - MÜZİK",(TR) XP Bergen
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/105299
+#EXTINF:-1 tvg-id="" tvg-name="(TR) XP Bülent Ersoy" group-title="TR - MÜZİK",(TR) XP Bülent Ersoy
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/53191
+#EXTINF:-1 tvg-id="" tvg-name="(TR) XP Muazzez Ersoy" group-title="TR - MÜZİK",(TR) XP Muazzez Ersoy
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/104727
+#EXTINF:-1 tvg-id="" tvg-name="(TR) XP Sezen Aksu" group-title="TR - MÜZİK",(TR) XP Sezen Aksu
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/105202
+#EXTINF:-1 tvg-id="" tvg-name="(TR) XP Musa Eroğlu" group-title="TR - MÜZİK",(TR) XP Musa Eroğlu
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/105300
+#EXTINF:-1 tvg-id="" tvg-name="(TR) XP Halit Bilgiç" group-title="TR - MÜZİK",(TR) XP Halit Bilgiç
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/105301
+#EXTINF:-1 tvg-id="" tvg-name="(TR) XP Tufan Altaş HD" group-title="TR - MÜZİK",(TR) XP Tufan Altaş HD
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/105387
+#EXTINF:-1 tvg-id="" tvg-name="(TR) XP Zeki Müren" group-title="TR - MÜZİK",(TR) XP Zeki Müren
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/104949
+#EXTINF:-1 tvg-id="" tvg-name="(TR) XP Volkan KONAK" group-title="TR - MÜZİK",(TR) XP Volkan KONAK
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/138363
+#EXTINF:-1 tvg-id="" tvg-name="(TR) XP Akustik HD" group-title="TR - MÜZİK",(TR) XP Akustik HD
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/106456
+#EXTINF:-1 tvg-id="" tvg-name="(TR) XP Dark English Mix" group-title="TR - MÜZİK",(TR) XP Dark English Mix
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/105145
+#EXTINF:-1 tvg-id="" tvg-name="(TR) XP Efe Müzikleri" group-title="TR - MÜZİK",(TR) XP Efe Müzikleri
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/105339
+#EXTINF:-1 tvg-id="" tvg-name="(TR) XP Yabanci Mix" group-title="TR - MÜZİK",(TR) XP Yabanci Mix
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/75977
+#EXTINF:-1 tvg-id="" tvg-name="(TR) XP Nağme Fasil" group-title="TR - MÜZİK",(TR) XP Nağme Fasil
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/57177
+#EXTINF:-1 tvg-id="" tvg-name="(TR) XP İlahi" group-title="TR - MÜZİK",(TR) XP İlahi
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/138517
+#EXTINF:-1 tvg-id = "" tvg-name = "(TR) XP Taş Plak" group-title = "TR - MÜZİK",(TR) XP Taş Plak
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/105349
+#EXTINF:-1 tvg-id="" tvg-name="(TR) XP Karadeniz TV HD" group-title="TR - MÜZİK",(TR) XP Karadeniz TV HD
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/24261
+#EXTINF:-1 tvg-id = "" tvg-name = "(TR) XP Neşet Ertaş" group-title = "TR - MÜZİK",(TR) XP Neşet Ertaş
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/60711
+#EXTINF:-1 tvg-id="" tvg-name="(TR) XP Emel Sayın" group-title="TR - MÜZİK",(TR) XP Emel Sayın
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/76169
+#EXTINF:-1 tvg-id="" tvg-name="(TR) XP Kazancı Bedih" group-title="TR - MÜZİK",(TR) XP Kazancı Bedih
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/104999
+#EXTINF:-1 tvg-id="" tvg-name="(TR) XP Tarkan" group-title="TR - MÜZİK",(TR) XP Tarkan
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/105216
+#EXTINF:-1 tvg-id="" tvg-name="(TR) XP Bozlak" group-title="TR - MÜZİK",(TR) XP Bozlak
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/105217
+#EXTINF:-1 tvg-id = "" tvg-name = "(TR) XP Ankara Havaları" group-title = "TR - MÜZİK",(TR) XP Ankara Havaları
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/105390
+#EXTINF:-1 tvg-id = "" tvg-name = "(TR) XP Düet Müzik HD" group-title = "TR - MÜZİK",(TR) XP Düet Müzik HD
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/105457
+#EXTINF:-1 tvg-id = "" tvg-name = "(TR) XP Türk Halk Müziği" group-title = "TR - MÜZİK",(TR) XP Türk Halk Müziği
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/105481
+#EXTINF:-1 tvg-id="" tvg-name="(TR) XP Shakira HD" group-title="TR - MÜZİK",(TR) XP Shakira HD
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/105860
+#EXTINF:-1 tvg-id="" tvg-name="(TR) XP Ferdi Tayfur" group-title="TR - MÜZİK",(TR) XP Ferdi Tayfur
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/137199
+#EXTINF:-1 tvg-id="" tvg-name="(TR) XP Mavi Karadeniz" group-title="TR - MÜZİK",(TR) XP Mavi Karadeniz
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/137249
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Trt Çocuk" group-title="TR - ÇOCUK",(TR) Trt Çocuk
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/2833
+#EXTINF:-1 tvg-id="babytv.tr" tvg-name="(TR) Baby TV" group-title="TR - ÇOCUK",(TR) Baby TV
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/3051
+#EXTINF:-1 tvg-id = "" tvg-name = "(TR) Nick JR" group-title = "TR - ÇOCUK",(TR) Nick JR
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/9303
+#EXTINF:-1 tvg-id="DisneyJunior.tr" tvg-name="(TR) Disney JR" group-title="TR - ÇOCUK",(TR) Disney JR
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/9304
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Moonbug" group-title="TR - ÇOCUK",(TR) Moonbug
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/170411
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Cartoonito" group-title="TR - ÇOCUK",(TR) Cartoonito
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/170410
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Minika Go" group-title="TR - ÇOCUK",(TR) Minika Go
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/2922
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Cbeebies HD" group-title="TR - ÇOCUK",(TR) Cbeebies HD
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/7431
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Minika Çocuk" group-title="TR - ÇOCUK",(TR) Minika Çocuk
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/2923
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Disney Channel" group-title="TR - ÇOCUK",(TR) Disney Channel
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/3001
+#EXTINF:-1 tvg-id="Nickelodeon.tr" tvg-name="(TR) Nickelodeon HD" group-title="TR - ÇOCUK",(TR) Nickelodeon HD
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/2900
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Cartoon Network" group-title="TR - ÇOCUK",(TR) Cartoon Network
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/3011
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Diyanet Çocuk 4K" group-title="TR - ÇOCUK",(TR) Diyanet Çocuk 4K
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/159340
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Karanlık Diyanet 4K" group-title="TR - ÇOCUK",(TR) Karanlık Diyanet 4K
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/175811
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Trt Eba TV İlkokul HD" group-title="TR - ÇOCUK",(TR) Trt Eba TV İlkokul HD
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/58179
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Trt Eba TV Ortaokul HD" group-title="TR - ÇOCUK",(TR) Trt Eba TV Ortaokul HD
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/58180
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Trt Eba TV Lise HD" group-title="TR - ÇOCUK",(TR) Trt Eba TV Lise HD
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/58181
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Şeker Hoca HD" group-title="TR - ÇOCUK",(TR) Şeker Hoca HD
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/175704
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Sevimli Dostlar 1" group-title="TR - ÇOCUK",(TR) Sevimli Dostlar 1
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/103507
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Sevimli Dostlar 2" group-title="TR - ÇOCUK",(TR) Sevimli Dostlar 2
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/151669
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Niloya 1 HD" group-title="TR - ÇOCUK",(TR) Niloya 1 HD
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/28284
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Niloya 2 HD" group-title="TR - ÇOCUK",(TR) Niloya 2 HD
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/71183
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Pepe TV HD" group-title="TR - ÇOCUK",(TR) Pepe TV HD
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/28367
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Rafadan Tayfa 1 HD" group-title="TR - ÇOCUK",(TR) Rafadan Tayfa 1 HD
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/96368
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Rafadan Tayfa 2 HD" group-title="TR - ÇOCUK",(TR) Rafadan Tayfa 2 HD
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/96515
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Maşa ile Koca Ayi 1" group-title="TR - ÇOCUK",(TR) Maşa ile Koca Ayi 1
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/32029
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Maşa ile Koca Ayi 2" group-title="TR - ÇOCUK",(TR) Maşa ile Koca Ayi 2
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/71203
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Tom Ve Jerry HD" group-title="TR - ÇOCUK",(TR) Tom Ve Jerry HD
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/47688
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Kral Şakir HD" group-title="TR - ÇOCUK",(TR) Kral Şakir HD
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/71184
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Keloğlan HD" group-title="TR - ÇOCUK",(TR) Keloğlan HD
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/81425
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Sirinler HD" group-title="TR - ÇOCUK",(TR) Sirinler HD
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/78475
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Casper HD" group-title="TR - ÇOCUK",(TR) Casper HD
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/78474
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Emiray HD" group-title="TR - ÇOCUK",(TR) Emiray HD
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/96900
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Hilda HD" group-title="TR - ÇOCUK",(TR) Hilda HD
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/71202
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Aslan HD" group-title="TR - ÇOCUK",(TR) Aslan HD
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/96550
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Ciciki HD" group-title="TR - ÇOCUK",(TR) Ciciki HD
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/97472
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Can HD" group-title="TR - ÇOCUK",(TR) Can HD
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/78468
+#EXTINF:-1 tvg-id="" tvg-name="(TR) İbi HD" group-title="TR - ÇOCUK",(TR) İbi HD
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/96990
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Kaptan Pengu" group-title="",(TR) Kaptan Pengu
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/141272
+#EXTINF:-1 tvg-id="" tvg-name="(TR) 7/24 Simpsonlar" group-title="TR - ÇOCUK",(TR) 7/24 Simpsonlar
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/155136
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Leylek Kardeş HD" group-title="TR - ÇOCUK",(TR) Leylek Kardeş HD
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/97633
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Maysa ve Bulut HD" group-title="TR - ÇOCUK",(TR) Maysa ve Bulut HD
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/97475
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Canım Kardeşim HD" group-title="TR - ÇOCUK",(TR) Canım Kardeşim HD
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/97321
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Küçük Hezarfen HD" group-title="TR - ÇOCUK",(TR) Küçük Hezarfen HD
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/97226
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Akıllı Tavşan Momo" group-title="TR - ÇOCUK",(TR) Akıllı Tavşan Momo
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/96901
+#EXTINF:-1 tvg-id = "" tvg-name = "(TR) Elif ve Arkadaşları" group-title = "TR - ÇOCUK",(TR) Elif ve Arkadaşları
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/96516
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Pırıl ve Su Elçileri" group-title="TR - ÇOCUK",(TR) Pırıl ve Su Elçileri
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/97066
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Bulmaca Kulesi" group-title="TR - ÇOCUK",(TR) Bulmaca Kulesi
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/97660
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Rick And Morty" group-title="TR - ÇOCUK",(TR) Rick And Morty
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/82682
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Teletabiler HD" group-title="TR - ÇOCUK",(TR) Teletabiler HD
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/78469
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Animasyon 1 HD" group-title="TR - ÇOCUK",(TR) Animasyon 1 HD
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/47672
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Animasyon 2 HD" group-title="TR - ÇOCUK",(TR) Animasyon 2 HD
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/47673
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Animasyon 3 HD" group-title="TR - ÇOCUK",(TR) Animasyon 3 HD
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/94092
+#EXTINF:-1 tvg-id = "" tvg-name = "(TR) Sihirli Matematik" group-title = "TR - ÇOCUK",(TR) Sihirli Matematik
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/97659
+#EXTINF:-1 tvg-id = "" tvg-name = "(TR) Mutlu Oyuncak Dükkanı" group-title = "TR - ÇOCUK",(TR) Mutlu Oyuncak Dükkanı
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/97650
+#EXTINF:-1 tvg-id="" tvg-name="(TR) The Legend of Korra" group-title="TR - ÇOCUK",(TR) The Legend of Korra
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/111876
+#EXTINF:-1 tvg-id="" tvg-name="(TR) 7/24 Marvel's Spidey" group-title="TR - ÇOCUK",(TR) 7/24 Marvel's Spidey
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/170416
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Carmen Sandiego" group-title="TR - ÇOCUK",(TR) Carmen Sandiego
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/111815
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Diyanet TV 4k+" group-title="TR - DİNİ",(TR) Diyanet TV 4k+
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/34573
+#EXTINF:-1 tvg-id="semerkandtv.tr" tvg-name="(TR) Semerkand TV 4K+" group-title="TR - DİNİ",(TR) Semerkand TV 4K+
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/2878
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Vav TV 4K+" group-title="TR - DİNİ",(TR) Vav TV 4K+
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/148762
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Medine TV" group-title="TR - DİNİ",(TR) Medine TV
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/29992
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Meltem TV" group-title="TR - DİNİ",(TR) Meltem TV
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/29994
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Lalegul TV" group-title="TR - DİNİ",(TR) Lalegul TV
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/30027
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Rehber TV" group-title="TR - DİNİ",(TR) Rehber TV
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/30003
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Kudus TV" group-title="TR - DİNİ",(TR) Kudus TV
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/14401
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Kanal on4" group-title="TR - Dİ",(TR) Kanal on4
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/50644
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Kabe TV" group-title="TR - DİNİ",(TR) Kabe TV
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/47684
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Dost TV" group-title="TR - DİNİ",(TR) Dost TV
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/2997
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Berat TV" group-title="TR - DİNİ",(TR) Berat TV
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/129203
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Fm TV" group-title="TR - DİNİ",(TR) Fm TV
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/77250
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Dini Film" group-title="TR - DİNİ",(TR) Dini Film
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/149297
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Hz Ali (RA)" group-title="TR - DİNİ",(TR) Hz Ali (RA)
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/149299
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Hz Muhammet (SAV)" group-title="TR - DİNİ",(TR) Hz Muhammet (SAV)
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/149298
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Kur'an-ı Kerim 1" group-title="TR - DİNİ",(TR) Kur'an-ı Kerim 1
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/149226
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Kur'an-ı Kerim 2" group-title="TR - DİNİ",(TR) Kur'an-ı Kerim 2
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/149292
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Nihat Hatipoğlu" group-title="TR - DİNİ",(TR) Nihat Hatipoğlu
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/149323
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Bein Box Office 1 4K+" group-title="TR - YABANCI SINEMA",(TR) Bein Box Office 1 4K+
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/3050
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Bein Box Office 2 4K+" group-title="TR - YABANCI SINEMA",(TR) Bein Box Office 2 4K+
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/3049
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Bein Box Office 3 4K+" group-title="TR - YABANCI SINEMA",(TR) Bein Box Office 3 4K+
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/3048
+#EXTINF:-1 tvg-id="beIN MOVIESTURKHD" tvg-name="(TR) Bein Movies Turk 4K+" group-title="TR - YABANCI SINEMA",(TR) Bein Movies Turk 4K+
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/3038
+#EXTINF:-1 tvg-id="beINMOVIESSTARSHD" tvg-name="(TR) Bein Movies Stars 4K+" group-title="TR - YABANCI SINEMA",(TR) Bein Movies Stars 4K+
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/3039
+#EXTINF:-1 tvg-id="beINMOVIESACTION2HD" tvg-name="(TR) Bein Movies Action 2 4K+" group-title="TR - YABANCI SINEMA",(TR) Bein Movies Action 2 4K+
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/3046
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Bein Movies Premiere 4K+" group-title="TR - YABANCI SINEMA",(TR) Bein Movies Premiere 4K+
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/89829
+#EXTINF:-1 tvg-id="beINMOVIESPREMIERE2HD" tvg-name="(TR) Bein Movies Premiere 2 4K+" group-title="TR - YABANCI SINEMA",(TR) Bein Movies Premiere 2 4K+
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/3041
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Bein Series 1 4K+" group-title="TR - YABANCI SINEMA",(TR) Bein Series 1 4K+
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/89832
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Bein Series 2 4K+" group-title="TR - YABANCI SINEMA",(TR) Bein Series 2 4K+
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/89831
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Bein Series 3 4K+" group-title="TR - YABANCI SINEMA",(TR) Bein Series 3 4K+
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/89830
+#EXTINF:-1 tvg-id="beINSERIESSCI-FIHD" tvg-name="(TR) Bein Series 4 4K+" group-title="TR - YABANCI SINEMA",(TR) Bein Series 4 4K+
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/3035
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Moviesmart Turk 4K+" group-title="TR - YABANCI SINEMA",(TR) Moviesmart Turk 4K+
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/2906
+#EXTINF:-1 tvg-id="moviesmartaction.tr" tvg-name="(TR) Moviesmart Action 4K+" group-title="TR - YABANCI SINEMA",(TR) Moviesmart Action 4K+
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/2920
+#EXTINF:-1 tvg-id="moviesmartclassic.tr" tvg-name="(TR) Moviesmart Classic 4K+" group-title="TR - YABANCI SINEMA",(TR) Moviesmart Classic 4K+
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/2918
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Premium Dizismart 4K+" group-title="TR - YABANCI SİNEMA",(TR) Premium Dizismart 4K+
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/89833
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Sinema TV Komedi 4K+" group-title="TR - YABANCI SİNEMA",(TR) Sinema TV Komedi 4K+
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/170407
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Sinema Yerli 1 4K+" group-title="TR - YABANCI SİNEMA",(TR) Sinema Yerli 1 4K+
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/170408
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Sinema Yerli 2 4K+" group-title="TR - YABANCI SİNEMA",(TR) Sinema Yerli 2 4K+
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/170406
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Sinema Aile 1 4K+" group-title="TR - YABANCI SİNEMA",(TR) Sinema Aile 1 4K+
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/89838
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Sinema Aile 2 4K+" group-title="TR - YABANCI SİNEMA",(TR) Sinema Aile 2 4K+
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/170404
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Sinema TV 1 4K+" group-title="TR - YABANCI SİNEMA",(TR) Sinema TV 1 4K+
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/89835
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Sinema TV 2 4K+" group-title="TR - YABANCI SİNEMA",(TR) Sinema TV 2 4K+
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/89836
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Sinema Aksion 1 4K+" group-title="TR - YABANCI SİNEMA",(TR) Sinema Aksion 1 4K+
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/89839
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Sinema Aksion 2 4K+" group-title="TR - YABANCI SİNEMA",(TR) Sinema Aksion 2 4K+
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/170405
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Sinema TV 1001 4K+" group-title="TR - YABANCI SINEMA",(TR) Sinema TV 1001 4K+
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/89837
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Sinema TV 1002 4K+" group-title="TR - YABANCI SINEMA",(TR) Sinema TV 1002 4K+
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/89834
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Epic Drama" group-title="TR - YABANCI SINEMA",(TR) Epic Drama
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/170409
+#EXTINF:-1 tvg-id="fxnetwork.tr" tvg-name="(TR) Fx HD" group-title="TR - YABANCI SINEMA",(TR) Fx HD
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/2975
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Sinema Turk 1 HD" group-title="TR - 7/24 YERLI SINEMA",(TR) Sinema Turk 1 HD
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/164248
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Sinema Turk 2 HD" group-title="TR - 7/24 YERLI SINEMA",(TR) Sinema Turk 2 HD
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/174557
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Sinema Turk 3 HD" group-title="TR - 7/24 YERLI SINEMA",(TR) Sinema Turk 3 HD
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/174558
+#EXTINF:-1 tvg-id="" tvg-name="TR) Sinema Turk 4 HD" group-title="TR - 7/24 YERLI SINEMA",TR) Sinema Turk 4 HD
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/2912
+#EXTINF:-1 tvg-id="" tvg-name="TR) Sinema Turk 5 HD" group-title="TR - 7/24 YERLI SINEMA",TR) Sinema Turk 5 HD
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/2869
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Sinema Turk 6 HD" group-title="TR - 7/24 YERLI SINEMA",(TR) Sinema Turk 6 HD
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/97694
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Sinema Turk 7 HD" group-title="TR - 7/24 YERLI SINEMA",(TR) Sinema Turk 7 HD
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/101047
+#EXTINF:-1 tvg-id="" tvg-name="(TR) 7/24 Yerli Komedi 1" group-title="TR - 7/24 YERLİ SİNEMA",(TR) 7/24 Yerli Komedi 1
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/151106
+#EXTINF:-1 tvg-id="" tvg-name="(TR) 7/24 Yerli Komedi 2" group-title="TR - 7/24 YERLİ SİNEMA",(TR) 7/24 Yerli Komedi 2
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/101048
+#EXTINF:-1 tvg-id="" tvg-name="(TR) 7/24 Yerli Komedi 3" group-title="TR - 7/24 YERLİ SİNEMA",(TR) 7/24 Yerli Komedi 3
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/151645
+#EXTINF:-1 tvg-id="" tvg-name="(TR) 7/24 Yerli Korku" group-title="TR - 7/24 YERLİ SİNEMA",(TR) 7/24 Yerli Korku
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/97726
+#EXTINF:-1 tvg-id = "" tvg-name = "(TR) 7/24 Konuşanlar 1" group-title = "TR - 7/24 YERLİ SİNEMA",(TR) 7/24 Konuşanlar 1
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/101016
+#EXTINF:-1 tvg-id = "" tvg-name = "(TR) 7/24 Konuşanlar 2" group-title = "TR - 7/24 YERLİ SİNEMA",(TR) 7/24 Konuşanlar 2
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/151668
+#EXTINF:-1 tvg-id="" tvg-name="(TR) 7/24 Recep İVEDIK" group-title="TR - 7/24 YERLİ SİNEMA",(TR) 7/24 Recep İVEDIK
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/61192
+#EXTINF:-1 tvg-id="" tvg-name="(TR) 7/24 Ata DEMİRER" group-title="TR - 7/24 YERLİ SİNEMA",(TR) 7/24 Ata DEMİRER
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/105459
+#EXTINF:-1 tvg-id = "" tvg-name = "(TR) 7/24 Cem YILMAZ" group-title = "TR - 7/24 YERLİ SİNEMA",(TR) 7/24 Cem YILMAZ
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/61256
+#EXTINF:-1 tvg-id="" tvg-name="(TR) 7/24 Şafak Sezer 1" group-title="TR - 7/24 YERLİ SİNEMA",(TR) 7/24 Şafak Sezer 1
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/61110
+#EXTINF:-1 tvg-id="" tvg-name="(TR) 7/24 Şafak Sezer 2" group-title="TR - 7/24 YERLİ SİNEMA",(TR) 7/24 Şafak Sezer 2
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/71211
+#EXTINF:-1 tvg-id="" tvg-name="(TR) 7/24 Gain Original" group-title="TR - 7/24 YERLI SINEMA",(TR) 7/24 Gain Original
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/136972
+#EXTINF:-1 tvg-id="" tvg-name="(TR) 7/24 Tabii Original 1" group-title="TR - 7/24 YERLI SINEMA",(TR) 7/24 Tabii Original 1
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/151779
+#EXTINF:-1 tvg-id="" tvg-name="(TR) 7/24 Tabii Original 2" group-title="TR - 7/24 YERLI SINEMA",(TR) 7/24 Tabii Original 2
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/151793
+#EXTINF:-1 tvg-id="" tvg-name="(TR) 7/24 Tabii Original 3" group-title="TR - 7/24 YERLI SINEMA",(TR) 7/24 Tabii Original 3
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/152032
+#EXTINF:-1 tvg-id="" tvg-name="(TR) 7/24 Blu TV HD" group-title="TR - 7/24 YERLI SINEMA",(TR) 7/24 Blu TV HD
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/71209
+#EXTINF:-1 tvg-id = "" tvg-name = "(TR) 7/24 Hababam Sınıfı" group-title = "TR - 7/24 YERLİ SİNEMA",(TR) 7/24 Hababam Sınıfı
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/53552
+#EXTINF:-1 tvg-id = "" tvg-name = "(TR) 7/24 Kemal Sunal 1" group-title = "TR - 7/24 YERLİ SİNEMA",(TR) 7/24 Kemal Sunal 1
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/21070
+#EXTINF:-1 tvg-id = "" tvg-name = "(TR) 7/24 Kemal Sunal 2" group-title = "TR - 7/24 YERLİ SİNEMA",(TR) 7/24 Kemal Sunal 2
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/2984
+#EXTINF:-1 tvg-id = "" tvg-name = "(TR) 7/24 Kemal Sunal 3" group-title = "TR - 7/24 YERLİ SİNEMA",(TR) 7/24 Kemal Sunal 3
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/47680
+#EXTINF:-1 tvg-id = "" tvg-name = "(TR) 7/24 Kemal Sunal 4" group-title = "TR - 7/24 YERLİ SİNEMA",(TR) 7/24 Kemal Sunal 4
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/71214
+#EXTINF:-1 tvg-id = "" tvg-name = "(TR) 7/24 Kemal Sunal 5" group-title = "TR - 7/24 YERLİ SİNEMA",(TR) 7/24 Kemal Sunal 5
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/101020
+#EXTINF:-1 tvg-id = "" tvg-name = "(TR) 7/24 Kemal Sunal 6" group-title = "TR - 7/24 YERLİ SİNEMA",(TR) 7/24 Kemal Sunal 6
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/101019
+#EXTINF:-1 tvg-id="" tvg-name="(TR) 7/24 Kemal Sunal 7" group-title="TR - 7/24 YERLİ SİNEMA",(TR) 7/24 Kemal Sunal 7
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/101018
+#EXTINF:-1 tvg-id="" tvg-name="(TR) 7/24 Yesilcam 1" group-title="TR - 7/24 YERLI SINEMA",(TR) 7/24 Yesilcam 1
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/47665
+#EXTINF:-1 tvg-id="" tvg-name="(TR) 7/24 Yesilcam 2" group-title="TR - 7/24 YERLI SINEMA",(TR) 7/24 Yesilcam 2
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/47662
+#EXTINF:-1 tvg-id="" tvg-name="(TR) 7/24 Yesilcam 3" group-title="TR - 7/24 YERLI SINEMA",(TR) 7/24 Yesilcam 3
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/71206
+#EXTINF:-1 tvg-id="" tvg-name="(TR) 7/24 Yesilcam 4" group-title="TR - 7/24 YERLI SINEMA",(TR) 7/24 Yesilcam 4
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/101032
+#EXTINF:-1 tvg-id="" tvg-name="(TR) 7/24 Yesilcam 5" group-title="TR - 7/24 YERLI SINEMA",(TR) 7/24 Yesilcam 5
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/101011
+#EXTINF:-1 tvg-id="" tvg-name="(TR) 7/24 Yesilcam 6" group-title="TR - 7/24 YERLI SINEMA",(TR) 7/24 Yesilcam 6
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/101010
+#EXTINF:-1 tvg-id="" tvg-name="(TR) 7/24 Yesilcam 7" group-title="TR - 7/24 YERLI SINEMA",(TR) 7/24 Yesilcam 7
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/101029
+#EXTINF:-1 tvg-id = "" tvg-name = "(TR) 7/24 Kadir İnanır 1" group-title = "TR - 7/24 YERLİ SİNEMA",(TR) 7/24 Kadir İnanır 1
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/2864
+#EXTINF:-1 tvg-id = "" tvg-name = "(TR) 7/24 Kadir İnanır 2" group-title = "TR - 7/24 YERLİ SİNEMA",(TR) 7/24 Kadir İnanır 2
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/71207
+#EXTINF:-1 tvg-id="" tvg-name="(TR) 7/24 Baddal Gazi" group-title="TR - 7/24 YERLİ SİNEMA",(TR) 7/24 Baddal Gazi
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/47664
+#EXTINF:-1 tvg-id="" tvg-name="(TR) 7/24 Cüneyt Arkın" group-title="TR - 7/24 YERLİ SİNEMA",(TR) 7/24 Cüneyt Arkın
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/47683
+#EXTINF:-1 tvg-id="" tvg-name="(TR) 7/24 Kartal Tibed" group-title="TR - 7/24 YERLI SINEMA",(TR) 7/24 Kartal Tibed
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/47671
+#EXTINF:-1 tvg-id="" tvg-name="(TR) 7/24 Tarık Akan" group-title="TR - 7/24 YERLİ SİNEMA",(TR) 7/24 Tarık Akan
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/47706
+#EXTINF:-1 tvg-id="" tvg-name="(TR) 7/24 Yılmaz Güney" group-title="TR - 7/24 YERLİ SİNEMA",(TR) 7/24 Yılmaz Güney
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/71213
+#EXTINF:-1 tvg-id="" tvg-name="(TR) 7/24 Ferdi Tayfur" group-title="TR - 7/24 YERLİ SİNEMA",(TR) 7/24 Ferdi Tayfur
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/101013
+#EXTINF:-1 tvg-id="" tvg-name="(TR) 7/24 Orhan Gencebay" group-title="TR - 7/24 YERLİ SİNEMA",(TR) 7/24 Orhan Gencebay
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/101012
+#EXTINF:-1 tvg-id="" tvg-name="(TR) İbo Gösterisi 1" group-title="TR - 7/24 DIZI & SHOW",(TR) İbo Gösterisi 1
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/79598
+#EXTINF:-1 tvg-id="" tvg-name="(TR) İbo Gösterisi 2" group-title="TR - 7/24 DIZI & SHOW",(TR) İbo Gösterisi 2
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/146583
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Tolg Show" group-title="TR - 7/24 DIZI & SHOW",(TR) Tolg Show
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/80222
+#EXTINF:-1 tvg-id="" tvg-name="(TR) BaBaLa TV" group-title="TR - 7/24 DIZI & SHOW",(TR) BaBaLa TV
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/143114
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Beyaz Show" group-title="TR - 7/24 DIZI & SHOW",(TR) Beyaz Show
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/98399
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Müge Anlı HD" group-title="TR - 7/24 DIZI & SHOW",(TR) Müge Anlı HD
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/142699
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Çok Güzel Hareketler" group-title="TR - 7/24 DIZI & SHOW",(TR) Çok Güzel Hareketler
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/94588
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Güldür Güldür Show" group-title="TR - 7/24 DIZI & SHOW",(TR) Güldür Güldür Show
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/149723
+#EXTINF:-1 tvg-id="" tvg-name="(TR) MasterChef HD" group-title="TR - 7/24 DIZI & SHOW",(TR) MasterChef HD
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/143149
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Kurtlar Vadisi 1" group-title="TR - 7/24 DIZI & SHOW",(TR) Kurtlar Vadisi 1
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/76645
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Kurtlar Vadisi 2" group-title="TR - 7/24 DIZI & SHOW",(TR) Kurtlar Vadisi 2
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/105717
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Behzat Ç" group-title="TR - 7/24 DIZI & SHOW",(TR) Behzat Ç
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/146572
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Ezel HD" group-title="TR - 7/24 DIZI & SHOW",(TR) Ezel HD
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/94173
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Çukur 1 HD" group-title="TR - 7/24 DIZI & SHOW",(TR) Çukur 1 HD
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/61136
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Çukur 2 HD" group-title="TR - 7/24 DIZI & SHOW",(TR) Çukur 2 HD
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/105421
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Kuruluş Osman 1" group-title="TR - 7/24 DIZI & SHOW",(TR) Kuruluş Osman 1
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/146968
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Kuruluş Osman 2" group-title="TR - 7/24 DIZI & SHOW",(TR) Kuruluş Osman 2
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/95509
+#EXTINF:-1 tvg-id="" tvg-name="(TR) İşler Güçler HD" group-title="TR - 7/24 DIZI & SHOW",(TR) İşler Güçler HD
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/105787
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Kardeş Payı HD" group-title="TR - 7/24 DIZI & SHOW",(TR) Kardeş Payı HD
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/105744
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Bizimkiler 1 HD" group-title="TR - 7/24 DIZI & SHOW",(TR) Bizimkiler 1 HD
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/105685
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Bizimkiler 2 HD" group-title="TR - 7/24 DIZI & SHOW",(TR) Bizimkiler 2 HD
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/105686
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Yazlıkçılar HD" group-title="TR - 7/24 DIZI & SHOW",(TR) Yazlıkçılar HD
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/105788
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Yaprak Dökümü HD" group-title="TR - 7/24 DIZI & SHOW",(TR) Yaprak Dökümü HD
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/105853
+#EXTINF:-1 tvg-id="" tvg-name="(TR) 7/24 Yabanci Sinema 1" group-title="TR - 7/24 YABANCI SINEMA",(TR) 7/24 Yabanci Sinema 1
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/76120
+#EXTINF:-1 tvg-id="" tvg-name="(TR) 7/24 Yabanci Sinema 2" group-title="TR - 7/24 YABANCI SINEMA",(TR) 7/24 Yabanci Sinema 2
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/76118
+#EXTINF:-1 tvg-id = "" tvg-name = "(TR) 7/24 Yabanci Sinema 3" group-title = "TR - 7/24 YABANCI SINEMA",(TR) 7/24 Yabanci Sinema 3
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/76119
+#EXTINF:-1 tvg-id="" tvg-name="(TR) 7/24 Yabanci Sinema 4" group-title="TR - 7/24 YABANCI SINEMA",(TR) 7/24 Yabanci Sinema 4
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/157859
+#EXTINF:-1 tvg-id = "" tvg-name = "(TR) 7/24 Yabanci Sinema 5" group-title = "TR - 7/24 YABANCI SINEMA",(TR) 7/24 Yabanci Sinema 5
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/108498
+#EXTINF:-1 tvg-id="" tvg-name="(TR) 7/24 Dark Salon 1 HD" group-title="TR - 7/24 YABANCI SINEMA",(TR) 7/24 Dark Salon 1 HD
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/158161
+#EXTINF:-1 tvg-id="" tvg-name="(TR) 7/24 Dark Salon 2 HD" group-title="TR - 7/24 YABANCI SINEMA",(TR) 7/24 Dark Salon 2 HD
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/158162
+#EXTINF:-1 tvg-id="" tvg-name="(TR) 7/24 Dark Salon 3 HD" group-title="TR - 7/24 YABANCI SINEMA",(TR) 7/24 Dark Salon 3 HD
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/158163
+#EXTINF:-1 tvg-id="" tvg-name="(TR) 7/24 Dark Salon 4 HD" group-title="TR - 7/24 YABANCI SINEMA",(TR) 7/24 Dark Salon 4 HD
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/164028
+#EXTINF:-1 tvg-id="" tvg-name="(TR) 7/24 Dark Salon 5 HD" group-title="TR - 7/24 YABANCI SINEMA",(TR) 7/24 Dark Salon 5 HD
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/174559
+#EXTINF:-1 tvg-id="" tvg-name="(TR) 7/24 Aksiyon 1" group-title="TR - 7/24 YABANCI SİNEMA",(TR) 7/24 Aksiyon 1
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/76879
+#EXTINF:-1 tvg-id="" tvg-name="(TR) 7/24 Aksiyon 2" group-title="TR - 7/24 YABANCI SİNEMA",(TR) 7/24 Aksiyon 2
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/91539
+#EXTINF:-1 tvg-id="" tvg-name="(TR) 7/24 Aksiyon 3" group-title="TR - 7/24 YABANCI SİNEMA",(TR) 7/24 Aksiyon 3
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/108403
+#EXTINF:-1 tvg-id="" tvg-name="(TR) 7/24 Korku 1" group-title="TR - 7/24 YABANCI SİNEMA",(TR) 7/24 Korku 1
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/47692
+#EXTINF:-1 tvg-id="" tvg-name="(TR) 7/24 Korku 2" group-title="TR - 7/24 YABANCI SİNEMA",(TR) 7/24 Korku 2
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/108405
+#EXTINF:-1 tvg-id="" tvg-name="(TR) 7/24 Marvel Sineması" group-title="TR - 7/24 YABANCI SİNEMA",(TR) 7/24 Marvel Sineması
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/47679
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Nostalji Sinema 1" group-title="TR - 7/24 YABANCI SİNEMA",(TR) Nostalji Sinema 1
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/94641
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Nostalji Sinema 2" group-title="TR - 7/24 YABANCI SİNEMA",(TR) Nostalji Sinema 2
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/158141
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Nostalji Sinema 3" group-title="TR - 7/24 YABANCI SİNEMA",(TR) Nostalji Sinema 3
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/158142
+#EXTINF:-1 tvg-id = "" tvg-name = "(TR) Türkçe Altyazı 1" group-title = "TR - 7/24 YABANCI SİNEMA",(TR) Türkçe Altyazı 1
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/74929
+#EXTINF:-1 tvg-id = "" tvg-name = "(TR) Türkçe Altyazı 2" group-title = "TR - 7/24 YABANCI SİNEMA",(TR) Türkçe Altyazı 2
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/108504
+#EXTINF:-1 tvg-id = "" tvg-name = "(TR) Türkçe Altyazı 3" group-title = "TR - 7/24 YABANCI SİNEMA",(TR) Türkçe Altyazı 3
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/112193
+#EXTINF:-1 tvg-id="" tvg-name="(TR) 7/24 Netflix 1" group-title="TR - 7/24 YABANCI SINEMA",(TR) 7/24 Netflix 1
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/157923
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Disney+ 1 HD" group-title="TR - 7/24 YABANCI SINEMA",(TR) Disney+ 1 HD
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/101030
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Disney+ 2 HD" group-title="TR - 7/24 YABANCI SINEMA",(TR) Disney+ 2 HD
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/157860
+#EXTINF:-1 tvg-id="" tvg-name="(TR) X Men HD" group-title="TR - 7/24 YABANCI SINEMA",(TR) X Men HD
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/94162
+#EXTINF:-1 tvg-id="" tvg-name="(TR) AL Pacino" group-title="TR - 7/24 YABANCI SINEMA",(TR) AL Pacino
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/91054
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Bruce Lee" group-title="TR - 7/24 YABANCI SINEMA",(TR) Bruce Lee
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/2929
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Rambo" group-title="TR - 7/24 YABANCI SİNEMA",(TR) Rambo
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/52680
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Brad Pitt" group-title="TR - 7/24 YABANCI SINEMA",(TR) Brad Pitt
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/80984
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Jackie Chan" group-title="TR - 7/24 YABANCI SINEMA",(TR) Jackie Chan
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/71205
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Nicolas Cage" group-title="TR - 7/24 YABANCI SİNEMA",(TR) Nicolas Cage
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/93454
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Van Damme" group-title="TR - 7/24 YABANCI SİNEMA",(TR) Van Damme
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/91071
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Jason Statham" group-title="TR - 7/24 YABANCI SINEMA",(TR) Jason Statham
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/47655
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Mark Wahlberg" group-title="TR - 7/24 YABANCI SINEMA",(TR) Mark Wahlberg
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/94648
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Harry Potter HD" group-title="TR - 7/24 YABANCI SINEMA",(TR) Harry Potter HD
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/108503
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Denzel Washington" group-title="TR - 7/24 YABANCI SINEMA",(TR) Denzel Washington
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/79554
+#EXTINF:-1 tvg-id="" tvg-name="(TR) 7/24 Kara Şimşek" group-title="TR - 7/24 YABANCI SİNEMA",(TR) 7/24 Kara Şimşek
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/88496
+#EXTINF:-1 tvg-id="aspor.tr" tvg-name="(TR) A Spor 4K+" group-title="TR - SPOR",(TR) A Spor 4K+
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/3069
+#EXTINF:-1 tvg-id="trtspor.tr" tvg-name="(TR) Trt Spor 4K+" group-title="TR - SPOR",(TR) Trt Spor 4K+
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/2824
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Trt Spor 2 4K+" group-title="TR - SPOR",(TR) Trt Spor 2 4K+
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/45485
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Trt Spor 3 4K+" group-title="TR - SPOR",(TR) Trt Spor 3 4K+
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/77263
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Trt Spor Yıldız 4K+" group-title="TR - SPOR",(TR) Trt Spor Yıldız 4K+
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/129198
+#EXTINF:-1 tvg-id="" tvg-name="(TR) HT Spor 4K" group-title="TR - SPOR",(TR) HT Spor 4K
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/175117
+#EXTINF:-1 tvg-id="smartspor.tr" tvg-name="(TR) Smart Spor 4K+" group-title="TR - SPOR",(TR) Smart Spor 4K+
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/2860
+#EXTINF:-1 tvg-id="" tvg-name="(TR) S Sport 1 4K+" group-title="TR - SPOR",(TR) S Sport 1 4K+
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/80320
+#EXTINF:-1 tvg-id="" tvg-name="(TR) S Sport 2 4K+" group-title="TR - SPOR",(TR) S Sport 2 4K+
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/80321
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Saran Spor 1 4K+" group-title="TR - SPOR",(TR) Saran Spor 1 4K+
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/2881
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Saran Spor 2 4K+" group-title="TR - SPOR",(TR) Saran Spor 2 4K+
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/52533
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Tabii Spor 4K" group-title="TR - SPOR",(TR) Tabii Spor 4K
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/175071
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Tabii Spor 1 4K" group-title="TR - SPOR",(TR) Tabii Spor 1 4K
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/175666
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Tabii Spor 2 4K" group-title="TR - SPOR",(TR) Tabii Spor 2 4K
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/175072
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Tabii Spor 3 4K" group-title="TR - SPOR",(TR) Tabii Spor 3 4K
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/175073
+#EXTINF:-1 tvg-id = "" tvg-name = "(TR) Tabii Spor 4 4K" group-title = "TR - SPOR",(TR) Tabii Spor 4 4K
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/175442
+#EXTINF:-1 tvg-id="" tvg-name="(TR) TABii SPOR 4 HD" group-title="TR - SPOR",(TR) TABii SPOR 4 HD
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/175441
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Tabii Spor 5 4K" group-title="TR - SPOR",(TR) Tabii Spor 5 4K
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/175440
+#EXTINF:-1 tvg-id="" tvg-name="(TR) TABii SPOR 5 HD" group-title="TR - SPOR",(TR) TABii SPOR 5 HD
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/175439
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Tabii Spor 6 4K" group-title="TR - SPOR",(TR) Tabii Spor 6 4K
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/175438
+#EXTINF:-1 tvg-id="" tvg-name="(TR) TABii SPOR 6 HD" group-title="TR - SPOR",(TR) TABii SPOR 6 HD
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/175437
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Tabii Spor 7 4K" group-title="TR - SPOR",(TR) Tabii Spor 7 4K
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/175436
+#EXTINF:-1 tvg-id="" tvg-name="(TR) TABii SPOR 7 HD" group-title="TR - SPOR",(TR) TABii SPOR 7 HD
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/175435
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Tabii Spor 8 4K" group-title="TR - SPOR",(TR) Tabii Spor 8 4K
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/175434
+#EXTINF:-1 tvg-id="" tvg-name="(TR) TABii SPOR 8 HD" group-title="TR - SPOR",(TR) TABii SPOR 8 HD
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/175433
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Tabii Spor 9 4K" group-title="TR - SPOR",(TR) Tabii Spor 9 4K
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/175432
+#EXTINF:-1 tvg-id="" tvg-name="(TR) TABii SPOR 9 HD" group-title="TR - SPOR",(TR) TABii SPOR 9 HD
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/175431
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Tabii Spor 10 4K" group-title="TR - SPOR",(TR) Tabii Spor 10 4K
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/175430
+#EXTINF:-1 tvg-id="" tvg-name="(TR) TABii SPOR 10 HD" group-title="TR - SPOR",(TR) TABii SPOR 10 HD
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/175429
+#EXTINF:-1 tvg-id="" tvg-name="(TR) S Sport+ 1 4K+" group-title="TR - SPOR",(TR) S Sport+ 1 4K+
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/135190
+#EXTINF:-1 tvg-id="" tvg-name="(TR) S Sport+ 2 4K+" group-title="TR - SPOR",(TR) S Sport+ 2 4K+
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/135189
+#EXTINF:-1 tvg-id="" tvg-name="(TR) S Sport+ 3 4K+" group-title="TR - SPOR",(TR) S Sport+ 3 4K+
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/135188
+#EXTINF:-1 tvg-id="" tvg-name="(TR) S Sport+ 4 4K+" group-title="TR - SPOR",(TR) S Sport+ 4 4K+
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/135187
+#EXTINF:-1 tvg-id="" tvg-name="(TR) S Sport+ 5 4K+" group-title="TR - SPOR",(TR) S Sport+ 5 4K+
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/135186
+#EXTINF:-1 tvg-id="" tvg-name="(TR) S Sport+ 6 4K+" group-title="TR - SPOR",(TR) S Sport+ 6 4K+
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/135185
+#EXTINF:-1 tvg-id="" tvg-name="(TR) S Sport+ 7 4K" group-title="TR - SPOR",(TR) S Sport+ 7 4K
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/175343
+#EXTINF:-1 tvg-id="" tvg-name="(TR) S Sport+ 8 4K" group-title="TR - SPOR",(TR) S Sport+ 8 4K
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/175344
+#EXTINF:-1 tvg-id="" tvg-name="(TR) S Sport+ 9 4K" group-title="TR - SPOR",(TR) S Sport+ 9 4K
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/175345
+#EXTINF:-1 tvg-id="" tvg-name="(TR) S Sport+ 10 4K" group-title="TR - SPOR",(TR) S Sport+ 10 4K
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/175346
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Tivibu Spor 1 4K+" group-title="TR - SPOR",(TR) Tivibu Spor 1 4K+
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/39472
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Tivibu Spor 2 4K+" group-title="TR - SPOR",(TR) Tivibu Spor 2 4K+
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/2844
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Tivibu Spor 3 4K+" group-title="TR - SPOR",(TR) Tivibu Spor 3 4K+
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/2843
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Tivibu Spor 1 4K+" group-title="TR - SPOR",(TR) Tivibu Spor 1 4K+
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/2845
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Nba Tv 4K+" group-title="TR - SPOR",(TR) Nba Tv 4K+
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/7427
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Tay Tv 4K+" group-title="TR - SPOR",(TR) Tay Tv 4K+
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/2853
+#EXTINF:-1 tvg-id="" tvg-name="✦ ✦ ✦ TR SPOR HD ✦ ✦ ✦" group-title="TR - SPOR",✦ ✦ ✦ TR SPOR HD ✦ ✦ ✦
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/1449
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Smart Spor HD" group-title="TR - SPOR",(TR) Smart Spor HD
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/114630
+#EXTINF:-1 tvg-id="" tvg-name="(TR) A Spor HD" group-title="TR - SPOR",(TR) A Spor HD
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/137441
+#EXTINF:-1 tvg-id="" tvg-name="(TR) S Sport HD Yedek" group-title="TR - SPOR",(TR) S Sport HD Yedek
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/2880
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Tivibu Spor 1 HD" group-title="TR - SPOR",(TR) Tivibu Spor 1 HD
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/7559
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Tivibu Spor 3 HD" group-title="TR - SPOR",(TR) Tivibu Spor 3 HD
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/7561
+#EXTINF:-1 tvg-id="Eurosport TR" tvg-name="(TR) EuroSport 1 HD" group-title="TR - SPOR",(TR) EuroSport 1 HD
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/2989
+#EXTINF:-1 tvg-id="EUROSPORT 2 HD TR" tvg-name="(TR) EuroSport 2 HD" group-title="TR - SPOR",(TR) EuroSport 2 HD
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/2988
+#EXTINF:-1 tvg-id="TRT Spor HD TR" tvg-name="(TR) Trt Spor HD" group-title="TR - SPOR",(TR) Trt Spor HD
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/2825
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Spor TV" group-title="TR - SPOR",(TR) Spor TV
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/2857
+#EXTINF:-1 tvg-id="TRT SPOR TR" tvg-name="(TR) Trt Spor" group-title="TR - SPOR",(TR) Trt Spor
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/2826
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Fb TV" group-title="TR - SPOR",(TR) Fb TV
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/2985
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Gs TV" group-title="TR - SPOR",(TR) Gs TV
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/2972
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Tjk TV" group-title="TR - SPOR",(TR) Tjk TV
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/2841
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Galatasaray Mix" group-title="TR - SPOR",(TR) Galatasaray Mix
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/139742
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Exxen Tv" group-title="TR - EXXEN & FUCHS",(TR) Exxen Tv
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/161405
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Exxen 1 4K+" group-title="TR - EXXEN & FUCHS",(TR) Exxen 1 4K+
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/117576
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Exxen 2 4K+" group-title="TR - EXXEN & FUCHS",(TR) Exxen 2 4K+
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/117577
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Exxen 3 4K+" group-title="TR - EXXEN & FUCHS",(TR) Exxen 3 4K+
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/117578
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Exxen 4 4K+" group-title="TR - EXXEN & FUCHS",(TR) Exxen 4 4K+
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/118876
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Exxen 5 4K+" group-title="TR - EXXEN & FUCHS",(TR) Exxen 5 4K+
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/118877
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Exxen 6 4K+" group-title="TR - EXXEN & FUCHS",(TR) Exxen 6 4K+
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/118878
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Exxen 1 HD+" group-title="TR - EXXEN & FUCHS",(TR) Exxen 1 HD+
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/137813
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Exxen 2 HD+" group-title="TR - EXXEN & FUCHS",(TR) Exxen 2 HD+
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/137814
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Exxen 3 HD+" group-title="TR - EXXEN & FUCHS",(TR) Exxen 3 HD+
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/137815
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Exxen 4 HD+" group-title="TR - EXXEN & FUCHS",(TR) Exxen 4 HD+
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/137816
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Exxen 5 HD+" group-title="TR - EXXEN & FUCHS",(TR) Exxen 5 HD+
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/137817
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Exxen 6 HD+" group-title="TR - EXXEN & FUCHS",(TR) Exxen 6 HD+
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/137818
+#EXTINF:-1 tvg-id="" tvg-name="Fuchs Sports 1 4k+ (Mac Saati)" group-title="TR - EXXEN & FUCHS",Fuchs Sports 1 4k+ (Mac Saati)
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/150194
+#EXTINF:-1 tvg-id="" tvg-name="Fuchs Sports 2 4k+ (Mac Saati)" group-title="TR - EXXEN & FUCHS",Fuchs Sports 2 4k+ (Mac Saati)
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/150195
+#EXTINF:-1 tvg-id="" tvg-name="Fuchs Sports 3 4k+ (Mac Saati)" group-title="TR - EXXEN & FUCHS",Fuchs Sports 3 4k+ (Mac Saati)
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/150196
+#EXTINF:-1 tvg-id="" tvg-name="Fuchs Sports 4 4k+ (Mac Saati)" group-title="TR - EXXEN & FUCHS",Fuchs Sports 4 4k+ (Mac Saati)
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/150197
+#EXTINF:-1 tvg-id="" tvg-name="Fuchs Sports 5 4k+ (Mac Saati)" group-title="TR - EXXEN & FUCHS",Fuchs Sports 5 4k+ (Mac Saati)
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/150198
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Glory / UFC" group-title="TR - SPOR",(TR) Glory / UFC
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/118310
+#EXTINF:-1 tvg-id="" tvg-name="UFC Event 1" group-title="UK - UFC SPORTS",UFC Event 1
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/135457
+#EXTINF:-1 tvg-id="" tvg-name="UFC Event 2" group-title="UK - UFC SPORTS",UFC Event 2
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/135456
+#EXTINF:-1 tvg-id="" tvg-name="UFC Event 3" group-title="UK - UFC SPORTS",UFC Event 3
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/135455
+#EXTINF:-1 tvg-id="" tvg-name="UFC Event 4" group-title="UK - UFC SPORTS",UFC Event 4
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/135454
+#EXTINF:-1 tvg-id="" tvg-name="UFC Event 5" group-title="UK - UFC SPORTS",UFC Event 5
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/135453
+#EXTINF:-1 tvg-id="" tvg-name="UFC Event 6" group-title="UK - UFC SPORTS",UFC Event 6
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/135452
+#EXTINF:-1 tvg-id="" tvg-name="UFC Event 7" group-title="UK - UFC SPORTS",UFC Event 7
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/135451
+#EXTINF:-1 tvg-id="" tvg-name="UFC Event 8" group-title="UK - UFC SPORTS",UFC Event 8
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/135450
+#EXTINF:-1 tvg-id="" tvg-name="UFC Event 9" group-title="UK - UFC SPORTS",UFC Event 9
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/135449
+#EXTINF:-1 tvg-id="" tvg-name="UFC Event 10" group-title="UK - UFC SPORTS",UFC Event 10
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/135448
+#EXTINF:-1 tvg-id="" tvg-name="UFC Event 11" group-title="UK - UFC SPORTS",UFC Event 11
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/135447
+#EXTINF:-1 tvg-id="" tvg-name="UFC Event 12" group-title="UK - UFC SPORTS",UFC Event 12
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/135446
+#EXTINF:-1 tvg-id="" tvg-name="UFC Event 13" group-title="UK - UFC SPORTS",UFC Event 13
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/135445
+#EXTINF:-1 tvg-id="" tvg-name="UFC Event 14" group-title="UK - UFC SPORTS",UFC Event 14
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/135444
+#EXTINF:-1 tvg-id="" tvg-name="UFC Event 15" group-title="UK - UFC SPORTS",UFC Event 15
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/135443
+#EXTINF:-1 tvg-id="beINSPORTSHABERHD.tr" tvg-name="(TR) Bein Sports Haber 4K" group-title="TR - BEİN SPORTS",(TR) Bein Sports Haber 4K
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/3027
+#EXTINF:-1 tvg-id="beINSPORTSHD1.tr" tvg-name="(TR) Bein Sports 4K++" group-title="TR - BEİN SPORTS",(TR) Bein Sports 4K++
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/34936
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Bein Sports 4K+" group-title="TR - BEİN SPORTS",(TR) Bein Sports 4K+
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/174901
+#EXTINF:-1 tvg-id="beINSPORTSHD1.tr" tvg-name="(TR) Bein Sports 1 4K" group-title="TR - BEİN SPORTS",(TR) Bein Sports 1 4K
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/3033
+#EXTINF:-1 tvg-id="beINSPORTSHD2.tr" tvg-name="(TR) Bein Sports 2 4K" group-title="TR - BEİN SPORTS",(TR) Bein Sports 2 4K
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/34937
+#EXTINF:-1 tvg-id="beINSPORTSHD3.tr" tvg-name="(TR) Bein Sports 3 4K" group-title="TR - BEİN SPORTS",(TR) Bein Sports 3 4K
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/34938
+#EXTINF:-1 tvg-id="beINSPORTSHD4.tr" tvg-name="(TR) Bein Sports 4 4K" group-title="TR - BEİN SPORTS",(TR) Bein Sports 4 4K
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/3030
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Bein Sports 5 4K" group-title="TR - BEİN SPORTS",(TR) Bein Sports 5 4K
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/136248
+#EXTINF:-1 tvg-id="beINSPORTSHD1.tr" tvg-name="(TR) Bein Sports 1 HD" group-title="TR - BEİN SPORTS",(TR) Bein Sports 1 HD
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/35701
+#EXTINF:-1 tvg-id="beINSPORTSHD2.tr" tvg-name="(TR) Bein Sports 2 HD" group-title="TR - BEİN SPORTS",(TR) Bein Sports 2 HD
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/3032
+#EXTINF:-1 tvg-id="beINSPORTSHD3.tr" tvg-name="(TR) Bein Sports 3 HD" group-title="TR - BEİN SPORTS",(TR) Bein Sports 3 HD
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/3022
+#EXTINF:-1 tvg-id="beINSPORTSHD4.tr" tvg-name="(TR) Bein Sports 4 HD" group-title="TR - BEİN SPORTS",(TR) Bein Sports 4 HD
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/3028
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Bein Sports 5 HD" group-title="TR - BEİN SPORTS",(TR) Bein Sports 5 HD
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/136249
+#EXTINF:-1 tvg-id="beINSPORTSHD1.tr" tvg-name="(TR) Bein Sports Yedek 1" group-title="TR - BEİN SPORTS",(TR) Bein Sports Yedek 1
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/52636
+#EXTINF:-1 tvg-id="beINSPORTSHD2.tr" tvg-name="(TR) Bein Sports Yedek 2" group-title="TR - BEİN SPORTS",(TR) Bein Sports Yedek 2
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/3024
+#EXTINF:-1 tvg-id="beINSPORTSHD3.tr" tvg-name="(TR) Bein Sports Yedek 3" group-title="TR - BEİN SPORTS",(TR) Bein Sports Yedek 3
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/119875
+#EXTINF:-1 tvg-id="beINSPORTMAX.TR" tvg-name="(TR) Bein Sports Max 1 4K" group-title="TR - BEİN SPORTS",(TR) Bein Sports Max 1 4K
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/7555
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Bein Sports 1 4K+" group-title="TR - BEİN SPORTS",(TR) Bein Sports 1 4K+
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/174902
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Bein Sports 2 4K+" group-title="TR - BEİN SPORTS",(TR) Bein Sports 2 4K+
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/174903
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Bein Sports 3 4K+" group-title="TR - BEİN SPORTS",(TR) Bein Sports 3 4K+
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/174904
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Bein Sports 4 4K+" group-title="TR - BEİN SPORTS",(TR) Bein Sports 4 4K+
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/174905
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Bein Sports 5 4K+" group-title="TR - BEİN SPORTS",(TR) Bein Sports 5 4K+
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/174906
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Bein Sports Max 1 4K+" group-title="TR - BEİN SPORTS",(TR) Bein Sports Max 1 4K+
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/174907
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Bein Sports Max 2 4K+" group-title="TR - BEİN SPORTS",(TR) Bein Sports Max 2 4K+
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/174908
+#EXTINF:-1 tvg-id="beINSPORTMAX2.TR" tvg-name="(TR) Bein Sports Max 2 4K" group-title="TR - BEİN SPORTS",(TR) Bein Sports Max 2 4K
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/7556
+#EXTINF:-1 tvg-id="NATGEOGRAPHIC.tr" tvg-name="(TR) National Geo HD" group-title="TR - BELGESEL",(TR) National Geo HD
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/2902
+#EXTINF:-1 tvg-id="NatGeoWild.tr" tvg-name="(TR) Nat Geo Wild 4K+" group-title="TR - BELGESEL",(TR) Nat Geo Wild 4K+
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/2903
+#EXTINF:-1 tvg-id="History.tr" tvg-name="(TR) Tarih Kanalı 4K+" group-title="TR - BELGESEL",(TR) Tarih Kanalı 4K+
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/2964
+#EXTINF:-1 tvg-id="Discovery.tr" tvg-name="(TR) Discovery Channel HD" group-title="TR - BELGESEL",(TR) Discovery Channel HD
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/3004
+#EXTINF:-1 tvg-id="DiscoveryScience.tr" tvg-name="(TR) Discovery Science HD" group-title="TR - BELGESEL",(TR) Discovery Science HD
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/3003
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Viasat Explorer HD" group-title="TR - BELGESEL",(TR) Viasat Explorer HD
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/170402
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Viasat History HD+" group-title="TR - BELGESEL",(TR) Viasat History HD+
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/147434
+#EXTINF:-1 tvg-id = "TRT 4K" tvg-name = "(TR) TRT 4K+" group-title = "TR - BELGESEL",(TR) TRT 4K+
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/7326
+#EXTINF:-1 tvg-id="TRTBelgesel.tr" tvg-name="(TR) TRT Belgesel 4K+" group-title="TR - BELGESEL",(TR) TRT Belgesel 4K+
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/2835
+#EXTINF:-1 tvg-id="beINGURMEHD" tvg-name="(TR) Bein Gurme 4K" group-title="TR - BELGESEL",(TR) Bein Gurme 4K
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/31314
+#EXTINF:-1 tvg-id="beINİZHD" tvg-name="(TR) Bein İZ TV 4K" group-title="TR - BELGESEL",(TR) Bein İZ TV 4K
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/3047
+#EXTINF:-1 tvg-id="NatGeoPeople.tr" tvg-name="(TR) Love Nature 4K+" group-title="TR - BELGESEL",(TR) Love Nature 4K+
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/2904
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Yaban TV 4K" group-title="TR - BELGESEL",(TR) Yaban TV 4K
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/139079
+#EXTINF:-1 tvg-id = "" tvg-name = "(TR) Tarih TV" group-title = "TR - BELGESEL",(TR) Tarih TV
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/170403
+#EXTINF:-1 tvg-id="TLC.tr" tvg-name="(TR) TLC 4K+" group-title="TR - BELGESEL",(TR) TLC 4K+
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/2840
+#EXTINF:-1 tvg-id="" tvg-name="(TR) ID HD 4K+" group-title="TR - BELGESEL",(TR) ID HD 4K+
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/7429
+#EXTINF:-1 tvg-id="DMAXHD.tr" tvg-name="(TR) DMAX 4K+" group-title="TR - BELGESEL",(TR) DMAX 4K+
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/31320
+#EXTINF:-1 tvg-id="DaVinci.tr" tvg-name="(TR) Da Vinci 4K" group-title="TR - BELGESEL",(TR) Da Vinci 4K
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/31317
+#EXTINF:-1 tvg-id="BBCEARTHHD.tr" tvg-name="(TR) BBC Earth HD" group-title="TR - BELGESEL",(TR) BBC Earth HD
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/99747
+#EXTINF:-1 tvg-id="TRTAVAZ.tr" tvg-name="(TR) TRT Avaz HD" group-title="TR - BELGESEL",(TR) TRT Avaz HD
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/2836
+#EXTINF:-1 tvg-id="" tvg-name="(TR) TGRT Belgesel" group-title="TR - BELGESEL",(TR) TGRT Belgesel
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/2848
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Dark Belgesel" group-title="TR - BELGESEL",(TR) Dark Belgesel
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/24615
+#EXTINF:-1 tvg-id="NPO1.nl" tvg-name="(NL) NPO 1 HEVC" group-title="NL - NEDERLAND HEVC",(NL) NPO 1 HEVC
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/151287
+#EXTINF:-1 tvg-id="NPO2.nl" tvg-name="(NL) NPO 2 HEVC" group-title="NL - NEDERLAND HEVC",(NL) NPO 2 HEVC
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/151284
+#EXTINF:-1 tvg-id="NPO3.nl" tvg-name="(NL) NPO 3 HEVC" group-title="NL - NEDERLAND HEVC",(NL) NPO 3 HEVC
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/151283
+#EXTINF:-1 tvg-id="RTL4.nl" tvg-name="(NL) RTL 4 HEVC" group-title="NL - NEDERLAND HEVC",(NL) RTL 4 HEVC
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/151282
+#EXTINF:-1 tvg-id="RTL5.nl" tvg-name="(NL) RTL 5 HEVC" group-title="NL - NEDERLAND HEVC",(NL) RTL 5 HEVC
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/151281
+#EXTINF:-1 tvg-id="SBS6.nl" tvg-name="(NL) SBS6 HEVC" group-title="NL - NEDERLAND HEVC",(NL) SBS6 HEVC
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/151280
+#EXTINF:-1 tvg-id="RTL7.nl" tvg-name="(NL) RTL 7 HEVC" group-title="NL - NEDERLAND HEVC",(NL) RTL 7 HEVC
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/151279
+#EXTINF:-1 tvg-id="RTL8.nl" tvg-name="(NL) RTL 8 HEVC" group-title="NL - NEDERLAND HEVC",(NL) RTL 8 HEVC
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/151277
+#EXTINF:-1 tvg-id="VeronicaDisneyXD.nl" tvg-name="(NL) Veronica / Disney XD HEVC" group-title="NL - NEDERLAND HEVC",(NL) Veronica / Disney XD HEVC
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/151276
+#EXTINF:-1 tvg-id="NET5.nl" tvg-name="(NL) Net5 HEVC" group-title="NL - NEDERLAND HEVC",(NL) Net5 HEVC
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/151275
+#EXTINF:-1 tvg-id="SBS9.nl" tvg-name="(NL) Viaplay TV HEVC" group-title="NL - NEDERLAND HEVC",(NL) Viaplay TV HEVC
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/151273
+#EXTINF:-1 tvg-id="FOX.nl" tvg-name="(NL) STAR CHANNEL HEVC" group-title="NL - NEDERLAND HEVC",(NL) STAR CHANNEL HEVC
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/151274
+#EXTINF:-1 tvg-id="RTLZ.nl" tvg-name="(NL) RTL Z HEVC" group-title="NL - NEDERLAND HEVC",(NL) RTL Z HEVC
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/151278
+#EXTINF:-1 tvg-id="NPO1Extra.nl" tvg-name="(NL) NPO 1 extra HEVC" group-title="NL - NEDERLAND HEVC",(NL) NPO 1 extra HEVC
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/151315
+#EXTINF:-1 tvg-id="NPO1.nl" tvg-name="(NL) NPO 1 4K+" group-title="NL - NEDERLAND",(NL) NPO 1 4K+
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/2714
+#EXTINF:-1 tvg-id="NPO2.nl" tvg-name="(NL) NPO 2 4K+" group-title="NL - NEDERLAND",(NL) NPO 2 4K+
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/2713
+#EXTINF:-1 tvg-id="NPO3.nl" tvg-name="(NL) NPO 3 4K+" group-title="NL - NEDERLAND",(NL) NPO 3 4K+
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/2712
+#EXTINF:-1 tvg-id="RTL4.nl" tvg-name="(NL) RTL 4 4K+" group-title="NL - NEDERLAND",(NL) RTL 4 4K+
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/2711
+#EXTINF:-1 tvg-id="RTL5.nl" tvg-name="(NL) RTL 5 4K+" group-title="NL - NEDERLAND",(NL) RTL 5 4K+
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/2710
+#EXTINF:-1 tvg-id="SBS6.nl" tvg-name="(NL) SBS 6 4K+" group-title="NL - NEDERLAND",(NL) SBS 6 4K+
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/2706
+#EXTINF:-1 tvg-id="RTL7.nl" tvg-name="(NL) RTL 7 4K+" group-title="NL - NEDERLAND",(NL) RTL 7 4K+
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/2709
+#EXTINF:-1 tvg-id="RTL8.nl" tvg-name="(NL) RTL 8 4K+" group-title="NL - NEDERLAND",(NL) RTL 8 4K+
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/2708
+#EXTINF:-1 tvg-id="SBS9.nl" tvg-name="(NL) Viaplay TV 4K+" group-title="NL - NEDERLAND",(NL) Viaplay TV 4K+
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/2705
+#EXTINF:-1 tvg-id="VeronicaDisneyXD.nl" tvg-name="(NL) Veronica / Disney XD 4K+" group-title="NL - NEDERLAND",(NL) Veronica / Disney XD 4K+
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/2715
+#EXTINF:-1 tvg-id="NET5.nl" tvg-name="(NL) NET 5 4K+" group-title="NL - NEDERLAND",(NL) NET 5 4K+
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/151730
+#EXTINF:-1 tvg-id="RTLZ.nl" tvg-name="(NL) RTL Z 4K+" group-title="NL - NEDERLAND",(NL) RTL Z 4K+
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/2707
+#EXTINF:-1 tvg-id="NPO1.nl" tvg-name="(NL) NPO 1 FHD" group-title="NL - NEDERLAND",(NL) NPO 1 FHD
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/170777
+#EXTINF:-1 tvg-id="NPO2.nl" tvg-name="(NL) NPO 2 FHD" group-title="NL - NEDERLAND",(NL) NPO 2 FHD
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/170776
+#EXTINF:-1 tvg-id="NPO3.nl" tvg-name="(NL) NPO 3 FHD" group-title="NL - NEDERLAND",(NL) NPO 3 FHD
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/170775
+#EXTINF:-1 tvg-id="RTL4.nl" tvg-name="(NL) RTL 4 FHD" group-title="NL - NEDERLAND",(NL) RTL 4 FHD
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/170774
+#EXTINF:-1 tvg-id="RTL5.nl" tvg-name="(NL) RTL 5 FHD" group-title="NL - NEDERLAND",(NL) RTL 5 FHD
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/170773
+#EXTINF:-1 tvg-id="SBS6.nl" tvg-name="(NL) SBS 6 FHD" group-title="NL - NEDERLAND",(NL) SBS 6 FHD
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/170772
+#EXTINF:-1 tvg-id="RTL7.nl" tvg-name="(NL) RTL 7 FHD" group-title="NL - NEDERLAND",(NL) RTL 7 FHD
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/170771
+#EXTINF:-1 tvg-id="RTL8.nl" tvg-name="(NL) RTL 8 FHD" group-title="NL - NEDERLAND",(NL) RTL 8 FHD
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/170770
+#EXTINF:-1 tvg-id="SBS9.nl" tvg-name="(NL) Viaplay TV FHD" group-title="NL - NEDERLAND",(NL) Viaplay TV FHD
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/170769
+#EXTINF:-1 tvg-id="VeronicaDisneyXD.nl" tvg-name="(NL) VERONICA FHD" group-title="NL - NEDERLAND",(NL) VERONICA FHD
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/170768
+#EXTINF:-1 tvg-id="NET5.nl" tvg-name="(NL) NET 5 FHD" group-title="NL - NEDERLAND",(NL) NET 5 FHD
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/170767
+#EXTINF:-1 tvg-id="RTLZ.nl" tvg-name="(NL) RTL Z FHD" group-title="NL - NEDERLAND",(NL) RTL Z FHD
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/170766
+#EXTINF:-1 tvg-id="" tvg-name="(NL) NPO 1 Extra 4K" group-title="NL - NEDERLAND",(NL) NPO 1 Extra 4K
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/78268
+#EXTINF:-1 tvg-id="" tvg-name="(NL) NPO 2 Extra 4K" group-title="NL - NEDERLAND",(NL) NPO 2 Extra 4K
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/78288
+#EXTINF:-1 tvg-id="NPOnieuws.nl" tvg-name="(NL) NPO Politiek ve Nieuws 4K" group-title="NL - NEDERLAND",(NL) NPO Politiek ve Nieuws 4K
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/56388
+#EXTINF:-1 tvg-id="" tvg-name="(NL) FUNX" group-title="",(NL) FUNX
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/35740
+#EXTINF:-1 tvg-id="" tvg-name="(NL) FUNX ARAB" group-title="",(NL) FUNX ARAB
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/42156
+#EXTINF:-1 tvg-id = "" tvg-name = "(NL) EĞLENCELİ HİPHOP" group-title = "",(NL) EĞLENCELİ HİPHOP
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/42154
+#EXTINF:-1 tvg-id="" tvg-name="(NL) FUNX LATİN" group-title="",(NL) FUNX LATİN
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/42155
+#EXTINF:-1 tvg-id="" tvg-name="(NL) FUNX REGGAE" group-title="",(NL) FUNX REGGAE
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/42152
+#EXTINF:-1 tvg-id="" tvg-name="(NL) FUNX SLOW ve JAMZ" group-title="",(NL) FUNX SLOW ve JAMZ
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/42153
+#EXTINF:-1 tvg-id="" tvg-name="(NL) Q Music" group-title="",(NL) Q Music
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/35738
+#EXTINF:-1 tvg-id="" tvg-name="(NL) Qmusic - Het foute uur" group-title="",(NL) Qmusic - Het foute uur
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/35742
+#EXTINF:-1 tvg-id="" tvg-name="(NL) Q Music nonstop" group-title="",(NL) Q Music nonstop
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/35739
+#EXTINF:-1 tvg-id="" tvg-name="(NL) Radio 538" group-title="",(NL) Radio 538
+https://playerservices.streamtheworld.com/api/livestream-redirect/radio538.mp3
+#EXTINF:-1 tvg-id="" tvg-name="(NL) Radio 538 DANCE" group-title="",(NL) Radio 538 DANCE
+https://playerservices.streamtheworld.com/api/livestream-redirect/tlpstr01.mp3
+#EXTINF:-1 tvg-id="" tvg-name="(NL) Radio 538 GLOBAL" group-title="",(NL) Radio 538 GLOBAL
+https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR05.mp3
+#EXTINF:-1 tvg-id="" tvg-name="(NL) Radio 538 HITZONE" group-title="",(NL) Radio 538 HITZONE
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/42130
+#EXTINF:-1 tvg-id="" tvg-name="(NL) Radio 538 NONSTOP" group-title="",(NL) Radio 538 NONSTOP
+https://playerservices.streamtheworld.com/api/livestream-redirect/tlpstr09.mp3
+#EXTINF:-1 tvg-id="" tvg-name="(NL) Radio 538 TOP40" group-title="",(NL) Radio 538 TOP40
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/42131
+#EXTINF:-1 tvg-id="" tvg-name="(NL) RTL LOUNGE RADIO" group-title="",(NL) RTL LOUNGE RADIO
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/42159
+#EXTINF:-1 tvg-id="" tvg-name="(NL) SKY RADIO" group-title="",(NL) SKY RADIO
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/42142
+#EXTINF:-1 tvg-id="" tvg-name="(NL) SKY RADIO 80's HITS" group-title="",(NL) SKY RADIO 80's HITS
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/42143
+#EXTINF:-1 tvg-id="" tvg-name="(NL) SKY RADIO 90's HITS" group-title="",(NL) SKY RADIO 90's HITS
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/42144
+#EXTINF:-1 tvg-id="" tvg-name="(NL) SLAM FM" group-title="",(NL) SLAM FM
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/35741
+#EXTINF:-1 tvg-id="" tvg-name="(NL) SLAM FM HARDSTYLE!!" group-title="",(NL) SLAM FM HARDSTYLE!!
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/42148
+#EXTINF:-1 tvg-id="" tvg-name="(NL) SLAM FM JUIZE" group-title="",(NL) SLAM FM JUIZE
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/42146
+#EXTINF:-1 tvg-id="" tvg-name="(NL) SLAM FM MIXMARATHON" group-title="",(NL) SLAM FM MIXMARATHON
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/42149
+#EXTINF:-1 tvg-id="" tvg-name="(NL) SLAM FM THE BOOM ROOM" group-title="",(NL) SLAM FM THE BOOM ROOM
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/42145
+#EXTINF:-1 tvg-id = "" tvg-name = "(NL) André Hazes" group-title = "NL - MUZIEK",(NL) André Hazes
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/175854
+#EXTINF:-1 tvg-id = "slam.nl" tvg-name = "(NL) Slam! TV" group-title = "NL - MUZIEK",(NL) Slam! TV
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/3103
+#EXTINF:-1 tvg-id="" tvg-name="(NL) %100 NL TV" group-title="NL - MUZIEK",(NL) %100 NL TV
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/3239
+#EXTINF:-1 tvg-id="" tvg-name="(NL) Mezzo" group-title="NL - MUZIEK",(NL) Mezzo
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/3172
+#EXTINF:-1 tvg-id = "tvoranje.nl" tvg-name = "(NL) TV Oranje 4K" group-title = "NL - MUZIEK",(NL) TV Oranje 4K
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/3094
+#EXTINF:-1 tvg-id="" tvg-name="(NL) Mtv Live HD" group-title="NL - MUZIEK",(NL) Mtv Live HD
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/78279
+#EXTINF:-1 tvg-id = "mtvmusic24.nl" tvg-name = "(NL) MTV 4K+" group-title = "NL - MUZIEK",(NL) MTV 4K+
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/3170
+#EXTINF:-1 tvg-id="" tvg-name="(NL) MTV 80s" group-title="NL - MUZIEK",(NL) MTV 80s
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/79562
+#EXTINF:-1 tvg-id = "mtvmusic24.nl" tvg-name = "(NL) MTV 80s" group-title = "NL - MUZIEK",(NL) MTV 80'ler
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/3169
+#EXTINF:-1 tvg-id="tv538.nl" tvg-name="(NL) TV 538 4K" group-title="NL - MUZIEK",(NL) TV 538 4K
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/3098
+#EXTINF:-1 tvg-id = "" tvg-name = "(NL) 192 TV" group-title = "NL - MUZIEK",(NL) 192 TV
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/3238
+#EXTINF:-1 tvg-id = "xite.nl" tvg-name = "(NL) Xite 4K" group-title = "NL - MUZIEK",(NL) Xite 4K
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/3086
+#EXTINF:-1 tvg-id="StingrayDjazz.nl" tvg-name="(NL) Stringray Djazz HD" group-title="NL - MUZIEK",(NL) Stringray Djazz HD
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/119317
+#EXTINF:-1 tvg-id="" tvg-name="(NL) Stingray Classica" group-title="NL - MUZIEK",(NL) Stingray Classica
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/78277
+#EXTINF:-1 tvg-id = "" tvg-name = "(NL) Stingray Lite TV" group-title = "NL - MUZIEK",(NL) Stingray Lite TV
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/78284
+#EXTINF:-1 tvg-id="nl.Baby TV" tvg-name="(NL) Baby TV" group-title="NL - KİDS",(NL) Baby TV
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/3233
+#EXTINF:-1 tvg-id="nickjr.nl" tvg-name="(NL) Nick JR" group-title="NL - KİDS",(NL) Nick JR
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/3162
+#EXTINF:-1 tvg-id="" tvg-name="(NL) Duck TV" group-title="NL - KİDS",(NL) Duck TV
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/3214
+#EXTINF:-1 tvg-id="nicktoons.nl" tvg-name="(NL) Nicktoons" group-title="NL - KİDS",(NL) Nicktoons
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/3159
+#EXTINF:-1 tvg-id="nickelodeon.nl" tvg-name="(NL) Nickelodeon HD" group-title="NL - KİDS",(NL) Nickelodeon HD
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/3161
+#EXTINF:-1 tvg-id="" tvg-name="(NL) Disney Channel 4K" group-title="NL - KİDS",(NL) Disney Channel 4K
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/3219
+#EXTINF:-1 tvg-id="nl.Cartoon Network" tvg-name="(NL) Cartoon Network HD" group-title="NL - KİDS",(NL) Cartoon Network HD
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/3230
+#EXTINF:-1 tvg-id = "" tvg-name = "(NL) 7/24 Marsha En De Beer 1" group-title = "NL - KİDS",(NL) 7/24 Marsha En De Beer 1
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/76281
+#EXTINF:-1 tvg-id = "" tvg-name = "(NL) 7/24 Marsha En De Beer 2" group-title = "NL - KİDS",(NL) 7/24 Marsha En De Beer 2
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/152035
+#EXTINF:-1 tvg-id="" tvg-name="(NL) 7/24 Tom & Jerry" group-title="NL - KİDS",(NL) 7/24 Tom & Jerry
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/82434
+#EXTINF:-1 tvg-id="" tvg-name="(NL) 7/24 Batman Anime" group-title="NL - KİDS",(NL) 7/24 Batman Anime
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/172841
+#EXTINF:-1 tvg-id="" tvg-name="(NL) 7/24 Animation 1" group-title="NL - KİDS",(NL) 7/24 Animation 1
+http://iptv.darktv.eu:80/Cigdem/c3W PPeRm/47442
+#EXTINF:-1 tvg-id="" tvg-name="(NL) 7/24 Animation 2" group-title="NL - KİDS",(NL) 7/24 Animation 2
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/59223
+#EXTINF:-1 tvg-id="" tvg-name="(NL) 7/24 Animation 3" group-title="NL - KİDS",(NL) 7/24 Animation 3
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/76819
+#EXTINF:-1 tvg-id="" tvg-name="(NL) 7/24 Animation 4" group-title="NL - KİDS",(NL) 7/24 Animation 4
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/152036
+#EXTINF:-1 tvg-id="" tvg-name="(NL) 7/24 Animation 5" group-title="NL - KİDS",(NL) 7/24 Animation 5
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/152037
+#EXTINF:-1 tvg-id="" tvg-name="(NL) 7/24 Disney Classic 1" group-title="NL - KİDS",(NL) 7/24 Disney Classic 1
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/72369
+#EXTINF:-1 tvg-id="" tvg-name="(NL) 7/24 Disney Classic 2" group-title="NL - KİDS",(NL) 7/24 Disney Classic 2
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/76288
+#EXTINF:-1 tvg-id="" tvg-name="(NL) 7/24 Disney Classic 3" group-title="NL - KİDS",(NL) 7/24 Disney Classic 3
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/76287
+#EXTINF:-1 tvg-id = "" tvg-name = "(NL) 7/24 Sprookjesboom" group-title = "NL - KİDS",(NL) 7/24 Sprookjesboom
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/110205
+#EXTINF:-1 tvg-id="" tvg-name="(NL) 7/24 Buurman En Buurman" group-title="NL - KİDS",(NL) 7/24 Buurman En Buurman
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/152038
+#EXTINF:-1 tvg-id = "" tvg-name = "(NL) 7/24 Thomas de Stoomlocomotief" group-title = "NL - KİDS",(NL) 7/24 Thomas de Stoomlocomotief
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/110174
+#EXTINF:-1 tvg-id="" tvg-name="(NL) Pebble TV" group-title="NL - KİDS",(NL) Pebble TV
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/78280
+#EXTINF:-1 tvg-id="" tvg-name="(NL) BVN" group-title="NL - REGIONAAL",(NL) BVN
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/165218
+#EXTINF:-1 tvg-id="" tvg-name="(NL) Omroep P&M" group-title="NL - BÖLGESEL",(NL) Omroep P&M
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/78275
+#EXTINF:-1 tvg-id = "" tvg-name = "(NL) Omroep Venlo" group-title = "NL - BÖLGESEL",(NL) Omroep Venlo
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/78271
+#EXTINF:-1 tvg-id = "" tvg-name = "(NL) Omroep Venray" group-title = "NL - BÖLGESEL",(NL) Omroep Venray
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/78272
+#EXTINF:-1 tvg-id = "" tvg-name = "(NL) Omrop Fryslan" group-title = "NL - BÖLGESEL",(NL) Omrop Fryslan
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/3139
+#EXTINF:-1 tvg-id = "" tvg-name = "(NL) Omroep Brabant" group-title = "NL - BÖLGESEL",(NL) Omroep Brabant
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/3142
+#EXTINF:-1 tvg-id = "" tvg-name = "(NL) Omroep Flevoland" group-title = "NL - BÖLGESEL",(NL) Omroep Flevoland
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/3141
+#EXTINF:-1 tvg-id = "tvgelderland.nl" tvg-name = "(NL) Omroep Gelderland" group-title = "NL - BÖLGESEL",(NL) Omroep Gelderland
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/3097
+#EXTINF:-1 tvg-id="" tvg-name="(NL) Omroep Zeeland" group-title="NL - BÖLGESEL",(NL) Omroep Zeeland
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/78292
+#EXTINF:-1 tvg-id="nl.ONS" tvg-name="(NL) Ons 4K" group-title="NL - REGIONAAL",(NL) Ons 4K
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/3138
+#EXTINF:-1 tvg-id = "" tvg-name = "(NL) RTV Arnhem" group-title = "NL - BÖLGESEL",(NL) RTV Arnhem
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/3087
+#EXTINF:-1 tvg-id = "" tvg-name = "(NL) Omroep Horst aan de Maas" group-title = "NL - BÖLGESEL",(NL) Omroep Horst aan de Maas
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/78276
+#EXTINF:-1 tvg-id = "" tvg-name = "(NL) RTV Maastricht" group-title = "NL - BÖLGESEL",(NL) RTV Maastricht
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/3112
+#EXTINF:-1 tvg-id = "" tvg-name = "(NL) RTV Rijnmond" group-title = "NL - BÖLGESEL",(NL) RTV Rijnmond
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/50206
+#EXTINF:-1 tvg-id = "tvwest.nl" tvg-name = "(NL) Omroep West" group-title = "NL - BÖLGESEL",(NL) Omroep West
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/3092
+#EXTINF:-1 tvg-id = "" tvg-name = "(NL) RTV 7" group-title = "NL - BÖLGESEL",(NL) RTV 7
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/39408
+#EXTINF:-1 tvg-id = "" tvg-name = "(NL) RTV Drenthe" group-title = "NL - BÖLGESEL",(NL) RTV Drenthe
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/3117
+#EXTINF:-1 tvg-id = "nl.RTV Utrecht" tvg-name = "(NL) RTV Utrecht" group-title = "NL - BÖLGESEL",(NL) RTV Utrecht
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/3110
+#EXTINF:-1 tvg-id = "tvnoord.nl" tvg-name = "(NL) RTV Noord" group-title = "NL - BÖLGESEL",(NL) RTV Noord
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/3096
+#EXTINF:-1 tvg-id = "tvoost.nl" tvg-name = "(NL) RTV Oost" group-title = "NL - BÖLGESEL",(NL) RTV Oost
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/3095
+#EXTINF:-1 tvg-id="" tvg-name="(NL) AT 5" group-title="NL - REGIONAAL",(NL) AT 5
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/3234
+#EXTINF:-1 tvg-id="" tvg-name="(NL) L1" group-title="NL - REGIONAAL",(NL) L1
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/3174
+#EXTINF:-1 tvg-id="Film1Premiere.nl" tvg-name="(NL) Film1 Premiere HEVC" group-title="NL - CINEMA",(NL) Film1 Premiere HEVC
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/151289
+#EXTINF:-1 tvg-id="Film1Action.nl" tvg-name="(NL) Film1 Action HEVC" group-title="NL - CINEMA",(NL) Film1 Action HEVC
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/151291
+#EXTINF:-1 tvg-id="Film1Drama.nl" tvg-name="(NL) Film1 Drama HEVC" group-title="NL - CINEMA",(NL) Film1 Drama HEVC
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/151292
+#EXTINF:-1 tvg-id="Film1Family.nl" tvg-name="(NL) Film1 Family HEVC" group-title="NL - CINEMA",(NL) Film1 Family HEVC
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/151290
+#EXTINF:-1 tvg-id = "Filmbox.nl" tvg-name = "(NL) FilmBox HEVC" group-title = "NL - CINEMA",(NL) FilmBox HEVC
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/151293
+#EXTINF:-1 tvg-id="Film1Premiere.nl" tvg-name="(NL) Film1 Premiere 4K+" group-title="NL - CINEMA",(NL) Film1 Premiere 4K+
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/2770
+#EXTINF:-1 tvg-id="Film1Action.nl" tvg-name="(NL) Film1 Action 4K+" group-title="NL - CINEMA",(NL) Film1 Action 4K+
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/2773
+#EXTINF:-1 tvg-id="Film1Series.nl" tvg-name="(NL) Film1 Drama 4K+" group-title="NL - CINEMA",(NL) Film1 Drama 4K+
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/2772
+#EXTINF:-1 tvg-id="Film1Family.nl" tvg-name="(NL) Film1 Family 4K+" group-title="NL - CINEMA",(NL) Film1 Family 4K+
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/2771
+#EXTINF:-1 tvg-id="Family7.nl" tvg-name="(NL) Family 7 HD" group-title="NL - CINEMA",(NL) Family 7 HD
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/3208
+#EXTINF:-1 tvg-id="" tvg-name="(NL) BBC First 4K+" group-title="NL - CINEMA",(NL) BBC First 4K+
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/56987
+#EXTINF:-1 tvg-id="" tvg-name="(NL) Out TV 4K" group-title="NL - CINEMA",(NL) Out TV 4K
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/78270
+#EXTINF:-1 tvg-id = "" tvg-name = "(NL) 7/24 Bioscoop 1" group-title = "NL - 7/24 SİNEMA SEÇİMİ",(NL) 7/24 Bioscoop 1
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/149364
+#EXTINF:-1 tvg-id = "" tvg-name = "(NL) 7/24 Bioscoop 2" group-title = "NL - 7/24 SİNEMA SEÇİMİ",(NL) 7/24 Bioscoop 2
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/174070
+#EXTINF:-1 tvg-id = "" tvg-name = "(NL) 7/24 Bioscoop 3" group-title = "NL - 7/24 SİNEMA SEÇİMİ",(NL) 7/24 Bioscoop 3
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/174086
+#EXTINF:-1 tvg-id = "" tvg-name = "(NL) 7/24 Bioscoop 4" group-title = "NL - 7/24 SİNEMA SEÇİMİ",(NL) 7/24 Bioscoop 4
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/174095
+#EXTINF:-1 tvg-id = "" tvg-name = "(NL) 7/24 Bioscoop 5" group-title = "NL - 7/24 SİNEMA SEÇİMİ",(NL) 7/24 Bioscoop 5
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/162875
+#EXTINF:-1 tvg-id="" tvg-name="(NL) 7/24 Movies 1" group-title="NL - 7/24 SELECT CINEMA",(NL) 7/24 Movies 1
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/149527
+#EXTINF:-1 tvg-id="" tvg-name="(NL) 7/24 Movies 2" group-title="NL - 7/24 SELECT CINEMA",(NL) 7/24 Movies 2
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/150079
+#EXTINF:-1 tvg-id="" tvg-name="(NL) 7/24 Movies 4" group-title="NL - 7/24 SELECT CINEMA",(NL) 7/24 Movies 4
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/151711
+#EXTINF:-1 tvg-id="" tvg-name="(NL) 7/24 Premium" group-title="NL - 7/24 SELECT CINEMA",(NL) 7/24 Premium
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/98177
+#EXTINF:-1 tvg-id="" tvg-name="(NL) DBO Action 1 HD" group-title="NL - 7/24 SELECT CINEMA",(NL) DBO Action 1 HD
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/142379
+#EXTINF:-1 tvg-id="" tvg-name="(NL) DBO Action 2 HD" group-title="NL - 7/24 SELECT CINEMA",(NL) DBO Action 2 HD
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/2774
+#EXTINF:-1 tvg-id="" tvg-name="(NL) DBO Horror 1 HD" group-title="NL - 7/24 SELECT CINEMA",(NL) DBO Horror 1 HD
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/47441
+#EXTINF:-1 tvg-id="" tvg-name="(NL) DBO Horror 2 HD" group-title="NL - 7/24 SELECT CINEMA",(NL) DBO Horror 2 HD
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/98060
+#EXTINF:-1 tvg-id="" tvg-name="(NL) DBO Klassiekers 1" group-title="NL - 7/24 SİNEMA SEÇİMİ",(NL) DBO Klassiekers 1
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/101706
+#EXTINF:-1 tvg-id="" tvg-name="(NL) DBO Klassiekers 2" group-title="NL - 7/24 SİNEMA SEÇİMİ",(NL) DBO Klassiekers 2
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/104867
+#EXTINF:-1 tvg-id="" tvg-name="(NL) DBO Klassiekers 3" group-title="NL - 7/24 SİNEMA SEÇİMİ",(NL) DBO Klassiekers 3
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/104868
+#EXTINF:-1 tvg-id="" tvg-name="(NL) DBO Klassiekers 4" group-title="NL - 7/24 SİNEMA SEÇİMİ",(NL) DBO Klassiekers 4
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/149739
+#EXTINF:-1 tvg-id="" tvg-name="(NL) DBO Videoland 1" group-title="NL - 7/24 SELECT CINEMA",(NL) DBO Videoland 1
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/150805
+#EXTINF:-1 tvg-id="" tvg-name="(NL) DBO Videoland 2" group-title="NL - 7/24 SELECT CINEMA",(NL) DBO Videoland 2
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/164859
+#EXTINF:-1 tvg-id="" tvg-name="(NL) DBO Videoland 3" group-title="NL - 7/24 SELECT CINEMA",(NL) DBO Videoland 3
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/164866
+#EXTINF:-1 tvg-id = "" tvg-name = "(NL) DBO Gesproken 1 HD" group-title = "NL - 7/24 SİNEMA SEÇİMİ",(NL) DBO Gesproken 1 HD
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/158269
+#EXTINF:-1 tvg-id = "" tvg-name = "(NL) DBO Gesproken 2 HD" group-title = "NL - 7/24 SİNEMA SEÇİMİ",(NL) DBO Gesproken 2 HD
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/158270
+#EXTINF:-1 tvg-id="" tvg-name="(NL) DBO Sinterklaas HD" group-title="NL - 7/24 SELECT CINEMA",(NL) DBO Sinterklaas HD
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/146265
+#EXTINF:-1 tvg-id="" tvg-name="(NL) DBO HBO Max HD" group-title="NL - 7/24 SELECT CINEMA",(NL) DBO HBO Max HD
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/145978
+#EXTINF:-1 tvg-id="" tvg-name="(NL) DBO Amazon HD" group-title="NL - 7/24 SELECT CINEMA",(NL) DBO Amazon HD
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/145977
+#EXTINF:-1 tvg-id="" tvg-name="(NL) 7/24 Netflix HD" group-title="NL - 7/24 SELECT CINEMA",(NL) 7/24 Netflix HD
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/80487
+#EXTINF:-1 tvg-id="" tvg-name="(NL) DBO A-Team" group-title="NL - 7/24 SELECT CINEMA",(NL) DBO A-Team
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/83936
+#EXTINF:-1 tvg-id="" tvg-name="(NL) DBO Star Wars" group-title="NL - 7/24 SELECT CINEMA",(NL) DBO Star Wars
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/149740
+#EXTINF:-1 tvg-id="" tvg-name="(NL) 7/24 Marvel HD" group-title="NL - 7/24 SELECT CINEMA",(NL) 7/24 Marvel HD
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/98981
+#EXTINF:-1 tvg-id="" tvg-name="(NL) DBO Alpacino" group-title="NL - 7/24 SELECT CINEMA",(NL) DBO Alpacino
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/149741
+#EXTINF:-1 tvg-id="" tvg-name="(NL) DBO Rambo HD" group-title="NL - 7/24 SELECT CINEMA",(NL) DBO Rambo HD
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/52334
+#EXTINF:-1 tvg-id="" tvg-name="(NL) DBO Jackie Chan" group-title="NL - 7/24 SELECT CINEMA",(NL) DBO Jackie Chan
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/78955
+#EXTINF:-1 tvg-id="" tvg-name="(NL) DBO Bruce Lee" group-title="NL - 7/24 SELECT CINEMA",(NL) DBO Bruce Lee
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/79211
+#EXTINF:-1 tvg-id="" tvg-name="(NL) DBO Van Damme" group-title="NL - 7/24 SELECT CINEMA",(NL) DBO Van Damme
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/60675
+#EXTINF:-1 tvg-id="" tvg-name="(NL) 7/24 Jim Carrey" group-title="NL - 7/24 SELECT CINEMA",(NL) 7/24 Jim Carrey
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/152039
+#EXTINF:-1 tvg-id="" tvg-name="(NL) DBO Knight Rider" group-title="NL - 7/24 SELECT CINEMA",(NL) DBO Knight Rider
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/80552
+#EXTINF:-1 tvg-id="" tvg-name="(NL) DBO Jason Statham" group-title="NL - 7/24 SELECT CINEMA",(NL) DBO Jason Statham
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/52303
+#EXTINF:-1 tvg-id="" tvg-name="(NL) DBO Steven Seagal" group-title="NL - 7/24 SELECT CINEMA",(NL) DBO Steven Seagal
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/80294
+#EXTINF:-1 tvg-id="" tvg-name="(NL) DBO Mark Wahlberg" group-title="NL - 7/24 SELECT CINEMA",(NL) DBO Mark Wahlberg
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/149850
+#EXTINF:-1 tvg-id="" tvg-name="(NL) DBO James Bond 007" group-title="NL - 7/24 SELECT CINEMA",(NL) DBO James Bond 007
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/79343
+#EXTINF:-1 tvg-id="" tvg-name="(NL) DBO Hızlı ve Öfkeli" group-title="NL - 7/24 SELECT CINEMA",(NL) DBO Hızlı ve Öfkeli
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/98991
+#EXTINF:-1 tvg-id="" tvg-name="(NL) DBO Dukes Of Hazzard" group-title="NL - 7/24 SELECT CINEMA",(NL) DBO Dukes Of Hazzard
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/87765
+#EXTINF:-1 tvg-id="ESPN.nl" tvg-name="(NL) ESPN 1 HEVC" group-title="NL - SPORTS",(NL) ESPN 1 HEVC
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/151305
+#EXTINF:-1 tvg-id="ESPN2.nl" tvg-name="(NL) ESPN 2 HEVC" group-title="NL - SPORTS",(NL) ESPN 2 HEVC
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/151304
+#EXTINF:-1 tvg-id="ESPN3.nl" tvg-name="(NL) ESPN 3 HEVC" group-title="NL - SPORTS",(NL) ESPN 3 HEVC
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/151303
+#EXTINF:-1 tvg-id="ESPN4.nl" tvg-name="(NL) ESPN 4 HEVC" group-title="NL - SPORTS",(NL) ESPN 4 HEVC
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/151302
+#EXTINF:-1 tvg-id="ZiggoSportSelect.nl" tvg-name="(NL) Ziggo Sport Select HEVC" group-title="NL - SPORTS",(NL) Ziggo Sport Select HEVC
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/151294
+#EXTINF:-1 tvg-id = "ZiggoSportVoetbal.nl" tvg-name = "(NL) Ziggo Sport Voetbal HEVC" group-title = "NL - SPORTS",(NL) Ziggo Sport Voetbal HEVC
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/151295
+#EXTINF:-1 tvg-id="ZiggoSportGolf.nl" tvg-name="(NL) Ziggo Sport Golf HEVC" group-title="NL - SPORTS",(NL) Ziggo Sport Golf HEVC
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/151297
+#EXTINF:-1 tvg-id="ZiggoSportRacing.nl" tvg-name="(NL) Ziggo Sport Racing HEVC" group-title="NL - SPORTS",(NL) Ziggo Sport Racing HEVC
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/151296
+#EXTINF:-1 tvg-id="ZiggoSportTennis.nl" tvg-name="(NL) Ziggo Sport Tennis HEVC" group-title="NL - SPORTS",(NL) Ziggo Sport Tennis HEVC
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/151298
+#EXTINF:-1 tvg-id="ZiggoSportDocu.nl" tvg-name="(NL) Ziggo Sport Docu HEVC" group-title="NL - SPORTS",(NL) Ziggo Sport Docu HEVC
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/151299
+#EXTINF:-1 tvg-id="Eurosport2.nl" tvg-name="(NL) Eurosport 2 HEVC" group-title="NL - SPORTS",(NL) Eurosport 2 HEVC
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/151300
+#EXTINF:-1 tvg-id="Eurosport1.nl" tvg-name="(NL) Eurosport 1 HEVC" group-title="NL - SPORTS",(NL) Eurosport 1 HEVC
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/151301
+#EXTINF:-1 tvg-id="FoxSport1.nl" tvg-name="(NL) ESPN 1 4K" group-title="NL - SPORTS",(NL) ESPN 1 4K
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/2760
+#EXTINF:-1 tvg-id="FOXsport2.nl" tvg-name="(NL) ESPN 2 4K" group-title="NL - SPORTS",(NL) ESPN 2 4K
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/2759
+#EXTINF:-1 tvg-id="FoxSport3.nl" tvg-name="(NL) ESPN 3 4K" group-title="NL - SPORTS",(NL) ESPN 3 4K
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/2758
+#EXTINF:-1 tvg-id="FOXsport4.nl" tvg-name="(NL) ESPN 4 4K" group-title="NL - SPORTS",(NL) ESPN 4 4K
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/2757
+#EXTINF:-1 tvg-id="" tvg-name="(NL) Ziggo TV 4K" group-title="NL - SPORTS",(NL) Ziggo TV 4K
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/78294
+#EXTINF:-1 tvg-id="" tvg-name="(NL) Ziggo Sport 4K" group-title="NL - SPORTS",(NL) Ziggo Sport 4K
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/119383
+#EXTINF:-1 tvg-id="ZiggoSportSelect.nl" tvg-name="(NL) Ziggo Sport Select 4K" group-title="NL - SPORTS",(NL) Ziggo Sport Select 4K
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/2762
+#EXTINF:-1 tvg-id="ZiggoSportVoetbal.nl" tvg-name="(NL) Ziggo Sport Voetbal 4K+" group-title="NL - SPORTS",(NL) Ziggo Sport Voetbal 4K+
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/2761
+#EXTINF:-1 tvg-id="ZiggoSportGolf.nl" tvg-name="(NL) Ziggo Sport Golf 4K" group-title="NL - SPORTS",(NL) Ziggo Sport Golf 4K
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/2764
+#EXTINF:-1 tvg-id="ZiggoSportRacing.nl" tvg-name="(NL) Ziggo Sport Racing 4K" group-title="NL - SPORTS",(NL) Ziggo Sport Racing 4K
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/2763
+#EXTINF:-1 tvg-id="ziggosportextra1.nl" tvg-name="(NL) Ziggo Sport Tennis 4K" group-title="NL - SPORTS",(NL) Ziggo Sport Tennis 4K
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/2745
+#EXTINF:-1 tvg-id="FoxSport1.nl" tvg-name="(NL) Ziggo Sport Docu 4K" group-title="NL - SPORTS",(NL) Ziggo Sport Docu 4K
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/42186
+#EXTINF:-1 tvg-id="Eurosport1.nl" tvg-name="(NL) Eurosport 1 4K" group-title="NL - SPORTS",(NL) Eurosport 1 4K
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/2754
+#EXTINF:-1 tvg-id="Eurosport2.nl" tvg-name="(NL) Eurosport 2 4K" group-title="NL - SPORTS",(NL) Eurosport 2 4K
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/2752
+#EXTINF:-1 tvg-id="" tvg-name="|XP1| WWE HD" group-title="NL - SPORTS",|XP1| WWE HD
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/108468
+#EXTINF:-1 tvg-id="" tvg-name="|XP1| UFC HD" group-title="NL - SPORTS",|XP1| UFC HD
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/108467
+#EXTINF:-1 tvg-id="" tvg-name="|XP1| BOKS HD" group-title="NL - SPOR",|XP1| BOKS HD
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/108466
+#EXTINF:-1 tvg-id="" tvg-name="(NL) Glory Kickboxing / UFC" group-title="NL - SPORTS",(NL) Glory Kickboxing / UFC
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/118311
+#EXTINF:-1 tvg-id="" tvg-name="(NL) Dazn Boxing" group-title="NL - SPORTS",(NL) Dazn Boxing
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/163988
+#EXTINF:-1 tvg-id="" tvg-name="(NL) XP Viaplay F1" group-title="NL - VIAPLAY",(NL) XP Viaplay F1
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/149668
+#EXTINF:-1 tvg-id="" tvg-name="(NL) Viaplay Formula 1 4K+" group-title="NL - VIAPLAY",(NL) Viaplay Formula 1 4K+
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/125218
+#EXTINF:-1 tvg-id="" tvg-name="(UK) Sky Sports F1 4K" group-title="NL - VIAPLAY",(UK) Sky Sports F1 4K
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/170447
+#EXTINF:-1 tvg-id="" tvg-name="(NL) F1 TV PRO Formula 1 4K+" group-title="NL - VIAPLAY",(NL) F1 TV PRO Formula 1 4K+
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/127363
+#EXTINF:-1 tvg-id="" tvg-name="(NL) Viaplay PDC Darts 4K+" group-title="NL - VIAPLAY",(NL) Viaplay PDC Darts 4K+
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/125217
+#EXTINF:-1 tvg-id="" tvg-name="(NL) ViaPlay Premiere League 1 4K+" group-title="NL - VIAPLAY",(NL) ViaPlay Premiere League 1 4K+
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/143801
+#EXTINF:-1 tvg-id="" tvg-name="(NL) ViaPlay Premiere League 2 4K+" group-title="NL - VIAPLAY",(NL) ViaPlay Premiere League 2 4K+
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/143802
+#EXTINF:-1 tvg-id="" tvg-name="(NL) ViaPlay Premiere League 3 4K+" group-title="NL - VIAPLAY",(NL) ViaPlay Premiere League 3 4K+
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/143803
+#EXTINF:-1 tvg-id="" tvg-name="(NL) ViaPlay Premiere League 4 4K+" group-title="NL - VIAPLAY",(NL) ViaPlay Premiere League 4 4K+
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/143804
+#EXTINF:-1 tvg-id="" tvg-name="(NL) ViaPlay Premiere League 5 4K+" group-title="NL - VIAPLAY",(NL) ViaPlay Premiere League 5 4K+
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/143805
+#EXTINF:-1 tvg-id="" tvg-name="(NL) ViaPlay Premiere League 6 4K+" group-title="NL - VIAPLAY",(NL) ViaPlay Premiere League 6 4K+
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/143806
+#EXTINF:-1 tvg-id="" tvg-name="(NL) ViaPlay Event 7 4K+" group-title="NL - VIAPLAY",(NL) ViaPlay Event 7 4K+
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/143807
+#EXTINF:-1 tvg-id="" tvg-name="(NL) ViaPlay Event 8 4K+" group-title="NL - VIAPLAY",(NL) ViaPlay Event 8 4K+
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/143808
+#EXTINF:-1 tvg-id="" tvg-name="(NL) ViaPlay Event 9 4K+" group-title="NL - VIAPLAY",(NL) ViaPlay Event 9 4K+
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/143809
+#EXTINF:-1 tvg-id="" tvg-name="(NL) ViaPlay Event 10 4K+" group-title="NL - VIAPLAY",(NL) ViaPlay Event 10 4K+
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/143810
+#EXTINF:-1 tvg-id="" tvg-name="(NL) ViaPlay Event 11 4K+" group-title="NL - VIAPLAY",(NL) ViaPlay Event 11 4K+
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/143811
+#EXTINF:-1 tvg-id="" tvg-name="(NL) ViaPlay Event 12 4K+" group-title="NL - VIAPLAY",(NL) ViaPlay Event 12 4K+
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/143812
+#EXTINF:-1 tvg-id="" tvg-name="(NL) ViaPlay Event 13 4K+" group-title="NL - VIAPLAY",(NL) ViaPlay Event 13 4K+
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/143813
+#EXTINF:-1 tvg-id="" tvg-name="(NL) ViaPlay Event 14 4K+" group-title="NL - VIAPLAY",(NL) ViaPlay Event 14 4K+
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/143814
+#EXTINF:-1 tvg-id="" tvg-name="(NL) ViaPlay Event 15 4K+" group-title="NL - VIAPLAY",(NL) ViaPlay Event 15 4K+
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/143815
+#EXTINF:-1 tvg-id="" tvg-name="(NL) ViaPlay Event 16 4K+" group-title="NL - VIAPLAY",(NL) ViaPlay Event 16 4K+
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/143816
+#EXTINF:-1 tvg-id="" tvg-name="(NL) ViaPlay Event 17 4K+" group-title="NL - VIAPLAY",(NL) ViaPlay Event 17 4K+
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/143817
+#EXTINF:-1 tvg-id="" tvg-name="(NL) ViaPlay Event 18 4K+" group-title="NL - VIAPLAY",(NL) ViaPlay Event 18 4K+
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/143818
+#EXTINF:-1 tvg-id="" tvg-name="(NL) ViaPlay Event 19 4K+" group-title="NL - VIAPLAY",(NL) ViaPlay Event 19 4K+
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/143819
+#EXTINF:-1 tvg-id="" tvg-name="(NL) ViaPlay Event 20 4K+" group-title="NL - VIAPLAY",(NL) ViaPlay Event 20 4K+
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/143820
+#EXTINF:-1 tvg-id="" tvg-name="(NL) ViaPlay Event 21 4K+" group-title="NL - VIAPLAY",(NL) ViaPlay Event 21 4K+
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/143821
+#EXTINF:-1 tvg-id="" tvg-name="(NL) ViaPlay Event 22 4K+" group-title="NL - VIAPLAY",(NL) ViaPlay Event 22 4K+
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/143822
+#EXTINF:-1 tvg-id="" tvg-name="(NL) ViaPlay Event 23 4K+" group-title="NL - VIAPLAY",(NL) ViaPlay Event 23 4K+
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/143823
+#EXTINF:-1 tvg-id="" tvg-name="(NL) ViaPlay Event 24 4K+" group-title="NL - VIAPLAY",(NL) ViaPlay Event 24 4K+
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/143824
+#EXTINF:-1 tvg-id="" tvg-name="(NL) ViaPlay Event 25 4K+" group-title="NL - VIAPLAY",(NL) ViaPlay Event 25 4K+
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/143825
+#EXTINF:-1 tvg-id="" tvg-name="(NL) ViaPlay Event 26 4K+" group-title="NL - VIAPLAY",(NL) ViaPlay Event 26 4K+
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/143826
+#EXTINF:-1 tvg-id="" tvg-name="(NL) ViaPlay Event 27 4K+" group-title="NL - VIAPLAY",(NL) ViaPlay Event 27 4K+
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/143827
+#EXTINF:-1 tvg-id="" tvg-name="(NL) ViaPlay Event 28 4K+" group-title="NL - VIAPLAY",(NL) ViaPlay Event 28 4K+
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/143828
+#EXTINF:-1 tvg-id="" tvg-name="(NL) ViaPlay Event 29 4K+" group-title="NL - VIAPLAY",(NL) ViaPlay Event 29 4K+
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/143829
+#EXTINF:-1 tvg-id="" tvg-name="(NL) ViaPlay Event 30 4K+" group-title="NL - VIAPLAY",(NL) ViaPlay Event 30 4K+
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/143830
+#EXTINF:-1 tvg-id="" tvg-name="(NL) ViaPlay Event 31 4K+" group-title="NL - VIAPLAY",(NL) ViaPlay Event 31 4K+
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/143831
+#EXTINF:-1 tvg-id="" tvg-name="(NL) ViaPlay Event 32 4K+" group-title="NL - VIAPLAY",(NL) ViaPlay Event 32 4K+
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/143832
+#EXTINF:-1 tvg-id="" tvg-name="(NL) ViaPlay Event 33 4K+" group-title="NL - VIAPLAY",(NL) ViaPlay Event 33 4K+
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/143833
+#EXTINF:-1 tvg-id="" tvg-name="(NL) ViaPlay Event 34 4K+" group-title="NL - VIAPLAY",(NL) ViaPlay Event 34 4K+
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/143834
+#EXTINF:-1 tvg-id="" tvg-name="(NL) ViaPlay Event 35 4K+" group-title="NL - VIAPLAY",(NL) ViaPlay Event 35 4K+
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/143835
+#EXTINF:-1 tvg-id="" tvg-name="(NL) ViaPlay Event 36 4K+" group-title="NL - VIAPLAY",(NL) ViaPlay Event 36 4K+
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/143836
+#EXTINF:-1 tvg-id="" tvg-name="(NL) ViaPlay Event 37 4K+" group-title="NL - VIAPLAY",(NL) ViaPlay Event 37 4K+
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/143837
+#EXTINF:-1 tvg-id="" tvg-name="(NL) ViaPlay Event 38 4K+" group-title="NL - VIAPLAY",(NL) ViaPlay Event 38 4K+
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/143838
+#EXTINF:-1 tvg-id="" tvg-name="(NL) ViaPlay Event 39 4K+" group-title="NL - VIAPLAY",(NL) ViaPlay Event 39 4K+
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/143839
+#EXTINF:-1 tvg-id="" tvg-name="(NL) ViaPlay Event 40 4K+" group-title="NL - VIAPLAY",(NL) ViaPlay Event 40 4K+
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/143840
+#EXTINF:-1 tvg-id="" tvg-name="(NL) ViaPlay Event 41 4K+" group-title="NL - VIAPLAY",(NL) ViaPlay Event 41 4K+
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/143841
+#EXTINF:-1 tvg-id="" tvg-name="(NL) ViaPlay Event 42 4K+" group-title="NL - VIAPLAY",(NL) ViaPlay Event 42 4K+
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/143842
+#EXTINF:-1 tvg-id="" tvg-name="(NL) ViaPlay Event 43 4K+" group-title="NL - VIAPLAY",(NL) ViaPlay Event 43 4K+
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/143843
+#EXTINF:-1 tvg-id="" tvg-name="(NL) ViaPlay Event 44 4K+" group-title="NL - VIAPLAY",(NL) ViaPlay Event 44 4K+
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/143844
+#EXTINF:-1 tvg-id="" tvg-name="(NL) ViaPlay Event 45 4K+" group-title="NL - VIAPLAY",(NL) ViaPlay Event 45 4K+
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/143845
+#EXTINF:-1 tvg-id="" tvg-name="(NL) ViaPlay Event 46 4K+" group-title="NL - VIAPLAY",(NL) ViaPlay Event 46 4K+
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/143846
+#EXTINF:-1 tvg-id="" tvg-name="(NL) ViaPlay Event 47 4K+" group-title="NL - VIAPLAY",(NL) ViaPlay Event 47 4K+
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/143847
+#EXTINF:-1 tvg-id="" tvg-name="(NL) ViaPlay Event 48 4K+" group-title="NL - VIAPLAY",(NL) ViaPlay Event 48 4K+
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/143848
+#EXTINF:-1 tvg-id="NatGeoZiggo.nl" tvg-name="(NL) National Geographic 4K+" group-title="NL - DOCUMENTARY",(NL) National Geographic 4K+
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/7677
+#EXTINF:-1 tvg-id="NatGeoZiggo.nl" tvg-name="(NL) Nat Geo Wild 4K+" group-title="NL - DOCUMENTARY",(NL) Nat Geo Wild 4K+
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/7676
+#EXTINF:-1 tvg-id="AnimalPlanet.nl" tvg-name="(NL) Animal Planet 4K+" group-title="NL - DOCUMENTARY",(NL) Animal Planet 4K+
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/7678
+#EXTINF:-1 tvg-id="24kitchen.nl" tvg-name="(NL) 24Kitchen 4K+" group-title="NL - DOCUMENTARY",(NL) 24Kitchen 4K+
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/7673
+#EXTINF:-1 tvg-id="Discovery.nl" tvg-name="(NL) Discovery 4K+" group-title="NL - DOCUMENTARY",(NL) Discovery 4K+
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/7679
+#EXTINF:-1 tvg-id="InvestigationDiscovery.nl" tvg-name="(NL) Discovery ID 4K+" group-title="NL - DOCUMENTARY",(NL) Discovery ID 4K+
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/3223
+#EXTINF:-1 tvg-id="History.nl" tvg-name="(NL) History 4K+" group-title="NL - DOCUMENTARY",(NL) History 4K+
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/7675
+#EXTINF:-1 tvg-id="CrimeAndInvestigation.nl" tvg-name="(NL) Crime & Investigation HD" group-title="NL - DOCUMENTARY",(NL) Crime & Investigation HD
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/78290
+#EXTINF:-1 tvg-id="ComedyCentral.nl" tvg-name="(NL) Comedy Central 4K" group-title="NL - DOCUMENTARY",(NL) Comedy Central 4K
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/78293
+#EXTINF:-1 tvg-id="DiscoveryScience.be" tvg-name="(NL) Discovery Science 4K+" group-title="NL - DOCUMENTARY",(NL) Discovery Science 4K+
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/3222
+#EXTINF:-1 tvg-id="E!Entertainment.nl" tvg-name="(NL) E! 4K+" group-title="NL - DOCUMENTARY",(NL) E! 4K+
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/7671
+#EXTINF:-1 tvg-id="TLC.nl" tvg-name="(NL) TLC 4K+" group-title="NL - DOCUMENTARY",(NL) TLC 4K+
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/7672
+#EXTINF:-1 tvg-id="RTLCrime.nl" tvg-name="(NL) RTL Crime 4K+" group-title="NL - DOCUMENTARY",(NL) RTL Crime 4K+
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/3123
+#EXTINF:-1 tvg-id="" tvg-name="(NL) Fashion TV 4K+" group-title="NL - DOCUMENTARY",(NL) Fashion TV 4K+
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/7667
+#EXTINF:-1 tvg-id="" tvg-name="(NL) Love Nature 4K+" group-title="NL - DOCUMENTARY",(NL) Love Nature 4K+
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/78269
+#EXTINF:-1 tvg-id="spike.nl" tvg-name="(NL) Spike 4K+" group-title="NL - DOCUMENTARY",(NL) Spike 4K+
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/7665
+#EXTINF:-1 tvg-id="HorseCountry.nl" tvg-name="(NL) Horse Country TV HD" group-title="NL - DOCUMENTARY",(NL) Horse Country TV HD
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/78281
+#EXTINF:-1 tvg-id="RTLLounge.nl" tvg-name="(NL) RTL Lounge HD" group-title="NL - DOCUMENTARY",(NL) RTL Lounge HD
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/3122

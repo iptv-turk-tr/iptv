@@ -1,0 +1,11 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="trt1" tvg-name="TRT 1 4K+" tvg-logo="https://via.placeholder.com/300x300?text=TRT+1" group-title="Spor","TRT 1 4K+"
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/2838
+#EXTINF:-1 tvg-id="atv" tvg-name="ATV 4K+" tvg-logo="https://via.placeholder.com/300x300?text=ATV" group-title="Spor","ATV 4K+"
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/3054
+#EXTINF:-1 tvg-id="showtv" tvg-name="SHOW TV 4K+" tvg-logo="https://via.placeholder.com/300x300?text=SHOW+TV" group-title="Spor","SHOW TV 4K+"
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/2874
+#EXTINF:-1 tvg-id="kanald" tvg-name="KANAL D 4K+" tvg-logo="https://via.placeholder.com/300x300?text=KANAL+D" group-title="Spor","KANAL D 4K+"
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/2945
+#EXTINF:-1 tvg-id="startv" tvg-name="STAR TV 4K+" tvg-logo="https://via.placeholder.com/300x300?text=STAR+TV" group-title="Spor","STAR TV 4K+"
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/2855

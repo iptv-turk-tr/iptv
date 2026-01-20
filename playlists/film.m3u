@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="kanal7" tvg-name="KANAL 7 4K+" tvg-logo="https://via.placeholder.com/300x300?text=KANAL+7" group-title="Film","KANAL 7 4K+"
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/2951
+#EXTINF:-1 tvg-id="teve2" tvg-name="TEVE 2 4K+" tvg-logo="https://via.placeholder.com/300x300?text=TEVE+2" group-title="Film","TEVE 2 4K+"
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/2850
+#EXTINF:-1 tvg-id="beyaztv" tvg-name="BEYAZ TV 4K+" tvg-logo="https://via.placeholder.com/300x300?text=BEYAZ+TV" group-title="Film","BEYAZ TV 4K+"
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/3017
